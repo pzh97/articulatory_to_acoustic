@@ -44,7 +44,7 @@ def transcription_generator(filename):
             lines.append(new_line)
 
     with open('transcript.txt', 'w') as w:
-        w.write(lines[0])
+        w.write(lines[1])
 
 
 ema_reader('./mocha_timit/msak0_v1.1/msak0_001.ema')

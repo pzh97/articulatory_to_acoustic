@@ -1,14 +1,14 @@
 import textgrids
 import sys
 import numpy as np
-from data import time_vec
+from input_data import time_vec
 
-def output_builder(testgrid):
+def output_builder(textgrid):
     phon_max = []
     count = 0
     labels = []
 
-    grid = textgrids.TextGrid('./test.TextGrid')
+    grid = textgrids.TextGrid(textgrid)
 
 
     for phon in grid['phones']:
