@@ -5,6 +5,7 @@ import librosa
 import re
 import sys
 import textgrids
+import os
 
 def ema_reader(filename):
     global time_vec
@@ -40,14 +41,20 @@ def transcription_generator(filename):
     with open(filename) as t:
         lines = []
         for line in t:
-            new_line = re.sub(order, '', line).replace('. ', '').replace('.', '')
-            lines.append(new_line)
-
-    with open('transcript.txt', 'w') as w:
-        w.write(lines[1])
+            new_line = re.sub(order, '', line).replace('. ', '').replace('.', '').replace('?', '').replace('\'', '').replace(',', '').replace('\"', '').replace('-', ' ')
+            new_line = new_line.strip()
+            if new_line:
+                lines.append(new_line)
+    path = r'./corpus'
+    if not os.path.exists(path):
+        os.makedirs(path)
+                
+    for i in range(len(lines)):
+        with open("./corpus/msak0_%i.txt"%i, 'w') as w:
+            w.write(lines[i])
 
 
 ema_reader('./mocha_timit/msak0_v1.1/msak0_001.ema')
-transcription_generator('./mocha_timit/msak0_v1.1/mocha-timit.txt')
+transcription_generator('./mocha-timit.txt')
 
 
