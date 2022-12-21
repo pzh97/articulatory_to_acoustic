@@ -5,26 +5,22 @@ from input_data import time_vec
 
 def output_builder(textgrid):
     phon_max = []
-    count = 0
-    labels = []
+    labels = ['aj', 'aw', 'b', 'bʲ', 'c', 'cʰ', 'd', 'dʒ', 'dʲ', 'd̪', 'ej', 'f', 'fʲ', 'h', 'i', 'iː', 'j', 'k', 'kʰ', 'l', 'm', 'mʲ', 'm̩', 'n', 'n̩', 'p', 'pʰ', 'pʲ', 's', 't', 'tʃ', 'tʰ', 'tʲ', 't̪', 'v', 'vʲ', 'w', 'z', 'æ', 'ç', 'ð', 'ŋ', 'ɐ', 'ɑ', 'ɑː', 'ɒ', 'ɒː', 'ɔj', 'ə', 'əw', 'ɛ', 'ɛː', 'ɜ', 'ɜː', 'ɟ', 'ɡ', 'ɪ', 'ɫ', 'ɫ̩', 'ɱ', 'ɲ', 'ɹ', 'ʃ', 'ʉ', 'ʉː', 'ʊ', 'ʎ', 'ʒ', 'ʔ', 'θ', '']
 
     grid = textgrids.TextGrid(textgrid)
 
 
     for phon in grid['phones']:
-        count+=1
         label = phon.text.transcode()
-        labels.append(label)
         print('"{}";{};{}'.format(label, phon.xmin, phon.xmax))
         phon_max.append(phon.xmax)
 
     print(phon_max)
-    print(count)
     output_array = np.zeros(len(time_vec))
     phone_value = {}
     print(labels)
 
-    for i in range(count):
+    for i in range(len(labels)):
         phone_value[labels[i]] = i
     print(phone_value)
     index = []
@@ -50,4 +46,4 @@ def output_builder(textgrid):
     print(len(output_array))
     print(len(time_vec))
 
-output_builder('./test.TextGrid')
+#output_builder('./test.TextGrid')
