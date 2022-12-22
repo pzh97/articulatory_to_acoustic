@@ -50,7 +50,7 @@ def transcription_generator(filename):
         os.makedirs(path)
                 
     for i in range(len(lines)):
-        with open("./corpus/msak0_%i.txt"%i, 'w') as w:
+        with open("./corpus/msak0_%03d.txt"%(i+1), 'w') as w:
             w.write(lines[i])
 
 
