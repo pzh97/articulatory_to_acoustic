@@ -35,6 +35,7 @@ def ema_reader(filename):
     
     time_vec = mtx[:, 0]
     print(time_vec)
+    return mtx
 
 def transcription_generator(filename):
     order = r'[0-9]'
@@ -54,7 +55,7 @@ def transcription_generator(filename):
             w.write(lines[i])
 
 
-ema_reader('./mocha_timit/msak0_v1.1/msak0_001.ema')
+ema_reader('./mocha_timit/msak0_v1.1/msak0_100.ema')
 transcription_generator('./mocha-timit.txt')
 
 
