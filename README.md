@@ -17,3 +17,6 @@ mfa validate ./corpus english_mfa english_mfa
 ```
 mfa align ./corpus english_mfa english_mfa ./corpus/textgrids
 ```
+```
+find ./textgrids -type f -exec sed -i -e 's/"spn"/""/g' {} \;
+```
