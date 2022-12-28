@@ -20,3 +20,5 @@ mfa align ./corpus english_mfa english_mfa ./corpus/textgrids
 ```
 find ./textgrids -type f -exec sed -i -e 's/"spn"/""/g' {} \;
 ```
+## issues
+male speaker error. discard data 268
