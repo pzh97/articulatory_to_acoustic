@@ -54,10 +54,10 @@ item []:
             text = "surface" 
         intervals [11]:
             xmin = 2.84 
-            xmax = 2.92 
+            xmax = 2.91 
             text = "of" 
         intervals [12]:
-            xmin = 2.92 
+            xmin = 2.91 
             xmax = 2.99 
             text = "the" 
         intervals [13]:
@@ -220,10 +220,10 @@ item []:
             text = "ə" 
         intervals [36]:
             xmin = 2.88 
-            xmax = 2.92 
+            xmax = 2.91 
             text = "v" 
         intervals [37]:
-            xmin = 2.92 
+            xmin = 2.91 
             xmax = 2.95 
             text = "ð" 
         intervals [38]:

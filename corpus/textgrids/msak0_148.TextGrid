@@ -128,10 +128,10 @@ item []:
             text = "ɛ" 
         intervals [21]:
             xmin = 1.9 
-            xmax = 1.96 
+            xmax = 1.95 
             text = "v" 
         intervals [22]:
-            xmin = 1.96 
+            xmin = 1.95 
             xmax = 2 
             text = "ə" 
         intervals [23]:

@@ -88,10 +88,10 @@ item []:
             text = "s" 
         intervals [11]:
             xmin = 1.67 
-            xmax = 1.72 
+            xmax = 1.71 
             text = "ɪ" 
         intervals [12]:
-            xmin = 1.72 
+            xmin = 1.71 
             xmax = 1.8 
             text = "z" 
         intervals [13]:

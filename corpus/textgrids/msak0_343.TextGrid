@@ -14,10 +14,10 @@ item []:
         intervals: size = 10 
         intervals [1]:
             xmin = 0 
-            xmax = 1.17 
+            xmax = 1.16 
             text = "" 
         intervals [2]:
-            xmin = 1.17 
+            xmin = 1.16 
             xmax = 1.28 
             text = "the" 
         intervals [3]:
@@ -60,10 +60,10 @@ item []:
         intervals: size = 31 
         intervals [1]:
             xmin = 0 
-            xmax = 1.17 
+            xmax = 1.16 
             text = "" 
         intervals [2]:
-            xmin = 1.17 
+            xmin = 1.16 
             xmax = 1.22 
             text = "ð" 
         intervals [3]:
@@ -84,10 +84,10 @@ item []:
             text = "k" 
         intervals [7]:
             xmin = 1.62 
-            xmax = 1.69 
+            xmax = 1.68 
             text = "m" 
         intervals [8]:
-            xmin = 1.69 
+            xmin = 1.68 
             xmax = 1.76 
             text = "ɜː" 
         intervals [9]:
@@ -108,10 +108,10 @@ item []:
             text = "ə" 
         intervals [13]:
             xmin = 2.02 
-            xmax = 2.08 
+            xmax = 2.07 
             text = "ɡ" 
         intervals [14]:
-            xmin = 2.08 
+            xmin = 2.07 
             xmax = 2.24 
             text = "ʉː" 
         intervals [15]:
@@ -144,10 +144,10 @@ item []:
             text = "ɹ" 
         intervals [22]:
             xmin = 2.7 
-            xmax = 2.85 
+            xmax = 2.86 
             text = "aw" 
         intervals [23]:
-            xmin = 2.85 
+            xmin = 2.86 
             xmax = 2.89 
             text = "n" 
         intervals [24]:

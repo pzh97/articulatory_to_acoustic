@@ -38,10 +38,10 @@ item []:
             text = "clamp" 
         intervals [7]:
             xmin = 1.88 
-            xmax = 2.22 
+            xmax = 2.23 
             text = "solves" 
         intervals [8]:
-            xmin = 2.22 
+            xmin = 2.23 
             xmax = 2.29 
             text = "the" 
         intervals [9]:
@@ -160,10 +160,10 @@ item []:
             text = "v" 
         intervals [26]:
             xmin = 2.17 
-            xmax = 2.22 
+            xmax = 2.23 
             text = "z" 
         intervals [27]:
-            xmin = 2.22 
+            xmin = 2.23 
             xmax = 2.26 
             text = "ð" 
         intervals [28]:

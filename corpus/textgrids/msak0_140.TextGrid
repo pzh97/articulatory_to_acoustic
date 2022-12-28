@@ -192,10 +192,10 @@ item []:
             text = "pʰ" 
         intervals [35]:
             xmin = 2.75 
-            xmax = 2.85 
+            xmax = 2.86 
             text = "ɝ" 
         intervals [36]:
-            xmin = 2.85 
+            xmin = 2.86 
             xmax = 2.99 
             text = "fʲ" 
         intervals [37]:

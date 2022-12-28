@@ -164,10 +164,10 @@ item []:
             text = "b" 
         intervals [26]:
             xmin = 2.57 
-            xmax = 2.62 
+            xmax = 2.63 
             text = "ɒ" 
         intervals [27]:
-            xmin = 2.62 
+            xmin = 2.63 
             xmax = 2.71 
             text = "ɱ" 
         intervals [28]:

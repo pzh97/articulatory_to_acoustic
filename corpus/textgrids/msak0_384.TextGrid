@@ -42,10 +42,10 @@ item []:
             text = "the" 
         intervals [8]:
             xmin = 1.83 
-            xmax = 2.07 
+            xmax = 2.06 
             text = "new" 
         intervals [9]:
-            xmin = 2.07 
+            xmin = 2.06 
             xmax = 2.76 
             text = "archeological" 
         intervals [10]:
@@ -132,10 +132,10 @@ item []:
             text = "ɲ" 
         intervals [18]:
             xmin = 1.97 
-            xmax = 2.07 
+            xmax = 2.06 
             text = "ʉː" 
         intervals [19]:
-            xmin = 2.07 
+            xmin = 2.06 
             xmax = 2.17 
             text = "ɑː" 
         intervals [20]:

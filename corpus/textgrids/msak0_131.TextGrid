@@ -68,10 +68,10 @@ item []:
             text = "ɡ" 
         intervals [5]:
             xmin = 1 
-            xmax = 1.03 
+            xmax = 1.04 
             text = "ɒː" 
         intervals [6]:
-            xmin = 1.03 
+            xmin = 1.04 
             xmax = 1.16 
             text = "ɹ" 
         intervals [7]:

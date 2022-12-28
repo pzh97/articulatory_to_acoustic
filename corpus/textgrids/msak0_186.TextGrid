@@ -30,10 +30,10 @@ item []:
             text = "enjoy" 
         intervals [5]:
             xmin = 1.51 
-            xmax = 1.69 
+            xmax = 1.68 
             text = "ice" 
         intervals [6]:
-            xmin = 1.69 
+            xmin = 1.68 
             xmax = 1.95 
             text = "cream" 
         intervals [7]:
@@ -92,10 +92,10 @@ item []:
             text = "aj" 
         intervals [11]:
             xmin = 1.61 
-            xmax = 1.69 
+            xmax = 1.68 
             text = "s" 
         intervals [12]:
-            xmin = 1.69 
+            xmin = 1.68 
             xmax = 1.78 
             text = "c" 
         intervals [13]:

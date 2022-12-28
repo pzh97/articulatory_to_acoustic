@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.75 
-            xmax = 1.43 
+            xmax = 1.42 
             text = "pizzerias" 
         intervals [3]:
-            xmin = 1.43 
+            xmin = 1.42 
             xmax = 1.47 
             text = "are" 
         intervals [4]:
@@ -42,10 +42,10 @@ item []:
             text = "quick" 
         intervals [8]:
             xmin = 2.42 
-            xmax = 2.84 
+            xmax = 2.83 
             text = "lunch" 
         intervals [9]:
-            xmin = 2.84 
+            xmin = 2.83 
             xmax = 3.4688125 
             text = "" 
     item [2]:
@@ -60,10 +60,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.75 
-            xmax = 1.43 
-            text = "spn" 
+            xmax = 1.42 
+            text = "" 
         intervals [3]:
-            xmin = 1.43 
+            xmin = 1.42 
             xmax = 1.47 
             text = "ə" 
         intervals [4]:
@@ -144,9 +144,9 @@ item []:
             text = "n" 
         intervals [23]:
             xmin = 2.63 
-            xmax = 2.84 
+            xmax = 2.83 
             text = "tʃ" 
         intervals [24]:
-            xmin = 2.84 
+            xmin = 2.83 
             xmax = 3.4688125 
             text = "" 

@@ -30,10 +30,10 @@ item []:
             text = "team" 
         intervals [5]:
             xmin = 1.52 
-            xmax = 1.92 
+            xmax = 1.91 
             text = "coach" 
         intervals [6]:
-            xmin = 1.92 
+            xmin = 1.91 
             xmax = 2.1 
             text = "has" 
         intervals [7]:
@@ -128,10 +128,10 @@ item []:
             text = "ow" 
         intervals [15]:
             xmin = 1.8 
-            xmax = 1.92 
+            xmax = 1.91 
             text = "tʃ" 
         intervals [16]:
-            xmin = 1.92 
+            xmin = 1.91 
             xmax = 1.97 
             text = "h" 
         intervals [17]:

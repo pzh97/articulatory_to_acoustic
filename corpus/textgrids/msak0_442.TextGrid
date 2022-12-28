@@ -161,7 +161,7 @@ item []:
         intervals [23]:
             xmin = 2.24 
             xmax = 2.86 
-            text = "spn" 
+            text = "" 
         intervals [24]:
             xmin = 2.86 
             xmax = 2.89 
@@ -176,10 +176,10 @@ item []:
             text = "s" 
         intervals [27]:
             xmin = 3.02 
-            xmax = 3.07 
+            xmax = 3.06 
             text = "t" 
         intervals [28]:
-            xmin = 3.07 
+            xmin = 3.06 
             xmax = 3.11 
             text = "ɛ" 
         intervals [29]:

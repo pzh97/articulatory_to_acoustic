@@ -58,10 +58,10 @@ item []:
             text = "paragraph" 
         intervals [12]:
             xmin = 3.84 
-            xmax = 3.96 
+            xmax = 3.95 
             text = "on" 
         intervals [13]:
-            xmin = 3.96 
+            xmin = 3.95 
             xmax = 4.02 
             text = "the" 
         intervals [14]:
@@ -96,10 +96,10 @@ item []:
             text = "d" 
         intervals [5]:
             xmin = 1.15 
-            xmax = 1.21 
+            xmax = 1.2 
             text = "ɪ" 
         intervals [6]:
-            xmin = 1.21 
+            xmin = 1.2 
             xmax = 1.28 
             text = "z" 
         intervals [7]:
@@ -248,14 +248,14 @@ item []:
             text = "ɒ" 
         intervals [43]:
             xmin = 3.88 
-            xmax = 3.96 
+            xmax = 3.95 
             text = "n" 
         intervals [44]:
-            xmin = 3.96 
-            xmax = 3.99 
+            xmin = 3.95 
+            xmax = 3.98 
             text = "ð" 
         intervals [45]:
-            xmin = 3.99 
+            xmin = 3.98 
             xmax = 4.02 
             text = "ə" 
         intervals [46]:

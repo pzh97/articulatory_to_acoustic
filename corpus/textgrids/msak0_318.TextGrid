@@ -50,10 +50,10 @@ item []:
             text = "you" 
         intervals [10]:
             xmin = 2.65 
-            xmax = 2.86 
+            xmax = 2.85 
             text = "go" 
         intervals [11]:
-            xmin = 2.86 
+            xmin = 2.85 
             xmax = 3.25 
             text = "out" 
         intervals [12]:
@@ -156,10 +156,10 @@ item []:
             text = "ɪ" 
         intervals [23]:
             xmin = 2.34 
-            xmax = 2.44 
+            xmax = 2.45 
             text = "f" 
         intervals [24]:
-            xmin = 2.44 
+            xmin = 2.45 
             xmax = 2.49 
             text = "ɒː" 
         intervals [25]:
@@ -176,14 +176,14 @@ item []:
             text = "ɡ" 
         intervals [28]:
             xmin = 2.77 
-            xmax = 2.86 
+            xmax = 2.85 
             text = "əw" 
         intervals [29]:
-            xmin = 2.86 
-            xmax = 3.02 
+            xmin = 2.85 
+            xmax = 3.03 
             text = "aw" 
         intervals [30]:
-            xmin = 3.02 
+            xmin = 3.03 
             xmax = 3.25 
             text = "t" 
         intervals [31]:

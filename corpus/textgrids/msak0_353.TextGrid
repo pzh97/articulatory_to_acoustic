@@ -220,10 +220,10 @@ item []:
             text = "ɜː" 
         intervals [38]:
             xmin = 3.14 
-            xmax = 3.22 
+            xmax = 3.23 
             text = "b" 
         intervals [39]:
-            xmin = 3.22 
+            xmin = 3.23 
             xmax = 3.27 
             text = "ə" 
         intervals [40]:

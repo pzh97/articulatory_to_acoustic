@@ -18,14 +18,14 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.69 
-            xmax = 1.3 
+            xmax = 1.31 
             text = "iguanas" 
         intervals [3]:
-            xmin = 1.3 
-            xmax = 1.34 
+            xmin = 1.31 
+            xmax = 1.32 
             text = "and" 
         intervals [4]:
-            xmin = 1.34 
+            xmin = 1.32 
             xmax = 1.97 
             text = "alligators" 
         intervals [5]:
@@ -56,14 +56,14 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.69 
-            xmax = 1.3 
-            text = "spn" 
+            xmax = 1.31 
+            text = "" 
         intervals [3]:
-            xmin = 1.3 
-            xmax = 1.34 
+            xmin = 1.31 
+            xmax = 1.32 
             text = "n̩" 
         intervals [4]:
-            xmin = 1.34 
+            xmin = 1.32 
             xmax = 1.42 
             text = "æ" 
         intervals [5]:

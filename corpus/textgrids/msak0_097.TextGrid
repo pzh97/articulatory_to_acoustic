@@ -204,10 +204,10 @@ item []:
             text = "f" 
         intervals [36]:
             xmin = 3.94 
-            xmax = 4.01 
+            xmax = 4.02 
             text = "ɹ" 
         intervals [37]:
-            xmin = 4.01 
+            xmin = 4.02 
             xmax = 4.08 
             text = "ʉː" 
         intervals [38]:

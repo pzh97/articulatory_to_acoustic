@@ -46,10 +46,10 @@ item []:
             text = "in" 
         intervals [9]:
             xmin = 2.57 
-            xmax = 3.07 
+            xmax = 3.05 
             text = "seattle" 
         intervals [10]:
-            xmin = 3.07 
+            xmin = 3.05 
             xmax = 3.9686875 
             text = "" 
     item [2]:
@@ -65,7 +65,7 @@ item []:
         intervals [2]:
             xmin = 0.77 
             xmax = 1.22 
-            text = "spn" 
+            text = "" 
         intervals [3]:
             xmin = 1.22 
             xmax = 1.26 
@@ -112,10 +112,10 @@ item []:
             text = "v" 
         intervals [14]:
             xmin = 1.95 
-            xmax = 1.98 
+            xmax = 1.99 
             text = "ɛ" 
         intervals [15]:
-            xmin = 1.98 
+            xmin = 1.99 
             xmax = 2.05 
             text = "ɹ" 
         intervals [16]:
@@ -168,9 +168,9 @@ item []:
             text = "t" 
         intervals [28]:
             xmin = 2.92 
-            xmax = 3.07 
+            xmax = 3.05 
             text = "ɫ̩" 
         intervals [29]:
-            xmin = 3.07 
+            xmin = 3.05 
             xmax = 3.9686875 
             text = "" 

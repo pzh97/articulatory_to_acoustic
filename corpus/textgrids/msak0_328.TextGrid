@@ -124,10 +124,10 @@ item []:
             text = "ð" 
         intervals [17]:
             xmin = 1.55 
-            xmax = 1.62 
+            xmax = 1.63 
             text = "ɛ" 
         intervals [18]:
-            xmin = 1.62 
+            xmin = 1.63 
             xmax = 1.7 
             text = "m" 
         intervals [19]:

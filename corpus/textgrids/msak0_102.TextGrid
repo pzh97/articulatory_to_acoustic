@@ -30,10 +30,10 @@ item []:
             text = "decorate" 
         intervals [5]:
             xmin = 2.39 
-            xmax = 2.5 
+            xmax = 2.52 
             text = "their" 
         intervals [6]:
-            xmin = 2.5 
+            xmin = 2.52 
             xmax = 3.06 
             text = "classrooms" 
         intervals [7]:
@@ -164,10 +164,10 @@ item []:
             text = "ɛ" 
         intervals [27]:
             xmin = 2.46 
-            xmax = 2.5 
+            xmax = 2.52 
             text = "ɹ" 
         intervals [28]:
-            xmin = 2.5 
+            xmin = 2.52 
             xmax = 2.62 
             text = "c" 
         intervals [29]:

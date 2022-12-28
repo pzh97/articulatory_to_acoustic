@@ -30,10 +30,10 @@ item []:
             text = "cutbacks" 
         intervals [5]:
             xmin = 2.32 
-            xmax = 2.64 
+            xmax = 2.65 
             text = "neglect" 
         intervals [6]:
-            xmin = 2.64 
+            xmin = 2.65 
             xmax = 2.73 
             text = "the" 
         intervals [7]:
@@ -156,10 +156,10 @@ item []:
             text = "s" 
         intervals [28]:
             xmin = 2.32 
-            xmax = 2.36 
+            xmax = 2.37 
             text = "ɲ" 
         intervals [29]:
-            xmin = 2.36 
+            xmin = 2.37 
             xmax = 2.41 
             text = "ɪ" 
         intervals [30]:
@@ -180,10 +180,10 @@ item []:
             text = "k" 
         intervals [34]:
             xmin = 2.6 
-            xmax = 2.64 
+            xmax = 2.65 
             text = "t" 
         intervals [35]:
-            xmin = 2.64 
+            xmin = 2.65 
             xmax = 2.69 
             text = "ð" 
         intervals [36]:

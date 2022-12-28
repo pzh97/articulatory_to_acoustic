@@ -140,10 +140,10 @@ item []:
             text = "ɾ" 
         intervals [23]:
             xmin = 2.28 
-            xmax = 2.36 
+            xmax = 2.37 
             text = "i" 
         intervals [24]:
-            xmin = 2.36 
+            xmin = 2.37 
             xmax = 2.42 
             text = "ɑ" 
         intervals [25]:

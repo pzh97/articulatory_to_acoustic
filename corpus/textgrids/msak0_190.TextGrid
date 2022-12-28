@@ -26,10 +26,10 @@ item []:
             text = "a" 
         intervals [4]:
             xmin = 1.04 
-            xmax = 1.45 
+            xmax = 1.46 
             text = "tomboy" 
         intervals [5]:
-            xmin = 1.45 
+            xmin = 1.46 
             xmax = 1.7 
             text = "often" 
         intervals [6]:
@@ -88,10 +88,10 @@ item []:
             text = "b" 
         intervals [10]:
             xmin = 1.32 
-            xmax = 1.45 
+            xmax = 1.46 
             text = "ɔj" 
         intervals [11]:
-            xmin = 1.45 
+            xmin = 1.46 
             xmax = 1.52 
             text = "ɒ" 
         intervals [12]:

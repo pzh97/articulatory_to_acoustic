@@ -140,10 +140,10 @@ item []:
             text = "b" 
         intervals [21]:
             xmin = 2.06 
-            xmax = 2.1 
+            xmax = 2.09 
             text = "ə" 
         intervals [22]:
-            xmin = 2.1 
+            xmin = 2.09 
             xmax = 2.21 
             text = "f" 
         intervals [23]:

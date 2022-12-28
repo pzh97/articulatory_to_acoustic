@@ -224,10 +224,10 @@ item []:
             text = "h" 
         intervals [40]:
             xmin = 3.56 
-            xmax = 3.72 
-            text = "ow" 
+            xmax = 3.64 
+            text = "əw" 
         intervals [41]:
-            xmin = 3.72 
+            xmin = 3.64 
             xmax = 3.76 
             text = "ɫ" 
         intervals [42]:

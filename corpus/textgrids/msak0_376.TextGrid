@@ -42,10 +42,10 @@ item []:
             text = "the" 
         intervals [8]:
             xmin = 2.32 
-            xmax = 2.56 
+            xmax = 2.55 
             text = "best" 
         intervals [9]:
-            xmin = 2.56 
+            xmin = 2.55 
             xmax = 2.78 
             text = "time" 
         intervals [10]:
@@ -136,14 +136,14 @@ item []:
             text = "ɛ" 
         intervals [18]:
             xmin = 2.45 
-            xmax = 2.53 
+            xmax = 2.52 
             text = "s" 
         intervals [19]:
-            xmin = 2.53 
-            xmax = 2.56 
+            xmin = 2.52 
+            xmax = 2.55 
             text = "t" 
         intervals [20]:
-            xmin = 2.56 
+            xmin = 2.55 
             xmax = 2.62 
             text = "tʰ" 
         intervals [21]:

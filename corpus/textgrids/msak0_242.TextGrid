@@ -97,7 +97,7 @@ item []:
         intervals [13]:
             xmin = 1.53 
             xmax = 1.91 
-            text = "spn" 
+            text = "" 
         intervals [14]:
             xmin = 1.91 
             xmax = 3.219 

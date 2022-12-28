@@ -46,10 +46,10 @@ item []:
             text = "the" 
         intervals [9]:
             xmin = 2.27 
-            xmax = 2.62 
+            xmax = 2.61 
             text = "oil" 
         intervals [10]:
-            xmin = 2.62 
+            xmin = 2.61 
             xmax = 3.718625 
             text = "" 
     item [2]:
@@ -100,10 +100,10 @@ item []:
             text = "s" 
         intervals [11]:
             xmin = 1.4 
-            xmax = 1.44 
+            xmax = 1.43 
             text = "l" 
         intervals [12]:
-            xmin = 1.44 
+            xmin = 1.43 
             xmax = 1.57 
             text = "ɒː" 
         intervals [13]:
@@ -148,9 +148,9 @@ item []:
             text = "ɔj" 
         intervals [23]:
             xmin = 2.43 
-            xmax = 2.62 
+            xmax = 2.61 
             text = "ɫ" 
         intervals [24]:
-            xmin = 2.62 
+            xmin = 2.61 
             xmax = 3.718625 
             text = "" 

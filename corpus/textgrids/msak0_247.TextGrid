@@ -34,10 +34,10 @@ item []:
             text = "a" 
         intervals [6]:
             xmin = 1.46 
-            xmax = 1.92 
+            xmax = 1.95 
             text = "parfait" 
         intervals [7]:
-            xmin = 1.92 
+            xmin = 1.95 
             xmax = 2.17 
             text = "after" 
         intervals [8]:
@@ -100,22 +100,22 @@ item []:
             text = "pʰ" 
         intervals [10]:
             xmin = 1.55 
-            xmax = 1.62 
-            text = "ɑ" 
+            xmax = 1.65 
+            text = "ɑː" 
         intervals [11]:
-            xmin = 1.62 
-            xmax = 1.66 
-            text = "ɹ" 
-        intervals [12]:
-            xmin = 1.66 
+            xmin = 1.65 
             xmax = 1.8 
             text = "f" 
-        intervals [13]:
+        intervals [12]:
             xmin = 1.8 
             xmax = 1.92 
             text = "ej" 
-        intervals [14]:
+        intervals [13]:
             xmin = 1.92 
+            xmax = 1.95 
+            text = "ʔ" 
+        intervals [14]:
+            xmin = 1.95 
             xmax = 1.98 
             text = "æ" 
         intervals [15]:

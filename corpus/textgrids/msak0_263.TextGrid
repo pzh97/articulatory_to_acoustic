@@ -149,11 +149,11 @@ item []:
         intervals [24]:
             xmin = 2.24 
             xmax = 2.32 
-            text = "aw" 
+            text = "ɑ" 
         intervals [25]:
             xmin = 2.32 
             xmax = 2.37 
-            text = "ə" 
+            text = "ɹ" 
         intervals [26]:
             xmin = 2.37 
             xmax = 2.45 

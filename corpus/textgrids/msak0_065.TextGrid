@@ -30,10 +30,10 @@ item []:
             text = "generals" 
         intervals [5]:
             xmin = 1.72 
-            xmax = 2.51 
+            xmax = 2.5 
             text = "intelligence" 
         intervals [6]:
-            xmin = 2.51 
+            xmin = 2.5 
             xmax = 3.4686875 
             text = "" 
     item [2]:
@@ -144,9 +144,9 @@ item []:
             text = "n" 
         intervals [26]:
             xmin = 2.33 
-            xmax = 2.51 
+            xmax = 2.5 
             text = "s" 
         intervals [27]:
-            xmin = 2.51 
+            xmin = 2.5 
             xmax = 3.4686875 
             text = "" 

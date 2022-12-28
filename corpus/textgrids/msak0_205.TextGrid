@@ -14,10 +14,10 @@ item []:
         intervals: size = 9 
         intervals [1]:
             xmin = 0 
-            xmax = 0.83 
+            xmax = 0.84 
             text = "" 
         intervals [2]:
-            xmin = 0.83 
+            xmin = 0.84 
             xmax = 1.25 
             text = "approach" 
         intervals [3]:
@@ -56,10 +56,10 @@ item []:
         intervals: size = 28 
         intervals [1]:
             xmin = 0 
-            xmax = 0.83 
+            xmax = 0.84 
             text = "" 
         intervals [2]:
-            xmin = 0.83 
+            xmin = 0.84 
             xmax = 0.92 
             text = "ə" 
         intervals [3]:
@@ -105,7 +105,7 @@ item []:
         intervals [13]:
             xmin = 1.6 
             xmax = 1.63 
-            text = "ə" 
+            text = "ɚ" 
         intervals [14]:
             xmin = 1.63 
             xmax = 1.68 
@@ -129,7 +129,7 @@ item []:
         intervals [19]:
             xmin = 1.93 
             xmax = 2.5 
-            text = "spn" 
+            text = "" 
         intervals [20]:
             xmin = 2.5 
             xmax = 2.54 

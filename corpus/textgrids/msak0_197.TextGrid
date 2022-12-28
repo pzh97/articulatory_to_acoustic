@@ -112,10 +112,10 @@ item []:
             text = "ɒː" 
         intervals [14]:
             xmin = 1.94 
-            xmax = 1.99 
+            xmax = 1.98 
             text = "ɫ" 
         intervals [15]:
-            xmin = 1.99 
+            xmin = 1.98 
             xmax = 2.05 
             text = "w" 
         intervals [16]:

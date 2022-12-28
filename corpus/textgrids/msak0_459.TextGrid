@@ -26,10 +26,10 @@ item []:
             text = "developing" 
         intervals [4]:
             xmin = 1.22 
-            xmax = 1.65 
+            xmax = 1.66 
             text = "film" 
         intervals [5]:
-            xmin = 1.65 
+            xmin = 1.66 
             xmax = 1.89 
             text = "many" 
         intervals [6]:
@@ -42,14 +42,14 @@ item []:
             text = "chemicals" 
         intervals [8]:
             xmin = 2.79 
-            xmax = 2.86 
+            xmax = 2.87 
             text = "are" 
         intervals [9]:
-            xmin = 2.86 
-            xmax = 3.36 
+            xmin = 2.87 
+            xmax = 3.37 
             text = "used" 
         intervals [10]:
-            xmin = 3.36 
+            xmin = 3.37 
             xmax = 4.21775 
             text = "" 
     item [2]:
@@ -120,10 +120,10 @@ item []:
             text = "ɫ" 
         intervals [16]:
             xmin = 1.52 
-            xmax = 1.65 
+            xmax = 1.66 
             text = "m" 
         intervals [17]:
-            xmin = 1.65 
+            xmin = 1.66 
             xmax = 1.72 
             text = "m" 
         intervals [18]:
@@ -196,10 +196,10 @@ item []:
             text = "ɑ" 
         intervals [35]:
             xmin = 2.83 
-            xmax = 2.86 
+            xmax = 2.87 
             text = "ɹ" 
         intervals [36]:
-            xmin = 2.86 
+            xmin = 2.87 
             xmax = 3.02 
             text = "j" 
         intervals [37]:
@@ -212,9 +212,9 @@ item []:
             text = "z" 
         intervals [39]:
             xmin = 3.23 
-            xmax = 3.36 
+            xmax = 3.37 
             text = "d" 
         intervals [40]:
-            xmin = 3.36 
+            xmin = 3.37 
             xmax = 4.21775 
             text = "" 

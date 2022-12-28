@@ -38,10 +38,10 @@ item []:
             text = "purists" 
         intervals [7]:
             xmin = 1.87 
-            xmax = 2.06 
+            xmax = 2.05 
             text = "use" 
         intervals [8]:
-            xmin = 2.06 
+            xmin = 2.05 
             xmax = 2.34 
             text = "canned" 
         intervals [9]:
@@ -58,10 +58,10 @@ item []:
             text = "making" 
         intervals [12]:
             xmin = 3.37 
-            xmax = 3.79 
+            xmax = 3.81 
             text = "stew" 
         intervals [13]:
-            xmin = 3.79 
+            xmin = 3.81 
             xmax = 4.7145 
             text = "" 
     item [2]:
@@ -148,10 +148,10 @@ item []:
             text = "ʉː" 
         intervals [20]:
             xmin = 1.98 
-            xmax = 2.06 
+            xmax = 2.05 
             text = "z" 
         intervals [21]:
-            xmin = 2.06 
+            xmin = 2.05 
             xmax = 2.17 
             text = "cʰ" 
         intervals [22]:
@@ -240,9 +240,9 @@ item []:
             text = "tʃ" 
         intervals [43]:
             xmin = 3.59 
-            xmax = 3.79 
+            xmax = 3.81 
             text = "ʉː" 
         intervals [44]:
-            xmin = 3.79 
+            xmin = 3.81 
             xmax = 4.7145 
             text = "" 

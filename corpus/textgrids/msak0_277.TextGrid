@@ -46,10 +46,10 @@ item []:
             text = "ice" 
         intervals [9]:
             xmin = 2.22 
-            xmax = 2.58 
+            xmax = 2.62 
             text = "pop" 
         intervals [10]:
-            xmin = 2.58 
+            xmin = 2.62 
             xmax = 3.469 
             text = "" 
     item [2]:
@@ -64,10 +64,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.79 
-            xmax = 0.87 
+            xmax = 0.88 
             text = "ə" 
         intervals [3]:
-            xmin = 0.87 
+            xmin = 0.88 
             xmax = 0.91 
             text = "l" 
         intervals [4]:
@@ -144,9 +144,9 @@ item []:
             text = "ɑ" 
         intervals [22]:
             xmin = 2.35 
-            xmax = 2.58 
+            xmax = 2.62 
             text = "p" 
         intervals [23]:
-            xmin = 2.58 
+            xmin = 2.62 
             xmax = 3.469 
             text = "" 

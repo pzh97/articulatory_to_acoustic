@@ -26,10 +26,10 @@ item []:
             text = "collects" 
         intervals [4]:
             xmin = 1.45 
-            xmax = 1.76 
+            xmax = 1.75 
             text = "rare" 
         intervals [5]:
-            xmin = 1.76 
+            xmin = 1.75 
             xmax = 1.88 
             text = "and" 
         intervals [6]:
@@ -108,10 +108,10 @@ item []:
             text = "ɛ" 
         intervals [14]:
             xmin = 1.68 
-            xmax = 1.76 
+            xmax = 1.75 
             text = "ɹ" 
         intervals [15]:
-            xmin = 1.76 
+            xmin = 1.75 
             xmax = 1.79 
             text = "æ" 
         intervals [16]:

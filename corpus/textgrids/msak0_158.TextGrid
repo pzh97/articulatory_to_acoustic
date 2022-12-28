@@ -136,10 +136,10 @@ item []:
             text = "v" 
         intervals [22]:
             xmin = 2.04 
-            xmax = 2.15 
+            xmax = 2.16 
             text = "aw" 
         intervals [23]:
-            xmin = 2.15 
+            xmin = 2.16 
             xmax = 2.21 
             text = "t" 
         intervals [24]:

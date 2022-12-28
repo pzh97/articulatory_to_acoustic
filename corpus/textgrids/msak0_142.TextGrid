@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.75 
-            xmax = 1.43 
+            xmax = 1.42 
             text = "agricultural" 
         intervals [3]:
-            xmin = 1.43 
+            xmin = 1.42 
             xmax = 1.85 
             text = "products" 
         intervals [4]:
@@ -88,14 +88,14 @@ item []:
             text = "ə" 
         intervals [11]:
             xmin = 1.37 
-            xmax = 1.4 
+            xmax = 1.38 
             text = "ɹ" 
         intervals [12]:
-            xmin = 1.4 
-            xmax = 1.43 
+            xmin = 1.38 
+            xmax = 1.42 
             text = "ɫ̩" 
         intervals [13]:
-            xmin = 1.43 
+            xmin = 1.42 
             xmax = 1.52 
             text = "p" 
         intervals [14]:

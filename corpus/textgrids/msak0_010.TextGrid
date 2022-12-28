@@ -108,10 +108,10 @@ item []:
             text = "h" 
         intervals [13]:
             xmin = 1.33 
-            xmax = 1.44 
+            xmax = 1.43 
             text = "aj" 
         intervals [14]:
-            xmin = 1.44 
+            xmin = 1.43 
             xmax = 1.58 
             text = "ɚ" 
         intervals [15]:
@@ -145,7 +145,7 @@ item []:
         intervals [22]:
             xmin = 2.14 
             xmax = 2.63 
-            text = "spn" 
+            text = "" 
         intervals [23]:
             xmin = 2.63 
             xmax = 3.4626875 

@@ -34,10 +34,10 @@ item []:
             text = "pewter" 
         intervals [6]:
             xmin = 2 
-            xmax = 2.11 
+            xmax = 2.12 
             text = "are" 
         intervals [7]:
-            xmin = 2.11 
+            xmin = 2.12 
             xmax = 2.65 
             text = "beautiful" 
         intervals [8]:
@@ -120,10 +120,10 @@ item []:
             text = "ɑ" 
         intervals [18]:
             xmin = 2.06 
-            xmax = 2.11 
+            xmax = 2.12 
             text = "ɹ" 
         intervals [19]:
-            xmin = 2.11 
+            xmin = 2.12 
             xmax = 2.19 
             text = "bʲ" 
         intervals [20]:

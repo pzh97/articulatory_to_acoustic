@@ -46,10 +46,10 @@ item []:
             text = "barometric" 
         intervals [9]:
             xmin = 2.31 
-            xmax = 2.62 
+            xmax = 2.63 
             text = "pressure" 
         intervals [10]:
-            xmin = 2.62 
+            xmin = 2.63 
             xmax = 3.9686 
             text = "changes" 
         intervals [11]:
@@ -204,10 +204,10 @@ item []:
             text = "ʃ" 
         intervals [36]:
             xmin = 2.55 
-            xmax = 2.62 
+            xmax = 2.63 
             text = "ɚ" 
         intervals [37]:
-            xmin = 2.62 
+            xmin = 2.63 
             xmax = 2.74 
             text = "tʃ" 
         intervals [38]:

@@ -96,10 +96,10 @@ item []:
             text = "ow" 
         intervals [12]:
             xmin = 1.89 
-            xmax = 1.93 
+            xmax = 1.94 
             text = "ɲ" 
         intervals [13]:
-            xmin = 1.93 
+            xmin = 1.94 
             xmax = 1.99 
             text = "i" 
         intervals [14]:
@@ -124,10 +124,10 @@ item []:
             text = "ej" 
         intervals [19]:
             xmin = 2.42 
-            xmax = 2.53 
+            xmax = 2.52 
             text = "ʃ" 
         intervals [20]:
-            xmin = 2.53 
+            xmin = 2.52 
             xmax = 2.56 
             text = "ə" 
         intervals [21]:

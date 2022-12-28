@@ -46,10 +46,10 @@ item []:
             text = "you" 
         intervals [9]:
             xmin = 1.97 
-            xmax = 2.33 
+            xmax = 2.34 
             text = "can" 
         intervals [10]:
-            xmin = 2.33 
+            xmin = 2.34 
             xmax = 3.4690625 
             text = "" 
     item [2]:
@@ -140,9 +140,9 @@ item []:
             text = "æ" 
         intervals [21]:
             xmin = 2.22 
-            xmax = 2.33 
+            xmax = 2.34 
             text = "n" 
         intervals [22]:
-            xmin = 2.33 
+            xmin = 2.34 
             xmax = 3.4690625 
             text = "" 

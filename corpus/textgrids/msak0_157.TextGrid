@@ -38,10 +38,10 @@ item []:
             text = "much" 
         intervals [7]:
             xmin = 1.9 
-            xmax = 2.33 
+            xmax = 2.34 
             text = "chlorine" 
         intervals [8]:
-            xmin = 2.33 
+            xmin = 2.34 
             xmax = 2.48 
             text = "and" 
         intervals [9]:
@@ -108,10 +108,10 @@ item []:
             text = "n" 
         intervals [11]:
             xmin = 1.23 
-            xmax = 1.33 
+            xmax = 1.32 
             text = "tʰ" 
         intervals [12]:
-            xmin = 1.33 
+            xmin = 1.32 
             xmax = 1.42 
             text = "ej" 
         intervals [13]:
@@ -160,14 +160,14 @@ item []:
             text = "ɹ" 
         intervals [24]:
             xmin = 2.2 
-            xmax = 2.3 
+            xmax = 2.31 
             text = "i" 
         intervals [25]:
-            xmin = 2.3 
-            xmax = 2.33 
+            xmin = 2.31 
+            xmax = 2.34 
             text = "n" 
         intervals [26]:
-            xmin = 2.33 
+            xmin = 2.34 
             xmax = 2.39 
             text = "æ" 
         intervals [27]:

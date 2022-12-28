@@ -34,10 +34,10 @@ item []:
             text = "a" 
         intervals [6]:
             xmin = 1.36 
-            xmax = 1.75 
+            xmax = 1.74 
             text = "social" 
         intervals [7]:
-            xmin = 1.75 
+            xmin = 1.74 
             xmax = 2.39 
             text = "outcast" 
         intervals [8]:
@@ -116,10 +116,10 @@ item []:
             text = "ʃ" 
         intervals [17]:
             xmin = 1.68 
-            xmax = 1.75 
+            xmax = 1.74 
             text = "ɫ̩" 
         intervals [18]:
-            xmin = 1.75 
+            xmin = 1.74 
             xmax = 1.85 
             text = "aw" 
         intervals [19]:

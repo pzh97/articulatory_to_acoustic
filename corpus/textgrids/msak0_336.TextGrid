@@ -156,10 +156,10 @@ item []:
             text = "i" 
         intervals [22]:
             xmin = 2.29 
-            xmax = 2.35 
+            xmax = 2.36 
             text = "ow" 
         intervals [23]:
-            xmin = 2.35 
+            xmin = 2.36 
             xmax = 2.44 
             text = "ɫ" 
         intervals [24]:

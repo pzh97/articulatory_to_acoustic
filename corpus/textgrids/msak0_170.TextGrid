@@ -92,10 +92,10 @@ item []:
             text = "cʰ" 
         intervals [10]:
             xmin = 1.18 
-            xmax = 1.29 
+            xmax = 1.3 
             text = "aj" 
         intervals [11]:
-            xmin = 1.29 
+            xmin = 1.3 
             xmax = 1.38 
             text = "æ" 
         intervals [12]:

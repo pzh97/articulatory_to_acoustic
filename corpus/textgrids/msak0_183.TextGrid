@@ -14,10 +14,10 @@ item []:
         intervals: size = 9 
         intervals [1]:
             xmin = 0 
-            xmax = 0.8 
+            xmax = 0.81 
             text = "" 
         intervals [2]:
-            xmin = 0.8 
+            xmin = 0.81 
             xmax = 1.21 
             text = "almost" 
         intervals [3]:
@@ -56,10 +56,10 @@ item []:
         intervals: size = 31 
         intervals [1]:
             xmin = 0 
-            xmax = 0.8 
+            xmax = 0.81 
             text = "" 
         intervals [2]:
-            xmin = 0.8 
+            xmin = 0.81 
             xmax = 0.89 
             text = "ɒ" 
         intervals [3]:

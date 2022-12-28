@@ -96,10 +96,10 @@ item []:
             text = "ow" 
         intervals [11]:
             xmin = 1.49 
-            xmax = 1.56 
+            xmax = 1.55 
             text = "ɫ" 
         intervals [12]:
-            xmin = 1.56 
+            xmin = 1.55 
             xmax = 1.59 
             text = "d" 
         intervals [13]:
@@ -156,14 +156,14 @@ item []:
             text = "l" 
         intervals [26]:
             xmin = 2.33 
-            xmax = 2.45 
+            xmax = 2.44 
             text = "aj" 
         intervals [27]:
-            xmin = 2.45 
-            xmax = 2.52 
+            xmin = 2.44 
+            xmax = 2.53 
             text = "n̩" 
         intervals [28]:
-            xmin = 2.52 
+            xmin = 2.53 
             xmax = 2.63 
             text = "s" 
         intervals [29]:

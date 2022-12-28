@@ -46,10 +46,10 @@ item []:
             text = "room" 
         intervals [9]:
             xmin = 2.11 
-            xmax = 2.72 
+            xmax = 2.73 
             text = "murals" 
         intervals [10]:
-            xmin = 2.72 
+            xmin = 2.73 
             xmax = 3.717875 
             text = "" 
     item [2]:
@@ -168,9 +168,9 @@ item []:
             text = "ɫ̩" 
         intervals [28]:
             xmin = 2.53 
-            xmax = 2.72 
+            xmax = 2.73 
             text = "z" 
         intervals [29]:
-            xmin = 2.72 
+            xmin = 2.73 
             xmax = 3.717875 
             text = "" 

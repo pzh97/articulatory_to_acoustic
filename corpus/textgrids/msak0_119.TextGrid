@@ -30,10 +30,10 @@ item []:
             text = "and" 
         intervals [5]:
             xmin = 1.29 
-            xmax = 1.36 
+            xmax = 1.38 
             text = "the" 
         intervals [6]:
-            xmin = 1.36 
+            xmin = 1.38 
             xmax = 1.9 
             text = "papaya" 
         intervals [7]:
@@ -50,10 +50,10 @@ item []:
             text = "a" 
         intervals [10]:
             xmin = 2.3 
-            xmax = 2.75 
+            xmax = 2.74 
             text = "bowl" 
         intervals [11]:
-            xmin = 2.75 
+            xmin = 2.74 
             xmax = 3.7075 
             text = "" 
     item [2]:
@@ -108,10 +108,10 @@ item []:
             text = "ð" 
         intervals [12]:
             xmin = 1.33 
-            xmax = 1.36 
+            xmax = 1.38 
             text = "ə" 
         intervals [13]:
-            xmin = 1.36 
+            xmin = 1.38 
             xmax = 1.44 
             text = "pʰ" 
         intervals [14]:
@@ -160,9 +160,9 @@ item []:
             text = "əw" 
         intervals [25]:
             xmin = 2.47 
-            xmax = 2.75 
+            xmax = 2.74 
             text = "ɫ" 
         intervals [26]:
-            xmin = 2.75 
+            xmin = 2.74 
             xmax = 3.7075 
             text = "" 
