@@ -42,10 +42,10 @@ item []:
             text = "variety" 
         intervals [8]:
             xmin = 2.41 
-            xmax = 2.71 
+            xmax = 2.72 
             text = "store" 
         intervals [9]:
-            xmin = 2.71 
+            xmin = 2.72 
             xmax = 2.96 
             text = "never" 
         intervals [10]:
@@ -196,10 +196,10 @@ item []:
             text = "ɒ" 
         intervals [34]:
             xmin = 2.67 
-            xmax = 2.71 
+            xmax = 2.72 
             text = "ɹ" 
         intervals [35]:
-            xmin = 2.71 
+            xmin = 2.72 
             xmax = 2.79 
             text = "n" 
         intervals [36]:

@@ -46,10 +46,10 @@ item []:
             text = "by" 
         intervals [9]:
             xmin = 2.31 
-            xmax = 2.53 
+            xmax = 2.52 
             text = "eight" 
         intervals [10]:
-            xmin = 2.53 
+            xmin = 2.52 
             xmax = 2.79 
             text = "cost" 
         intervals [11]:
@@ -164,10 +164,10 @@ item []:
             text = "ej" 
         intervals [23]:
             xmin = 2.42 
-            xmax = 2.53 
+            xmax = 2.52 
             text = "t" 
         intervals [24]:
-            xmin = 2.53 
+            xmin = 2.52 
             xmax = 2.64 
             text = "kʰ" 
         intervals [25]:

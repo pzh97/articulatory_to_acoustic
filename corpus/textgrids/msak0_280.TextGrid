@@ -96,10 +96,10 @@ item []:
             text = "ɹ" 
         intervals [12]:
             xmin = 1.43 
-            xmax = 1.53 
+            xmax = 1.52 
             text = "aj" 
         intervals [13]:
-            xmin = 1.53 
+            xmin = 1.52 
             xmax = 1.57 
             text = "ʔ" 
         intervals [14]:

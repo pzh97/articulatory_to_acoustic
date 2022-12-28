@@ -22,10 +22,10 @@ item []:
             text = "is" 
         intervals [3]:
             xmin = 0.65 
-            xmax = 0.88 
+            xmax = 0.87 
             text = "she" 
         intervals [4]:
-            xmin = 0.88 
+            xmin = 0.87 
             xmax = 1.14 
             text = "going" 
         intervals [5]:
@@ -64,10 +64,10 @@ item []:
             text = "ʃ" 
         intervals [5]:
             xmin = 0.77 
-            xmax = 0.88 
+            xmax = 0.87 
             text = "iː" 
         intervals [6]:
-            xmin = 0.88 
+            xmin = 0.87 
             xmax = 0.92 
             text = "ɡ" 
         intervals [7]:
@@ -76,10 +76,10 @@ item []:
             text = "əw" 
         intervals [8]:
             xmin = 1 
-            xmax = 1.06 
+            xmax = 1.07 
             text = "ɪ" 
         intervals [9]:
-            xmin = 1.06 
+            xmin = 1.07 
             xmax = 1.14 
             text = "ŋ" 
         intervals [10]:

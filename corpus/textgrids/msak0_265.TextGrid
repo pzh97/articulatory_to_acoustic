@@ -172,10 +172,10 @@ item []:
             text = "ʉː" 
         intervals [29]:
             xmin = 2.65 
-            xmax = 2.68 
+            xmax = 2.69 
             text = "ɛ" 
         intervals [30]:
-            xmin = 2.68 
+            xmin = 2.69 
             xmax = 2.76 
             text = "n" 
         intervals [31]:

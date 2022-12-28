@@ -34,10 +34,10 @@ item []:
             text = "argued" 
         intervals [6]:
             xmin = 2.08 
-            xmax = 2.18 
+            xmax = 2.19 
             text = "in" 
         intervals [7]:
-            xmin = 2.18 
+            xmin = 2.19 
             xmax = 2.54 
             text = "favour" 
         intervals [8]:
@@ -128,10 +128,10 @@ item []:
             text = "ɪ" 
         intervals [16]:
             xmin = 2.11 
-            xmax = 2.18 
+            xmax = 2.19 
             text = "n" 
         intervals [17]:
-            xmin = 2.18 
+            xmin = 2.19 
             xmax = 2.3 
             text = "f" 
         intervals [18]:
@@ -188,10 +188,10 @@ item []:
             text = "fʲ" 
         intervals [31]:
             xmin = 3.15 
-            xmax = 3.26 
+            xmax = 3.25 
             text = "ʉː" 
         intervals [32]:
-            xmin = 3.26 
+            xmin = 3.25 
             xmax = 3.34 
             text = "dʒ" 
         intervals [33]:

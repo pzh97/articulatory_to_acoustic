@@ -50,10 +50,10 @@ item []:
             text = "want" 
         intervals [10]:
             xmin = 2.75 
-            xmax = 2.81 
+            xmax = 2.82 
             text = "to" 
         intervals [11]:
-            xmin = 2.81 
+            xmin = 2.82 
             xmax = 3.08 
             text = "save" 
         intervals [12]:
@@ -212,10 +212,10 @@ item []:
             text = "t" 
         intervals [36]:
             xmin = 2.78 
-            xmax = 2.81 
+            xmax = 2.82 
             text = "ə" 
         intervals [37]:
-            xmin = 2.81 
+            xmin = 2.82 
             xmax = 2.91 
             text = "s" 
         intervals [38]:

@@ -240,10 +240,10 @@ item []:
             text = "m" 
         intervals [42]:
             xmin = 3.45 
-            xmax = 3.56 
+            xmax = 3.57 
             text = "ow" 
         intervals [43]:
-            xmin = 3.56 
+            xmin = 3.57 
             xmax = 3.65 
             text = "m" 
         intervals [44]:

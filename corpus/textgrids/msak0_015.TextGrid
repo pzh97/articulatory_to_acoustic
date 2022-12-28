@@ -26,10 +26,10 @@ item []:
             text = "museum" 
         intervals [4]:
             xmin = 1.21 
-            xmax = 1.56 
+            xmax = 1.55 
             text = "hires" 
         intervals [5]:
-            xmin = 1.56 
+            xmin = 1.55 
             xmax = 2.08 
             text = "musicians" 
         intervals [6]:
@@ -96,10 +96,10 @@ item []:
             text = "ə" 
         intervals [12]:
             xmin = 1.48 
-            xmax = 1.56 
+            xmax = 1.55 
             text = "z" 
         intervals [13]:
-            xmin = 1.56 
+            xmin = 1.55 
             xmax = 1.6 
             text = "mʲ" 
         intervals [14]:

@@ -34,10 +34,10 @@ item []:
             text = "zoologist" 
         intervals [6]:
             xmin = 2.11 
-            xmax = 2.57 
+            xmax = 2.58 
             text = "relaxed" 
         intervals [7]:
-            xmin = 2.57 
+            xmin = 2.58 
             xmax = 2.94 
             text = "throughout" 
         intervals [8]:
@@ -120,10 +120,10 @@ item []:
             text = "ə" 
         intervals [16]:
             xmin = 1.78 
-            xmax = 1.87 
+            xmax = 1.86 
             text = "dʒ" 
         intervals [17]:
-            xmin = 1.87 
+            xmin = 1.86 
             xmax = 1.95 
             text = "ɪ" 
         intervals [18]:
@@ -160,10 +160,10 @@ item []:
             text = "s" 
         intervals [26]:
             xmin = 2.5 
-            xmax = 2.57 
+            xmax = 2.58 
             text = "t" 
         intervals [27]:
-            xmin = 2.57 
+            xmin = 2.58 
             xmax = 2.67 
             text = "θ" 
         intervals [28]:

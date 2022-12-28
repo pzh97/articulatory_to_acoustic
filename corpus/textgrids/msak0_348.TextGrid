@@ -42,10 +42,10 @@ item []:
             text = "subdued" 
         intervals [8]:
             xmin = 2.58 
-            xmax = 2.72 
+            xmax = 2.73 
             text = "by" 
         intervals [9]:
-            xmin = 2.72 
+            xmin = 2.73 
             xmax = 2.88 
             text = "his" 
         intervals [10]:
@@ -188,10 +188,10 @@ item []:
             text = "b" 
         intervals [31]:
             xmin = 2.64 
-            xmax = 2.72 
+            xmax = 2.73 
             text = "aj" 
         intervals [32]:
-            xmin = 2.72 
+            xmin = 2.73 
             xmax = 2.76 
             text = "ç" 
         intervals [33]:

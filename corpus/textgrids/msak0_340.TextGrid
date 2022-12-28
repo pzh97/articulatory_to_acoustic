@@ -141,7 +141,7 @@ item []:
         intervals [16]:
             xmin = 1.85 
             xmax = 2.31 
-            text = "spn" 
+            text = "" 
         intervals [17]:
             xmin = 2.31 
             xmax = 2.36 
@@ -152,10 +152,10 @@ item []:
             text = "n" 
         intervals [19]:
             xmin = 2.39 
-            xmax = 2.46 
+            xmax = 2.45 
             text = "ç" 
         intervals [20]:
-            xmin = 2.46 
+            xmin = 2.45 
             xmax = 2.49 
             text = "ɪ" 
         intervals [21]:

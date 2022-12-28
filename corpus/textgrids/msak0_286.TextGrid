@@ -152,10 +152,10 @@ item []:
             text = "w" 
         intervals [21]:
             xmin = 1.96 
-            xmax = 2 
+            xmax = 1.99 
             text = "ɪ" 
         intervals [22]:
-            xmin = 2 
+            xmin = 1.99 
             xmax = 2.07 
             text = "θ" 
         intervals [23]:

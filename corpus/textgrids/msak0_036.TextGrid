@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.76 
-            xmax = 1.01 
+            xmax = 1.02 
             text = "only" 
         intervals [3]:
-            xmin = 1.01 
+            xmin = 1.02 
             xmax = 1.09 
             text = "the" 
         intervals [4]:
@@ -68,18 +68,18 @@ item []:
             text = "ɲ" 
         intervals [4]:
             xmin = 0.95 
-            xmax = 0.98 
+            xmax = 0.99 
             text = "ʎ" 
         intervals [5]:
-            xmin = 0.98 
-            xmax = 1.01 
+            xmin = 0.99 
+            xmax = 1.02 
             text = "i" 
         intervals [6]:
-            xmin = 1.01 
-            xmax = 1.04 
+            xmin = 1.02 
+            xmax = 1.05 
             text = "ð" 
         intervals [7]:
-            xmin = 1.04 
+            xmin = 1.05 
             xmax = 1.09 
             text = "ə" 
         intervals [8]:

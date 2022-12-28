@@ -14,10 +14,10 @@ item []:
         intervals: size = 10 
         intervals [1]:
             xmin = 0 
-            xmax = 0.82 
+            xmax = 0.81 
             text = "" 
         intervals [2]:
-            xmin = 0.82 
+            xmin = 0.81 
             xmax = 1.08 
             text = "young" 
         intervals [3]:
@@ -60,10 +60,10 @@ item []:
         intervals: size = 42 
         intervals [1]:
             xmin = 0 
-            xmax = 0.82 
+            xmax = 0.81 
             text = "" 
         intervals [2]:
-            xmin = 0.82 
+            xmin = 0.81 
             xmax = 0.9 
             text = "j" 
         intervals [3]:

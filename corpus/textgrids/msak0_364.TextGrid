@@ -92,10 +92,10 @@ item []:
             text = "ɪ" 
         intervals [6]:
             xmin = 1 
-            xmax = 1.05 
+            xmax = 1.06 
             text = "s" 
         intervals [7]:
-            xmin = 1.05 
+            xmin = 1.06 
             xmax = 1.15 
             text = "t" 
         intervals [8]:

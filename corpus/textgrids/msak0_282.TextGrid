@@ -92,10 +92,10 @@ item []:
             text = "ʒ" 
         intervals [12]:
             xmin = 1.53 
-            xmax = 1.64 
+            xmax = 1.65 
             text = "s" 
         intervals [13]:
-            xmin = 1.64 
+            xmin = 1.65 
             xmax = 1.68 
             text = "m" 
         intervals [14]:

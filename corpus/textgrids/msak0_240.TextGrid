@@ -38,10 +38,10 @@ item []:
             text = "in" 
         intervals [7]:
             xmin = 2.14 
-            xmax = 2.3 
+            xmax = 2.29 
             text = "my" 
         intervals [8]:
-            xmin = 2.3 
+            xmin = 2.29 
             xmax = 2.89 
             text = "agency" 
         intervals [9]:
@@ -69,7 +69,7 @@ item []:
         intervals [4]:
             xmin = 0.89 
             xmax = 1.53 
-            text = "spn" 
+            text = "" 
         intervals [5]:
             xmin = 1.53 
             xmax = 1.56 
@@ -116,10 +116,10 @@ item []:
             text = "m" 
         intervals [16]:
             xmin = 2.18 
-            xmax = 2.3 
+            xmax = 2.29 
             text = "aj" 
         intervals [17]:
-            xmin = 2.3 
+            xmin = 2.29 
             xmax = 2.43 
             text = "ej" 
         intervals [18]:

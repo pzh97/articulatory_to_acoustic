@@ -152,10 +152,10 @@ item []:
             text = "f" 
         intervals [20]:
             xmin = 2.08 
-            xmax = 2.2 
+            xmax = 2.18 
             text = "ɒː" 
         intervals [21]:
-            xmin = 2.2 
+            xmin = 2.18 
             xmax = 2.24 
             text = "w" 
         intervals [22]:

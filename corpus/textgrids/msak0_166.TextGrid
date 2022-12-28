@@ -30,10 +30,10 @@ item []:
             text = "mediocrity" 
         intervals [5]:
             xmin = 2.2 
-            xmax = 2.65 
+            xmax = 2.64 
             text = "seldom" 
         intervals [6]:
-            xmin = 2.65 
+            xmin = 2.64 
             xmax = 2.84 
             text = "co" 
         intervals [7]:
@@ -60,10 +60,10 @@ item []:
             text = "cʰ" 
         intervals [3]:
             xmin = 0.79 
-            xmax = 0.88 
+            xmax = 0.87 
             text = "ʊ" 
         intervals [4]:
-            xmin = 0.88 
+            xmin = 0.87 
             xmax = 0.99 
             text = "ɹ" 
         intervals [5]:
@@ -160,14 +160,14 @@ item []:
             text = "ɔ" 
         intervals [28]:
             xmin = 2.54 
-            xmax = 2.65 
+            xmax = 2.64 
             text = "m" 
         intervals [29]:
-            xmin = 2.65 
-            xmax = 2.77 
+            xmin = 2.64 
+            xmax = 2.76 
             text = "kʰ" 
         intervals [30]:
-            xmin = 2.77 
+            xmin = 2.76 
             xmax = 2.84 
             text = "əw" 
         intervals [31]:

@@ -76,14 +76,14 @@ item []:
             text = "kʰ" 
         intervals [5]:
             xmin = 0.87 
-            xmax = 0.98 
+            xmax = 0.99 
             text = "ɔj" 
         intervals [6]:
-            xmin = 0.98 
-            xmax = 1.01 
+            xmin = 0.99 
+            xmax = 1.02 
             text = "j" 
         intervals [7]:
-            xmin = 1.01 
+            xmin = 1.02 
             xmax = 1.08 
             text = "əw" 
         intervals [8]:
@@ -112,10 +112,10 @@ item []:
             text = "kʰ" 
         intervals [14]:
             xmin = 1.62 
-            xmax = 1.7 
+            xmax = 1.69 
             text = "a" 
         intervals [15]:
-            xmin = 1.7 
+            xmin = 1.69 
             xmax = 1.78 
             text = "t" 
         intervals [16]:
@@ -188,10 +188,10 @@ item []:
             text = "m" 
         intervals [33]:
             xmin = 3.07 
-            xmax = 3.2 
+            xmax = 3.19 
             text = "ɫ̩" 
         intervals [34]:
-            xmin = 3.2 
+            xmin = 3.19 
             xmax = 3.37 
             text = "z" 
         intervals [35]:

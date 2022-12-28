@@ -38,10 +38,10 @@ item []:
             text = "a" 
         intervals [7]:
             xmin = 2.07 
-            xmax = 2.33 
+            xmax = 2.34 
             text = "nice" 
         intervals [8]:
-            xmin = 2.33 
+            xmin = 2.34 
             xmax = 2.91 
             text = "dessert" 
         intervals [9]:
@@ -140,10 +140,10 @@ item []:
             text = "aj" 
         intervals [22]:
             xmin = 2.27 
-            xmax = 2.33 
+            xmax = 2.34 
             text = "s" 
         intervals [23]:
-            xmin = 2.33 
+            xmin = 2.34 
             xmax = 2.43 
             text = "d" 
         intervals [24]:

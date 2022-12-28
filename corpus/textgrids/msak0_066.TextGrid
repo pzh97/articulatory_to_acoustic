@@ -92,10 +92,10 @@ item []:
             text = "ɛ" 
         intervals [10]:
             xmin = 1.17 
-            xmax = 1.27 
+            xmax = 1.26 
             text = "n" 
         intervals [11]:
-            xmin = 1.27 
+            xmin = 1.26 
             xmax = 1.33 
             text = "tʃ" 
         intervals [12]:

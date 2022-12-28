@@ -38,10 +38,10 @@ item []:
             text = "yellow" 
         intervals [7]:
             xmin = 1.78 
-            xmax = 2.2 
+            xmax = 2.19 
             text = "lily" 
         intervals [8]:
-            xmin = 2.2 
+            xmin = 2.19 
             xmax = 2.968375 
             text = "" 
     item [2]:
@@ -132,9 +132,9 @@ item []:
             text = "ʎ" 
         intervals [21]:
             xmin = 2.04 
-            xmax = 2.2 
+            xmax = 2.19 
             text = "i" 
         intervals [22]:
-            xmin = 2.2 
+            xmin = 2.19 
             xmax = 2.968375 
             text = "" 

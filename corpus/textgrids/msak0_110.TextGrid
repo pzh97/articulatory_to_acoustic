@@ -116,10 +116,10 @@ item []:
             text = "ʎ" 
         intervals [15]:
             xmin = 1.67 
-            xmax = 1.7 
+            xmax = 1.71 
             text = "ɪ" 
         intervals [16]:
-            xmin = 1.7 
+            xmin = 1.71 
             xmax = 1.77 
             text = "s" 
         intervals [17]:
@@ -153,7 +153,7 @@ item []:
         intervals [24]:
             xmin = 2.1 
             xmax = 2.5 
-            text = "spn" 
+            text = "" 
         intervals [25]:
             xmin = 2.5 
             xmax = 2.58 

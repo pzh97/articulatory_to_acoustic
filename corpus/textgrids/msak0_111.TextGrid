@@ -14,10 +14,10 @@ item []:
         intervals: size = 12 
         intervals [1]:
             xmin = 0 
-            xmax = 0.75 
+            xmax = 0.76 
             text = "" 
         intervals [2]:
-            xmin = 0.75 
+            xmin = 0.76 
             xmax = 0.98 
             text = "she" 
         intervals [3]:
@@ -68,10 +68,10 @@ item []:
         intervals: size = 36 
         intervals [1]:
             xmin = 0 
-            xmax = 0.75 
+            xmax = 0.76 
             text = "" 
         intervals [2]:
-            xmin = 0.75 
+            xmin = 0.76 
             xmax = 0.91 
             text = "ʃ" 
         intervals [3]:

@@ -38,10 +38,10 @@ item []:
             text = "birth" 
         intervals [7]:
             xmin = 3.03 
-            xmax = 3.57 
+            xmax = 3.56 
             text = "control" 
         intervals [8]:
-            xmin = 3.57 
+            xmin = 3.56 
             xmax = 4.71825 
             text = "" 
     item [2]:
@@ -212,9 +212,9 @@ item []:
             text = "əw" 
         intervals [41]:
             xmin = 3.39 
-            xmax = 3.57 
+            xmax = 3.56 
             text = "ɫ" 
         intervals [42]:
-            xmin = 3.57 
+            xmin = 3.56 
             xmax = 4.71825 
             text = "" 

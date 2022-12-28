@@ -14,10 +14,10 @@ item []:
         intervals: size = 11 
         intervals [1]:
             xmin = 0 
-            xmax = 0.72 
+            xmax = 0.71 
             text = "" 
         intervals [2]:
-            xmin = 0.72 
+            xmin = 0.71 
             xmax = 1.47 
             text = "seamstresses" 
         intervals [3]:
@@ -64,10 +64,10 @@ item []:
         intervals: size = 37 
         intervals [1]:
             xmin = 0 
-            xmax = 0.72 
+            xmax = 0.71 
             text = "" 
         intervals [2]:
-            xmin = 0.72 
+            xmin = 0.71 
             xmax = 0.91 
             text = "s" 
         intervals [3]:
@@ -125,7 +125,7 @@ item []:
         intervals [16]:
             xmin = 1.72 
             xmax = 2.17 
-            text = "spn" 
+            text = "" 
         intervals [17]:
             xmin = 2.17 
             xmax = 2.2 

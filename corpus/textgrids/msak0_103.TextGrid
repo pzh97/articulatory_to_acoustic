@@ -30,10 +30,10 @@ item []:
             text = "forces" 
         intervals [5]:
             xmin = 1.83 
-            xmax = 2.18 
+            xmax = 2.16 
             text = "rescue" 
         intervals [6]:
-            xmin = 2.18 
+            xmin = 2.16 
             xmax = 2.67 
             text = "hostages" 
         intervals [7]:
@@ -136,10 +136,10 @@ item []:
             text = "c" 
         intervals [21]:
             xmin = 2.09 
-            xmax = 2.18 
+            xmax = 2.16 
             text = "ʉː" 
         intervals [22]:
-            xmin = 2.18 
+            xmin = 2.16 
             xmax = 2.25 
             text = "h" 
         intervals [23]:

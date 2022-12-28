@@ -168,10 +168,10 @@ item []:
             text = "ʃ" 
         intervals [29]:
             xmin = 2.56 
-            xmax = 2.61 
+            xmax = 2.6 
             text = "ə" 
         intervals [30]:
-            xmin = 2.61 
+            xmin = 2.6 
             xmax = 2.64 
             text = "n" 
         intervals [31]:

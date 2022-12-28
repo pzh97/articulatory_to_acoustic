@@ -152,10 +152,10 @@ item []:
             text = "ɐ" 
         intervals [25]:
             xmin = 2.38 
-            xmax = 2.46 
+            xmax = 2.45 
             text = "n" 
         intervals [26]:
-            xmin = 2.46 
+            xmin = 2.45 
             xmax = 2.5 
             text = "d" 
         intervals [27]:

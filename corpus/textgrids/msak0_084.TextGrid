@@ -212,10 +212,10 @@ item []:
             text = "pʲ" 
         intervals [41]:
             xmin = 3.57 
-            xmax = 3.72 
+            xmax = 3.71 
             text = "ʉː" 
         intervals [42]:
-            xmin = 3.72 
+            xmin = 3.71 
             xmax = 3.9 
             text = "t" 
         intervals [43]:

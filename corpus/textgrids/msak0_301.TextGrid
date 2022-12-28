@@ -34,10 +34,10 @@ item []:
             text = "exchanged" 
         intervals [6]:
             xmin = 2.04 
-            xmax = 2.74 
+            xmax = 2.75 
             text = "autographs" 
         intervals [7]:
-            xmin = 2.74 
+            xmin = 2.75 
             xmax = 3.718875 
             text = "" 
     item [2]:
@@ -152,9 +152,9 @@ item []:
             text = "f" 
         intervals [27]:
             xmin = 2.56 
-            xmax = 2.74 
+            xmax = 2.75 
             text = "s" 
         intervals [28]:
-            xmin = 2.74 
+            xmin = 2.75 
             xmax = 3.718875 
             text = "" 

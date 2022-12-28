@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.55 
-            xmax = 1.03 
+            xmax = 1.04 
             text = "hispanic" 
         intervals [3]:
-            xmin = 1.03 
+            xmin = 1.04 
             xmax = 1.52 
             text = "costumes" 
         intervals [4]:
@@ -80,10 +80,10 @@ item []:
             text = "ɪ" 
         intervals [9]:
             xmin = 0.99 
-            xmax = 1.03 
+            xmax = 1.04 
             text = "k" 
         intervals [10]:
-            xmin = 1.03 
+            xmin = 1.04 
             xmax = 1.11 
             text = "kʰ" 
         intervals [11]:

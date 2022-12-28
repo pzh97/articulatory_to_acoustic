@@ -84,10 +84,10 @@ item []:
             text = "tʰ" 
         intervals [7]:
             xmin = 1.05 
-            xmax = 1.16 
+            xmax = 1.15 
             text = "ʉː" 
         intervals [8]:
-            xmin = 1.16 
+            xmin = 1.15 
             xmax = 1.24 
             text = "n" 
         intervals [9]:

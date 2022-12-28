@@ -185,11 +185,11 @@ item []:
         intervals [31]:
             xmin = 2.73 
             xmax = 3.25 
-            text = "spn" 
+            text = "" 
         intervals [32]:
             xmin = 3.25 
             xmax = 3.35 
-            text = "tʲ" 
+            text = "tʰ" 
         intervals [33]:
             xmin = 3.35 
             xmax = 3.55 

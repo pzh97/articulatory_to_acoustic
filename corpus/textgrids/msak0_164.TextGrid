@@ -172,10 +172,10 @@ item []:
             text = "iː" 
         intervals [29]:
             xmin = 2.72 
-            xmax = 2.81 
+            xmax = 2.8 
             text = "v" 
         intervals [30]:
-            xmin = 2.81 
+            xmin = 2.8 
             xmax = 2.98 
             text = "z" 
         intervals [31]:

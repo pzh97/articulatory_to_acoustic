@@ -200,10 +200,10 @@ item []:
             text = "n" 
         intervals [36]:
             xmin = 2.85 
-            xmax = 2.93 
+            xmax = 2.92 
             text = "ɛ" 
         intervals [37]:
-            xmin = 2.93 
+            xmin = 2.92 
             xmax = 3.01 
             text = "k" 
         intervals [38]:

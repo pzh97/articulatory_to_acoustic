@@ -34,10 +34,10 @@ item []:
             text = "to" 
         intervals [6]:
             xmin = 1.54 
-            xmax = 1.74 
+            xmax = 1.75 
             text = "see" 
         intervals [7]:
-            xmin = 1.74 
+            xmin = 1.75 
             xmax = 2.13 
             text = "movies" 
         intervals [8]:
@@ -124,10 +124,10 @@ item []:
             text = "s" 
         intervals [16]:
             xmin = 1.63 
-            xmax = 1.74 
+            xmax = 1.75 
             text = "iː" 
         intervals [17]:
-            xmin = 1.74 
+            xmin = 1.75 
             xmax = 1.83 
             text = "m" 
         intervals [18]:

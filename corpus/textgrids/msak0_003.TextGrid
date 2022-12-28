@@ -100,10 +100,10 @@ item []:
             text = "θ" 
         intervals [14]:
             xmin = 1.82 
-            xmax = 1.91 
+            xmax = 1.92 
             text = "ɜː" 
         intervals [15]:
-            xmin = 1.91 
+            xmin = 1.92 
             xmax = 2.01 
             text = "tʲ" 
         intervals [16]:

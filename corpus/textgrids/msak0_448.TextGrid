@@ -104,10 +104,10 @@ item []:
             text = "ə" 
         intervals [11]:
             xmin = 1.03 
-            xmax = 1.17 
+            xmax = 1.16 
             text = "tʃ" 
         intervals [12]:
-            xmin = 1.17 
+            xmin = 1.16 
             xmax = 1.25 
             text = "iː" 
         intervals [13]:
@@ -124,10 +124,10 @@ item []:
             text = "æ" 
         intervals [16]:
             xmin = 1.43 
-            xmax = 1.56 
+            xmax = 1.57 
             text = "ʎ" 
         intervals [17]:
-            xmin = 1.56 
+            xmin = 1.57 
             xmax = 1.6 
             text = "ə" 
         intervals [18]:

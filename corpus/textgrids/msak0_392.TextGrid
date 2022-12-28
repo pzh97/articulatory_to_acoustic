@@ -112,10 +112,10 @@ item []:
             text = "ɪ" 
         intervals [15]:
             xmin = 1.82 
-            xmax = 1.86 
+            xmax = 1.87 
             text = "θ" 
         intervals [16]:
-            xmin = 1.86 
+            xmin = 1.87 
             xmax = 1.97 
             text = "s" 
         intervals [17]:

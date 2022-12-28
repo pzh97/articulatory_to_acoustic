@@ -196,18 +196,18 @@ item []:
             text = "ɡ" 
         intervals [34]:
             xmin = 2.71 
-            xmax = 2.81 
+            xmax = 2.82 
             text = "ɑː" 
         intervals [35]:
-            xmin = 2.81 
+            xmin = 2.82 
             xmax = 2.85 
             text = "d" 
         intervals [36]:
             xmin = 2.85 
-            xmax = 2.91 
+            xmax = 2.9 
             text = "ɪ" 
         intervals [37]:
-            xmin = 2.91 
+            xmin = 2.9 
             xmax = 2.98 
             text = "ŋ" 
         intervals [38]:
