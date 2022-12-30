@@ -87,25 +87,7 @@ def data_reader(filename, ema, segmentation):
         output_array[index[-1]:] = phone_value[labels[-1]]
     return mtx, output_array
 
-def transcription_generator(filename):
-    order = r'[0-9]'
-    with open(filename) as t:
-        lines = []
-        for line in t:
-            new_line = re.sub(order, '', line).replace('. ', '').replace('.', '').replace('?', '').replace('\'', '').replace(',', '').replace('\"', '').replace('-', ' ')
-            new_line = new_line.strip()
-            if new_line:
-                lines.append(new_line)
-    path = r'./corpus'
-    if not os.path.exists(path):
-        os.makedirs(path)
-                
-    for i in range(len(lines)):
-        with open("./corpus/msak0_%03d.txt"%(i+1), 'w') as w:
-            w.write(lines[i])
-
-
 #data_reader('.', 'msak0_268.ema', 'msak0_268.TextGrid')
-#transcription_generator('./mocha-timit.txt')
+
 
 
