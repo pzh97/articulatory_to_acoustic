@@ -6,6 +6,10 @@ Ouput data: textgrids containing phonetic segmentation information. This will be
 This will be a classification model learned in a supervised way. 
 ## Running 
 ```
+python transcription.py argv[1]
+```
+argv[1] = fsew0/msak0
+```
 bash rif.sh $1
 ```
 $1 = msak0; $1 = fsew0
