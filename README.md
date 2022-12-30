@@ -6,8 +6,9 @@ Ouput data: textgrids containing phonetic segmentation information. This will be
 This will be a classification model learned in a supervised way. 
 ## Running 
 ```
-bash rif.sh
+bash rif.sh $1
 ```
+$1 = msak0; $1 = fsew0
 ```
 conda activate aligner
 ````
