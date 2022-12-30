@@ -61,7 +61,7 @@ item []:
         intervals [2]:
             xmin = 0.75 
             xmax = 1.42 
-            text = "" 
+            text = "spn" 
         intervals [3]:
             xmin = 1.42 
             xmax = 1.47 
