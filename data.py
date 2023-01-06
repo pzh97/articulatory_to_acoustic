@@ -120,6 +120,7 @@ def data_reader(filename, ema, segmentation, laryngograph):
     for i in range(len(time_index)):
         for time in time_index[i]:
             time_point.append(tf0[time])
+    time_point = [x for x in time_point if x<=time_vec[-1]]
     #print(time_point)
     voicing_array = np.zeros(len(time_vec))
     voice_index = []
@@ -133,7 +134,7 @@ def data_reader(filename, ema, segmentation, laryngograph):
     #print(conca.shape)
     return conca, output_array, voicing_array
 
-#data_reader('.', 'msak0_260.ema', 'msak0_260.TextGrid', 'msak0_260.lar')
+#data_reader('.', 'fsew0_001.ema', 'fsew0_001.TextGrid', 'fsew0_001.lar')
 
 
 
