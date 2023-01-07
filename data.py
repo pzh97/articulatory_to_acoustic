@@ -104,6 +104,8 @@ def data_reader(filename, ema, segmentation, laryngograph):
     for n in range(len(time_vec)-index[-1]+1):
         output_array[index[-1]:] = phone_value[labels[-1]]
 
+    output_array = output_array.reshape(-1, 1)
+
     y, sr = librosa.load(filename + '/mocha_timit/msak0_v1.1/' + laryngograph, sr=1500)
     tlar = np.arange(len(y))/sr
     #print(len(y))
@@ -132,9 +134,9 @@ def data_reader(filename, ema, segmentation, laryngograph):
         voicing_array[voice_index[i]:voice_index[i+1]]=1
     conca = np.c_[mtx, voicing_array]
     #print(conca.shape)
-    return conca, output_array, voicing_array
+    return conca, output_array, time_vec
 
-#data_reader('.', 'fsew0_001.ema', 'fsew0_001.TextGrid', 'fsew0_001.lar')
+data_reader('.', 'fsew0_001.ema', 'fsew0_001.TextGrid', 'fsew0_001.lar')
 
 
 
