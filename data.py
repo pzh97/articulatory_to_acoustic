@@ -136,7 +136,7 @@ def data_reader(filename, ema, segmentation, laryngograph):
     #print(conca.shape)
     return conca, output_array, time_vec
 
-data_reader('.', 'fsew0_001.ema', 'fsew0_001.TextGrid', 'fsew0_001.lar')
+#data_reader('.', 'fsew0_001.ema', 'fsew0_001.TextGrid', 'fsew0_001.lar')
 
 
 
