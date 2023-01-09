@@ -58,3 +58,17 @@ for ix in range(epochs):
     for param in model.parameters():
         param.data = param.data - param.grad.data
 print(str(time.time() - tic) + ' s')
+
+"""
+# Ploting loss vs epochs
+plt.figure()
+ix = np.arange(epochs)
+plt.plot(ix, loss)
+
+# Training Accuracy
+p_hat = model(X)
+p_tmp = torch.max(p_hat, dim=1)[1]
+phat = phone_value[p_tmp.data.numpy()]
+acc = np.mean(1 * (phat == phonetic_d))
+print('Training Accuracy: ' + str(acc*100))
+"""
