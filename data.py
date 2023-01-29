@@ -28,6 +28,7 @@ phone_list = list(phone_set)
 ipa = 'a aj aw aː b bʲ c cʰ d dʒ dʲ e ej f fʲ h i iː j k kʰ l m mʲ m̩ n n̩ o ow p pʰ pʲ s t tʃ tʰ tʲ u uː v vʲ w z æ ç ð ŋ ɐ ɑ ɑː ɒ ɒː ɔ ɔj ə əw ɚ ɛ ɛː ɜ ɜː ɝ ɟ ɡ ɪ ɫ ɫ̩ ɱ ɲ ɹ ɾ ʃ ʉ ʉː ʊ ʎ ʒ ʔ θ d̪ t̪'
 IPA_list = list(ipa.split(" "))
 #print(list(phone_set - set(IPA_list)))
+#print(len(phone_list)) 81
 
 for i in range(len(phone_set)):
     phone_value[phone_list[i]] = i
