@@ -1,0 +1,460 @@
+	DH	IH0	S	W	AH1	Z	IY1	Z	IY0	F	AO1	R	AH1	S			001. This was easy for us.
+	IH0	Z	DH	IH0	S	S	IY1	S	AO2	S	EY1	F			002. Is this seesaw safe?
+	DH	OW1	Z	TH	IY1	V	Z	S	T	OW1	L	TH	ER1	T	IY2	JH	UW1	L	Z			003. Those thieves stole thirty jewels.
+	JH	EY1	N	M	EY1	ER1	N	M	AO1	R	M	AH1	N	IY0	B	AY1	W	ER1	K	IH0	NG	HH	AA1	R	D			004. Jane may earn more money by working hard.
+	SH	IY1	IH0	Z	TH	IH1	N	ER0	DH	AH0	N	AY1	EY1	EH1	M			005. She is thinner than I am.
+	B	R	AY1	T	S	AH1	N	SH	AY2	N	SH	IH1	M	ER0	Z	AA1	N	DH	IY0	OW1	SH	AH0	N			006. Bright sunshine shimmers on the ocean.
+	N	AH1	TH	IH0	NG	IH0	Z	EH1	Z	AH0	F	EH1	N	S	IH0	V	EH1	Z	IH1	N	AH0	S	AH0	N	S			007. Nothing is as offensive as innocence.
+	W	AY1	Y	EH1	L	AO1	R	W	ER1	IY0	OW1	V	ER0	S	IH1	L	IY0	AY1	T	AH0	M	Z			008. Why yell or worry over silly items?
+	W	EH1	R	W	ER0	Y	UW1	W	AY1	L	W	IY1	W	ER0	AH0	W	EY1			009. Where were you while we were away?
+	AA1	R	Y	AO1	R	G	R	EY1	D	Z	HH	AY1	ER0	AO1	R	L	OW1	ER0	DH	AH0	N	spn			010. Are your grades higher or lower than Nancy's?
+	HH	IY1	W	AH0	L	AH0	L	AW1	AH0	R	EH1	R	L	AY1			011. He will allow a rare lie.
+	W	AH0	L	R	AA1	B	AH0	N	W	EH1	R	AH0	Y	EH1	L	OW0	L	IH1	L	IY0			012. Will Robin wear a yellow lily?
+	S	W	IH1	NG	Y	UH1	R	AA1	R	M	EH1	Z	HH	AY1	EH1	Z	Y	UW1	K	AE1	N			013. Swing your arm as high as you can.
+	B	IH0	F	AO1	R	TH	ER1	Z	D	EY0	Z	IH0	G	Z	AE1	M	R	IY2	V	Y	UW1	EH1	V	R	IY0	F	AO1	R	M	Y	AH0	L	AH0			014. Before Thursday's exam, review every formula.
+	DH	AH0	M	Y	UW0	Z	IY1	AH0	M	HH	AY1	R	Z	M	Y	UW0	Z	IH1	SH	AH0	N	Z	EH1	V	R	IY0	IY1	V	N	IH0	NG			015. The museum hires musicians every evening.
+	AH0	R	OW1	L	AH0	V	W	AY1	ER0	L	EY1	N	IH1	R	DH	AH0	W	AO1	L			016. A roll of wire lay near the wall.
+	K	AA1	R	L	L	IH1	V	Z	IH0	N	AH0	L	AY1	V	L	IY0	HH	OW1	M			017. Carl lives in a lively home.
+	AE1	L	AH0	M	OW2	N	IY0	HH	AA1	R	M	Z	AH0	D	IH0	V	AO1	R	S	T	M	AE1	N	Z	W	EH1	L	TH			018. Alimony harms a divorced man's wealth.
+	AE2	L	Y	UW1	M	IH0	N	AH0	M	K	AH1	T	L	ER0	IY0	K	AH0	N	AO1	F	T	AH0	N	B	IY0	F	L	IH1	M	Z	IY0			019. Aluminium cutlery can often be flimsy.
+	SH	IY1	W	AO1	R	W	AO1	R	M	F	L	IY1	S	IY0	W	UH1	L	AH0	N	OW1	V	ER0	AO2	L	Z			020. She wore warm, fleecy, woolen overalls.
+	AE2	L	F	AE1	L	F	AH0		IH0	Z	HH	EH1	L	TH	IY0	F	AO1	R	Y	UW1			021. Alfalfa is healthy for you.
+	HH	W	EH1	N	AO1	L	EH1	L	S	F	EY1	L	Z		Y	UW1	Z	F	AO1	R	S			022. When all else fails, use force.
+	DH	OW1	Z	M	Y	UW0	Z	IH1	SH	AH0	N	Z	HH	AA1	R	M	AH0	N	AY2	Z	M	AA0	R	V	EH1	L	AH0	S	L	IY0			023. Those musicians harmonize marvellously.
+	AO2	L	DH	OW1	AO1	L	W	EY2	Z	AH0	L	OW1	N	W	IY1	S	ER0	V	AY1	V			024. Although always alone, we survive.
+	OW1	N	L	IY0	L	AO1	Y	ER0	Z	L	AH1	V	M	IH2	L	Y	AH0	N	EH1	R	Z			025. Only lawyers love millionaires.
+	M	OW1	S	T	Y	AH1	NG	R	AE1	B	AH0	T	S	R	AY1	Z		ER1	L	IY0	EH1	V	R	IY0	M	AO1	R	N	IH0	NG			026. Most young rabbits rise early every morning.
+	D	IH1	D	D	AE1	D		D	UW1	AE2	K	AH0	D	EH1	M	IH0	K	B	IH1	D	IH0	NG			027. Did dad do academic bidding?
+	B	EH1	G	DH	AE1	T	G	AA1	R	D	F	ER0	W	AH1	N	G	AE1	L	AH0	N	AH0	V	P	EH1	T	R	OW0	L			028. Beg that guard for one gallon of petrol.
+	HH	EH1	L	P	G	R	EH1	G	T	AH0	P	IH1	K	AH0	P	EH1	K	AH0	V	P	AH0	T	EY1	T	OW0	Z			029. Help Greg to pick a peck of potatoes.
+	G	EH1	T	AH0	K	AE1	L	AH0	K	OW2	K	AE1	T	T	AH0	K	IY1	P	DH	AH0	R	OW1	D	AH0	N	T	S	AH0	W	EY1			030. Get a calico cat to keep the rodents away.
+	AH0	G	UH1	D		AE1	T	AH0	T	UW2	D	IH0	Z	AH2	N	B	IY1	T	AH0	B	AH0	L			031. A good attitude is unbeatable.
+	T	IY1	N	AH0	T	ER1	N	ER0	IH0	Z	AH0	P	AA1	P	S	IH1	NG	ER0			032. Tina Turner is a pop singer.
+	K	OW1	K	AH0	N	AH2	T	K	R	IY1	M	P	AY1		M	EY1	K	S	AH0	N	AY1	S	D	IH0	Z	ER1	T			033. Coconut cream pie makes a nice dessert.
+	D	AA1	N	T	D	UW1	CH	AA1	R	L	IY0	Z	D	ER1	T	IY0	D	IH1	SH	IH0	Z			034. Don't do Charlie's dirty dishes.
+	HH	EH1	L	P	S	EH1	L	AH0	B	R	EY2	T	Y	UH1	R	B	R	AH1	DH	ER0	Z	S	AH0	K	S	EH1	S			035. Help celebrate your brother's success.
+	OW1	N	L	IY0	DH	AH0	M	OW1	S	T	AH0	K	AA1	M	P	L	IH0	SH	T	AA1	R	T	IH0	S	T	S		AH0	B	T	EY1	N	P	AA2	P	Y	AH0	L	EH1	R	AH0	T	IY0			036. Only the most accomplished artists obtain popularity.
+	K	R	IH1	T	IH0	K	AH0	L	IH0	K	W	IH1	P	M	AH0	N	T	N	IY1	D	Z	P	R	AA1	P	ER0	M	EY1	N	T	AH0	N	AH0	N	S			037. Critical equipment needs proper maintenance.
+	Y	AH1	NG	P	IY1	P	AH0	L	P	AA0	R	T	IH1	S	AH0	P	EY2	T	IH0	N	AE0	TH	L	EH1	T	IH0	K	AE0	K	T	IH1	V	IH0	T	IY0	Z			038. Young people participate in athletic activities.
+	B	AA1	R	B	Z	G	OW1	L	D	B	R	EY1	S	L	AH0	T	W	AH1	Z	AH0	G	R	AE2	JH	UW0	EY1	SH	AH0	N	P	R	EH1	Z	AH0	N	T			039. Barb's gold bracelet was a graduation present.
+	S	T	IH1	M	Y	AH0	L	EY2	T	IH0	NG	D	IH0	S	K	AH1	SH	AH0	N	Z	K	IY1	P	S	T	UW1	D	AH0	N	T	S	AH0	T	EH1	N	SH	AH0	N			040. Stimulating discussions keep students' attention.
+	EH1	T	AH0	K	AH0	T	M	AE1	N	D	EY2	T	S	K	AH0	M	P	L	AY1	AH0	N	S	W	IH0	DH	IH0	G	Z	IH1	S	T	IH0	NG	R	EH2	G	Y	AH0	L	EY1	SH	AH0	N	Z			041. Etiquette mandates compliance with existing regulations.
+	B	IH1	B	L	AH0	K	AH0	L	S	K	AA1	L	ER0	Z		AA1	R	G	Y	UW0	HH	IH1	S	T	ER0	IY0			042. Biblical scholars argue history.
+	EH1	L	D	ER0	L	IY0	P	IY1	P	AH0	L	ER0	AO1	F	T	AH0	N	IH0	K	S	K	L	UW1	D	IH0	D			043. Elderly people are often excluded.
+	B	AE1	S	K	AH0	T	B	AO2	L	K	AH0	N	B	IY0	AH0	N	EH2	N	T	ER0	T	EY1	N	IH0	NG	S	P	AO1	R	T			044. Basketball can be an entertaining sport.
+	AH0	D	IH1	SH	AH0	N	AE1	N	D	S	AH0	B	T	R	AE1	K	SH	AH0	N		AA1	R	L	ER1	N	D	S	K	IH1	L	Z			045. Addition and subtraction are learned skills.
+	DH	AE1	T		P	IH1	K	P	AA2	K	AH0	T	W	AH0	Z	K	AO1	T	R	EH1	D	HH	AE1	N	D	IH0	D			046. That pickpocket was caught red-handed.
+	M	AH1	M	S	T	R	AO1	NG	L	IY0	D	IH0	S	L	AY1	K	S	AE1	P	AH0	T	AY2	Z	ER0	Z			047. Mum strongly dislikes appetizers.
+	G	R	AE1	N	M	AH2	DH	ER0		AW2	T	G	R	UW1	HH	ER0	AH1	P	B	R	IH2	NG	IH0	NG	IH0	N	P	EH1	T	IY0	K	OW2	T	S			048. Grandmother outgrew her upbringing in petticoats.
+	AE1	T	T	W	AY1	L	AY2	T		AA1	N	DH	AH0	T	W	EH1	L	F	TH	D	EY1	W	EH1	L	HH	AE1	V	SH	AH0	B	L	IY1			049. At twilight on the twelfth day we'll have Chablis.
+	K	AE2	T	AH0	S	T	R	AA1	F	IH0	K		EH2	K	AH0	N	AA1	M	IH0	K	spn		N	IH0	G	L	EH1	K	T	DH	AH0	P	UW1	R			050. Catastrophic economic cutbacks neglect the poor.
+	AE2	M	B	IH0	D	EH1	K	S	T	R	AH0	S	P	IH1	K	P	AA2	K	AH0	T	S	AH0	K	AA1	M	P	L	IH0	SH	M	AO1	R			051. Ambidextrous pickpockets accomplish more.
+	HH	ER1	K	L	AE1	S	IH0	K	AH0	L	R	EH1	P	ER0	T	W	AA2	R	G	EY1	N	D	K	R	IH1	T	IH0	K	AH0	L	AH0	K	L	EY1	M			052. Her classical repertoire gained critical acclaim.
+	IY1	V	IH0	N	AH0	S	IH1	M	P	AH0	L	V	OW0	K	AE1	B	Y	AH0	L	EH2	R	IY0	K	AH0	N	T	EY1	N	Z	S	IH1	M	B	AH0	L	Z			053. Even a simple vocabulary contains symbols.
+	DH	IY0	IY1	S	T	ER0	N	K	OW1	S	T	IH0	Z	AH0	P	L	EY1	S	F	ER0	P	Y	UH1	R	P	L	EH1	ZH	ER0	AE1	N	D	IH0	K	S	AY1	T	M	AH0	N	T			054. The eastern coast is a place for pure pleasure and excitement.
+	DH	AH0	L	AE1	K	AH0	V	HH	IY1	T		K	AH0	M	P	AW1	N	D	AH0	D	DH	AH0	T	EH1	N	AH0	N	T	S		G	R	IY1	V	AH0	N	S	IH0	Z			055. The lack of heat compounded the tenant's grievances.
+	AE2	K	AH0	D	EH1	M	IH0	K	AE1	P	T	AH0	T	UW2	D		G	EH2	R	AH0	N	T	IY1	Z	Y	UH1	R	D	IH0	P	L	OW1	M	AH0			056. Academic aptitude guarantees your diploma.
+	DH	AH0	P	R	AW1	L	ER0	W	AO1	R	AH0	S	K	IY1	M	AE1	S	K	F	ER0	D	IH0	S	G	AY1	Z			057. The prowler wore a ski mask for disguise.
+	W	IY1	IH0	K	S	P	IH1	R	IY0	AH0	N	S	D	IH0	S	T	R	EH1	S	AE1	N	D	F	R	AH0	S	T	R	EY1	SH	AH0	N	AH0	B	T	EY1	N	IH0	NG	AA1	R	D	IH0	G	R	IY1	Z			058. We experience distress and frustration obtaining our degrees.
+	DH	AH0	S	IH1	NG	ER0	Z	F	IH1	NG	G	ER0	HH	AE1	D	AH0	S	P	L	IH1	N	T	ER0			059. The singer's finger had a splinter.
+	DH	AH0	L	EH1	JH	AH0	S	L	EY2	CH	ER0	M	EH1	T	T	AH0	JH	AH1	JH	DH	AH0	S	T	EY1	T	AH0	V	P	AH1	B	L	IH0	K	EH2	JH	AH0	K	EY1	SH	AH0	N			060. The legislature met to judge the state of public education.
+	CH	AO1	K	L	AH0	T	AH0	N	D	R	OW1	Z	IH0	Z	N	EH1	V	ER0	F	EY1	L	AE1	Z	AH0	R	OW0	M	AE1	N	T	IH0	K	G	IH1	F	T			061. Chocolate and roses never fail as a romantic gift.
+	EH1	N	IY0	K	AA2	N	T	R	AH0	B	Y	UW1	SH	AH0	N	Z	W	AH0	L	B	IY0	G	R	EY1	T	L	IY0	AH0	P	R	IY1	SH	IY0	EY2	T	IH0	D			062. Any contributions will be greatly appreciated.
+	K	AA2	N	T	AH0	N	EH1	N	T	AH0	L	D	R	IH1	F	T	IH1	Z	AH0	JH	IY2	AH0	L	AA1	JH	IH0	K	AH0	L	TH	IH1	R	IY0			063. Continental drift is a geological theory.
+	R	EH1	G	Y	AH0	L	ER0	AH0	T	EH1	N	D	AH0	N	S	IH1	Z	S	EH1	L	D	AH0	M	R	IY0	K	W	AY1	ER0	D			064. Regular attendance is seldom required.
+	CH	AE1	L	AH0	N	JH		IY1	CH	JH	EH1	N	R	AH0	L	Z	IH0	N	T	EH1	L	AH0	JH	AH0	N	S			065. Challenge each general's intelligence.
+	W	IY1	G	AA1	T	D	R	EH1	N	CH	T	F	ER0	M	DH	IY0	AH2	N	IH0	N	T	ER0	AH1	P	T	IH0	D	R	EY1	N			066. We got drenched from the uninterrupted rain.
+	L	AE1	S	T	Y	IH1	R	Z		G	AE1	S	SH	AO1	R	T	IH0	JH		K	AO1	Z	D	S	T	IY1	P	P	R	AY1	S	IH0	N	K	R	IY1	S	IH0	Z			067. Last year's gas shortage caused steep price increases.
+	AH1	P	G	R	EY1	D	Y	UH1	R	S	T	EY1	T	AH0	S	T	AH0	R	AH0	F	L	EH1	K	T	Y	UH1	R	W	EH1	L	TH			068. Upgrade your status to reflect your wealth.
+	IY1	T	Y	AO1	R	R	EY1	Z	AH0	N	Z		AW1	T	D	AO1	R	Z	AA1	N	DH	AH0	P	AO1	R	CH	S	T	EH1	P	S			069. Eat your raisins outdoors on the porch steps.
+	D	IH1	D	Y	UW1	IY1	T	L	AH1	N	CH	Y	EH1	S	T	ER0	D	EY2			070. Did you eat lunch yesterday?
+	P	AO1	R	K	Y	AH0	P	AY2	N	Z	R	IH0	Z	EH1	M	B	AH0	L	S	IY1	ER1	CH	AH0	N	Z			071. Porcupines resemble sea urchins.
+	S	P	R	IH1	NG	S	T	R	IY1	T	IH1	Z	S	T	R	EY1	T	AH0	HH	EH1	D			072. Spring Street is straight ahead.
+	K	L	IH1	F	S	D	IH0	S	P	L	EY1	W	AH1	Z	M	IH0	S	P	L	EY1	S	T	AA1	N	DH	AH0	S	K	R	IY1	N			073. Cliff's display was misplaced on the screen.
+	AH0	N	AH0	F	IH1	SH	AH0	L	D	EH1	D	L	AY2	N	K	AE1	N	AA0	T	B	IY0	P	OW0	S	P	OW1	N	D			074. An official deadline cannot be postponed.
+	F	IH1	L	DH	AE1	T	K	AE0	N	T	IY1	N	W	IH0	TH	F	R	EH1	SH	S	P	R	IH1	NG	W	AO1	T	ER0			075. Fill that canteen with fresh spring water.
+	JH	EH1	N	T	L	IY0	P	L	EY1	S	JH	IH1	M	Z	F	OW1	M	S	K	AH1	L	P	CH	ER0	IH0	N	DH	AH0	B	AA1	K	S			076. Gently place Jim's foam sculpture in the box.
+	B	AE1	G	P	AY2	P	S		AH0	N	D	spn		AA1	R	M	Y	UW1	Z	IH0	K	AH0	L	IH1	N	S	T	R	AH0	M	AH0	N	T	S			077. Bagpipes and bongos are musical instruments.
+	D	AA1	K	T	ER0	Z	P	R	AH0	S	K	R	AY1	B	D	R	AH1	G	Z	T	UW1	F	R	IY1	L	IY0			078. Doctors prescribe drugs too freely.
+	W	IH1	L	Y	UW1	P	L	IY1	Z	D	IH0	S	K	R	AY1	B	DH	IY0	IH2	D	IY0	AA1	T	IH0	K	P	R	IH0	D	IH1	K	AH0	M	AH0	N	T			079. Will you please describe the idiotic predicament.
+	IH0	T	S	IH0	L	IY1	G	AH0	L	T	AH0	spn	EY1	CH	EH2	K			080. It's illegal to postdate a cheque.
+	IH1	T	S	IH0	M	P	AA1	S	AH0	B	AH0	L	T	AH0	D	IY1	L	W	IH0	TH	B	Y	UH0	R	AA1	K	R	AH0	S	IY0			081. It's impossible to deal with bureaucracy.
+	G	UH1	D	S	ER1	V	IH0	S	SH	UH1	D	B	IY0	R	IH0	W	AO1	R	D	IH0	D		B	AY1	B	IH1	G	T	IH1	P	S			082. Good service should be rewarded by big tips.
+	M	AY1	IH0	N	S	T	R	AH1	K	SH	AH0	N	Z	D	EH1	S	P	R	AH0	T	L	IY0	N	IY1	D	spn			083. My instructions desperately need updating.
+	K	OW0	AA2	P	ER0	EY1	SH	AH0	N		AH0	L	AO1	NG	W	IH0	TH	AH2	N	D	ER0	S	T	AE1	N	D	IH0	NG		AH0	L	IY1	V	IY0	EY2	T	D	IH0	S	P	Y	UW1	T			084. Cooperation along with understanding alleviate dispute.
+	S	IH0	M	EH1	N	T	IH0	Z	M	EH1	ZH	ER0	D	IH0	N	K	Y	UW1	B	IH0	K	Y	AA1	R	D	Z			085. Cement is measured in cubic yards.
+	HH	IH0	S	P	AE1	N	IH0	K	K	AA0	S	T	UW1	M	Z	AA1	R	K	W	AY1	T	K	AH1	L	ER0	F	AH0	L			086. Hispanic costumes are quite colourful.
+	P	R	IH1	M	IH0	T	IH0	V	T	R	AY1	B	Z	HH	AE1	V	AH0	N	spn		AE1	T	AH0	T	UW2	D			087. Primitive tribes have an upbeat attitude.
+	F	L	AY1	IH0	NG	S	T	AE1	N	D	B	AY1	K	AH0	N	B	IY0	P	R	AE1	K	T	AH0	K	AH0	L	IH1	F	Y	UW1	W	AA1	N	T	T	AH0	S	EY1	V	M	AH1	N	IY0			088. Flying standby can be practical if you want to save money.
+	IH1	T	S	HH	AA1	R	D	T	AH0	T	EH1	L	AH0	N	ER0	IH1	JH	AH0	N	AH0	L	F	R	AH1	M	AH0	F	AO1	R	JH	ER0	IY0			089. It's hard to tell an original from a forgery.
+	DH	AH0	TH	IH1	NG	K	ER0		IH0	Z	AH0	F	EY1	M	AH0	S	S	K	AH1	L	P	CH	ER0			090. The Thinker is a famous sculpture.
+	DH	AH0	M	IH1	S	P	R	IH1	N	T	P	R	AH0	V	OW1	K	T	AE1	N	IH0	M	IY1	D	IY0	AH0	T	D	IH0	S	K	L	EY1	M	ER0			091. The misprint provoked an immediate disclaimer.
+	AH0	L	AA1	R	JH	HH	AW1	S	HH	OW2	L	D	N	IY1	D	Z	L	AA1	T	S	AH0	V	AH0	P	L	AY1	AH0	N	S	IH0	Z			092. A large household needs lots of appliances.
+	K	AH1	T	AH0	S	M	AO1	L	K	AO1	R	N	ER0	AO1	F		IY1	CH		EH1	JH			093. Cut a small corner off each edge.
+	Y	AH1	NG	S	T	ER0	Z	L	AH1	V	K	AO1	R	N	K	AE1	N	D	IY0	AE1	Z	AH0	T	R	IY1	T			094. Youngsters love corn candy as a treat.
+	IH0	G	W	AA1	N	AH0	Z	AE1	N	D	AE1	L	AH0	G	EY2	T	ER0	Z	AA1	R	T	R	AA1	P	IH0	K	AH0	L	R	EH1	P	T	AY0	L	Z			095. Iguanas and alligators are tropical reptiles.
+	M	AE2	S	K	ER0	EY1	D	P	AA1	R	T	IY0	Z	T	AE1	K	S	W	AH1	N	Z	IH0	M	AE2	JH	AH0	N	EY1	SH	AH0	N			096. Masquerade parties tax one's imagination.
+	G	L	UW1	K	OW2	S	AH0	N	D	spn		AA1	R	N	AE1	CH	R	AH0	L	SH	UH1	G	ER0	Z	F	AW1	N	D	IH0	N	F	R	UW1	T			097. Glucose and fructose are natural sugars found in fruit.
+	P	EH1	NG	G	W	AH0	N	Z	L	IH1	V	N	IH1	R	DH	IY0	AY1	S	IY0	AE0	N	T	AA1	R	K	T	IH0	K			098. Penguins live near the icy Antarctic.
+	G	EH1	S	DH	AH0	K	W	EH1	S	CH	AH0	N	F	ER0	M	DH	IY0	AE1	N	S	ER0			099. Guess the question from the answer.
+	M	IH0	D	IY1	V	AH0	L	S	AH0	S	AY1	AH0	T	IY0	W	AH1	Z	B	EY1	S	T	AA1	N	HH	AY1	R	AA2	R	K	IY0	Z			100. Medieval society was based on hierarchies.
+	P	R	AA1	JH	EH0	K	T	D	IH0	V	EH1	L	AH0	P	M	AH0	N	T	W	AH1	Z	P	R	AH0	S	IY1	D	IH0	NG	T	UW1	S	L	OW1	L	IY0			101. Project development was proceeding too slowly.
+	K	IH1	N	D	ER0	G	AA2	R	T	AH0	N	CH	IH1	L	D	R	AH0	N	D	EH1	K	ER0	EY2	T	DH	EH1	R	K	L	AE1	S	R	UW2	M	Z	F	AO1	R	AO1	L	HH	AA1	L	AH0	D	EY2	Z			102. Kindergarten children decorate their classrooms for all holidays.
+	S	P	EH1	SH	AH0	L	T	AE1	S	K		F	AO1	R	S	IH0	Z	R	EH1	S	K	Y	UW0	HH	AA1	S	T	AH0	JH	AH0	Z	F	R	AH1	M	K	IH1	D	N	AE2	P	ER0	Z			103. Special task forces rescue hostages from kidnappers.
+	K	AO1	L	AE1	N	AE1	M	B	Y	AH0	L	AH0	N	S	F	ER0	M	EH1	D	AH0	K	AH0	L	AH0	S	IH1	S	T	AH0	N	S			104. Call an ambulance for medical assistance.
+	HH	IY1	S	T	OW1	L	AH0	D	AY1	M	F	ER0	M	AH0	B	EH1	G	ER0			105. He stole a dime from a beggar.
+	F	Y	UW1	P	IY1	P	AH0	L	L	IH1	V	T	AH0	B	IY0	AH0	HH	AH1	N	D	R	AH0	D			106. Few people live to be a hundred.
+	Y	UW1	M	AH1	S	T	IH0	K	S	P	L	IH1	S	AH0	T	L	IY0	D	IH0	L	IY1	T	F	AY1	L	Z			107. You must explicitly delete files.
+	AH0	HH	Y	UW1	JH	T	AE1	P	AH0	S	T	R	IY0	HH	AH1	NG	IH0	N	HH	ER1	HH	AO1	L	W	EY2			108. A huge tapestry hung in her hallway.
+	B	ER1	TH	D	EY2	P	AA1	R	T	IY0	Z	HH	AE1	V		spn		AH0	N	D	AY1	S	K	R	IY1	M			109. Birthday parties have cupcakes and ice cream.
+	HH	IH1	Z	S	K	AE1	L	P		W	AH1	Z	B	L	IH1	S	T	ER0	D	F	ER0	M	spn	HH	AA1	T	S	AH1	N			110. His scalp was blistered from today's hot sun.
+	SH	IY1	S	L	IH1	P	T	AH0	N	D	S	P	R	EY1	N	D	HH	ER1		AE1	NG	K	AH0	L	AA1	N	DH	AH0	S	T	IY1	P	S	L	OW1	P			111. She slipped and sprained her ankle on the steep slope.
+	DH	AH0	B	EH1	S	T	W	EY1	T	AH0	L	ER1	N	IH0	Z	T	AH0	S	AA1	L	V		EH1	K	S	T	R	AH0	P	R	AA1	B	L	AH0	M	Z			112. The best way to learn is to solve extra problems.
+	HH	IH1	Z	S	AH1	D	AH0	N	D	IH0	P	AA1	R	CH	ER0	SH	AA1	K	T	DH	AH0	K	AE1	S	T			113. His sudden departure shocked the cast.
+	T	AH1	G	B	OW2	T	S	ER0	K	EY1	P	AH0	B	AH0	L	AH0	V	HH	AO1	L	IH0	NG	HH	Y	UW1	JH	L	OW1	D	Z			114. Tugboats are capable of hauling huge loads.
+	AH0	M	AH1	S	K	Y	AH0	L	ER0	AE1	B	D	AH0	M	AH0	N		IH0	Z	G	UH1	D	F	ER0	Y	UH1	R	B	AE1	K			115. A muscular abdomen is good for your back.
+	DH	AH0	K	AA0	R	T	UW1	N	F	IY1	CH	ER0	Z	AH0	M	AH1	S	K	R	AE2	T		AE1	N	D	AH0	T	AE1	D	P	OW2	L			116. The cartoon features a muskrat and a tadpole.
+	DH	IY0	EH1	M	B	L	AH0	M	D	IH0	P	IH1	K	S	DH	IY0	AH0	K	R	AA1	P	AH0	L	AH0	S	AO1	L	AH0	G	L	OW1			117. The emblem depicts the Acropolis all aglow.
+	K	L	AE1	S	P		DH	AH0	S	K	R	UW1	IH0	N	Y	AO1	R	L	EH1	F	T	HH	AE1	N	D			118. Clasp the screw in your left hand.
+	DH	AH0	M	AE1	NG	G	OW0	AE1	N	D	DH	AH0	P	AH0	P	AY1	AH0	AA1	R	IH0	N	AH0	B	OW1	L			119. The mango and the papaya are in a bowl.
+	K	AH0	M	B	AY1	N		AO1	L	DH	IY0	IH0	N	G	R	IY1	D	IY0	AH0	N	T	S	IH0	N	AH0	L	AA1	R	JH	B	OW1	L			120. Combine all the ingredients in a large bowl.
+	DH	AH0	M	IH0	S	K	W	OW1	T	W	AH1	Z	R	IY0	T	R	AE1	K	T	AH0	D		W	IH0	DH	AH0	N	AH0	P	AA1	L	AH0	JH	IY0			121. The misquote was retracted with an apology.
+	DH	AH0	K	AY0	OW1	T	IY0	B	AA1	B	K	AE2	T	AE1	N	D	HH	AY0	IY1	N	AH0		AA1	R	W	AY1	L	D	AE1	N	AH0	M	AH0	L	Z			122. The coyote, bobcat, and hyena are wild animals.
+	T	R	EH1	S	P	AE2	S	IH0	NG	IH0	Z	F	ER0	R	B	IH1	D	AH0	N	AE1	N	D	S	AH1	B	JH	IH0	K	T	T	AH0	P	EH1	N	AH0	L	T	IY0			123. Trespassing is forbidden and subject to penalty.
+	IH0	N	S	AY2	K	L	AH0	P	IY1	D	IY0	AH0	Z	S	EH1	L	D	AH0	M	P	ER0	Z	EH1	N	T	AE2	N	IH0	K	D	OW1	T	AH0	L	EH1	V	AH0	D	AH0	N	S			124. Encyclopedias seldom present anecdotal evidence.
+	AH0	S	K	R	UW1	D	R	AY2	V	ER0	IH0	Z	M	EY1	D	F	ER0	M	V	AA1	D	K	AH0	AE1	N	D	AO1	R	AH0	N	JH	JH	UW1	S			125. A screwdriver is made from vodka and orange juice.
+	AA1	B	JH	EH0	K	T	S	M	EY1	D	AH0	V	P	Y	UW1	T	ER0	AA1	R	B	Y	UW1	T	AH0	F	AH0	L			126. Objects made of pewter are beautiful.
+	W	EH1	S	T	CH	EH2	S	T	ER0		IH0	Z	AH0	K	AW1	N	T	IY0	IH1	N	N	Y	UW1	Y	AO1	R	K			127. Westchester is a county in New York.
+	AA2	R	T	AH0	F	IH1	SH	AH0	L	IH0	N	T	EH1	L	AH0	JH	AH0	N	S		IH0	Z	F	ER0	R	IY1	L			128. Artificial intelligence is for real.
+	DH	IY0	EH1	M	P	ER0	ER0	HH	AE1	D		AH0	M	IY1	N	T	EH1	M	P	ER0			129. The emperor had a mean temper.
+	L	AA1	T	S	AH0	V	F	AA1	R	AH0	N	M	UW1	V	IY0	Z	HH	AE1	V	S	AH1	B	T	AY2	T	AH0	L	Z			130. Lots of foreign movies have subtitles.
+	AE0	NG	G	AO1	R	AH0	K	AE1	T	S	AA1	R	F	ER1	IY0	ER0	DH	AH0	N	S	AY2	AH0	M	IY1	Z			131. Angora cats are furrier than Siamese.
+	HH	IY1	EY1	T	F	AO1	R	EH1	K	S	T	R	AH0	EH1	G	Z	F	ER0	B	R	EH1	K	F	AH0	S	T			132. He ate four extra eggs for breakfast.
+	W	IY1	P	L	AE1	N	T	AH0	B	IH1	L	D	AH0	N	Y	UW1	B	EH1	V	R	IH0	JH	P	L	AE1	N	T			133. We plan to build a new beverage plant.
+	P	AH0	B	L	IH1	S	IH0	T	IY0	AE1	N	D	N	OW2	T	ER0	AY1	AH0	T	IY0	G	OW1	HH	AE1	N	D	IH0	N	HH	AE1	N	D			134. Publicity and notoriety go hand in hand.
+	spn	ER0	K	AH0	N	V	IY1	N	Y	AH0	N	T	F	ER0	AH0	K	W	IH1	K	L	AH1	N	CH			135. Pizzerias are convenient for a quick lunch.
+	D	IH0	S	EH1	M	B	ER0	AE1	N	D	JH	AE1	N	Y	UW0	EH2	R	IY0	AA1	R	N	AY1	S	M	AH1	N	TH	S	T	AH0	S	P	EH1	N	D	IH0	N	M	AY0	AE1	M	IY0			136. December and January are nice months to spend in Miami.
+	T	EH1	K	N	IH0	K	AH0	L	R	AY1	T	ER0	Z	K	AH0	N	AH0	B	R	IY1	V	IY0	EY2	T	IH0	N	B	IH2	B	L	IY0	AA1	G	R	AH0	F	IY0	Z			137. Technical writers can abbreviate in bibliographies.
+	S	AY2	AH0	N	T	IH1	F	IH0	K	P	R	OW0	G	R	EH1	S	K	AH1	M	Z	F	ER0	M	DH	AH0	D	IH0	V	EH1	L	AH0	P	M	AH0	N	T	AH0	V	N	Y	UW1	T	EH0	K	N	IY1	K	S			138. Scientific progress comes from the development of new techniques.
+	T	R	AH0	D	IH1	SH	AH0	N	R	IY0	K	W	AY1	R	Z	P	ER0	EH1	N	T	AH0	L	AH0	P	R	UW1	V	AH0	L	F	R	ER0		AH1	N	D	ER0	EY1	JH	M	EH1	R	IH0	JH			139. Tradition requires parental approval for under-age marriage.
+	DH	AH0	K	L	AH1	M	Z	IY0	K	AH1	S	T	AH0	M	ER0	S	P	IH1	L	D	S	AH1	M	IH0	K	S	P	EH1	N	S	IH0	V	P	ER0	F	Y	UW1	M			140. The clumsy customer spilled some expensive perfume.
+	DH	AH0	B	AH1	NG	G	AH0	L	OW2	W	AH1	Z	P	L	EH1	Z	AH0	N	T	L	IY0	S	IH1	CH	UW0	EY2	T	IH0	D	N	IH1	R	DH	AH0	SH	AO1	R			141. The bungalow was pleasantly situated near the shore.
+	AE2	G	R	AH0	K	AH1	L	CH	ER0	AH0	L	P	R	AA1	D	AH0	K	S	AA1	R		AH0	N	IY1	V	AH0	N	L	IY0	D	IH0	S	T	R	IH1	B	Y	AH0	T	AH0	D			142. Agricultural products are unevenly distributed.
+	P	L	EH1	JH		T	AH0	P	AA0	R	T	IH1	S	AH0	P	EY2	T	IH0	N	N	AH0	V	AE1	D	AH0	Z	AH0	K	W	AA1	T	IH0	K	K	AA2	M	P	AH0	T	IH1	SH	AH0	N			143. Pledge to participate in Nevada's aquatic competition.
+	W	IH1	CH	L	AO1	NG	AA1	R	T	AH0	K	AH0	L	W	AH1	Z	OW0	P	EY1	K	AE1	N	D	N	IY1	D	IH0	D	K	L	EH2	R	AH0	F	AH0	K	EY1	SH	AH0	N			144. Which long article was opaque and needed clarification?
+	DH	AH0	S	AW1	N	D	AH0	V	spn		B	Y	UW1	G	AH0	L	S	K	EH1	R	D	DH	IY0	AE1	N	T	AH0	L	OW2	P			145. The sound of Jennifer's bugle scared the antelope.
+	DH	AH0	W	IH1	L	AH0	W	IY0	W	UH1	M	AH0	N	W	AO1	R	AH0	M	AH1	S	K	R	AE2	T	K	OW1	T			146. The willowy woman wore a muskrat coat.
+	T	UW1	M	AH1	CH	K	Y	UH2	R	IY0	AA1	S	AH0	T	IY0	K	AH0	N	G	IH1	T	Y	UW1	IH0	N	T	AH0	T	R	AH1	B	AH0	L			147. Too much curiosity can get you into trouble.
+	S	IH1	K	L	IH0	K	AH0	L	P	R	OW1	G	R	AE2	M	Z	W	AH0	L	N	EH1	V	ER0	K	AH0	M	P	AY1	L			148. Cyclical programs will never compile.
+	K	ER0	EH1	K	T	EH2	K	S	AH0	K	Y	UW1	SH	AH0	N	AH0	V	M	AY1	IH0	N	S	T	R	AH1	K	SH	AH0	N	Z	IH1	Z	K	R	UW1	SH	AH0	L			149. Correct execution of my instructions is crucial.
+	M	OW1	S	T	P	R	IY1	S	IH2	NG	K	S	HH	AE1	D	AH0	TH	ER1	D	AH0	V	DH	AH0	V	OW1	T	S	K	AW1	N	T	IH0	D			150. Most precincts had a third of the votes counted.
+	HH	W	AY1	L	W	EY1	T	IH0	NG	F	ER0	CH	IH1	P	ER0	SH	IY1	K	R	IH1	S	K	R	AO2	S	T	DH	AH0	S	K	W	EH1	R	M	EH1	N	IY0	T	AY1	M	Z			151. While waiting for Chipper she crisscrossed the square many times.
+	spn		K	W	IH0	Z	IY1	N	IH0	Z	EH1	K	S	K	W	AH0	Z	AH0	T			152. Vietnamese cuisine is exquisite.
+	DH	AH0	P	R	IY1	V	IY0	AH0	S	S	P	IY1	K	ER0	P	ER0	Z	EH1	N	T	AH0	D	AE0	M	B	IH1	G	Y	UW0	AH0	S	R	IH0	Z	AH1	L	T	S			153. The previous speaker presented ambiguous results.
+	M	AH0	S	K	IY1	T	OW0	Z	IH0	G	Z	IH1	S	T	IH0	N	W	AO1	R	M	HH	Y	UW1	M	IH0	D	K	L	AY1	M	AH0	T	S			154. Mosquitoes exist in warm, humid climates.
+	S	K	AH0	L	AE1	S	T	IH0	K		AE1	P	T	AH0	T	UW2	D	IH1	Z	JH	AH1	JH	D	B	AY1	S	T	AE1	N	D	ER0	D	AY2	Z	D	T	EH1	S	T	S			155. Scholastic aptitude is judged by standardized tests.
+	AO1	R	AH0	N	JH	JH	UW1	S		T	EY1	S	T	S	F	AH1	N	IY0	AE1	F	T	ER0	T	UW1	TH	P	EY2	S	T			156. Orange juice tastes funny after toothpaste.
+	DH	AH0	W	AO1	T	ER0	K	AH0	N	T	EY1	N	D		T	UW1	M	AH1	CH	K	L	AO1	R	IY0	N	AE1	N	D	S	T	AH1	NG	HH	IH1	Z	AY1	Z			157. The water contained too much chlorine and stung his eyes.
+	AA1	R	IH0	K	S	P	EH1	R	AH0	M	AH0	N	T	S	P	AA1	Z	AH0	T	IH0	V	AW1	T	K	AH2	M	W	AH1	Z	AH2	N	IH0	K	S	P	EH1	K	T	IH0	D			158. Our experiment's positive outcome was unexpected.
+	R	IY0	M	UW1	V	DH	AH0	S	P	L	IH1	N	T	ER0	W	IH0	TH	AH0	P	EH1	R	AH0	V	T	W	IY1	Z	ER0	Z			159. Remove the splinter with a pair of tweezers.
+	DH	AH0	D	R	AH1	NG	K	ER0	D	IH0	Z	AH0	S	OW1	SH	AH0	L		AW1	T	K	AE2	S	T			160. The drunkard is a social outcast.
+	DH	AH0	G	AH1	V	ER0	N	M	AH0	N	T	S	AO1	T		AO2	TH	ER0	AH0	Z	EY1	SH	AH0	N	AH1	V	HH	IH1	Z	S	IH1	T	IH0	Z	AH0	N	SH	IH2	P			161. The government sought authorization of his citizenship.
+	EH1	Z	K	OW1	AO1	TH	ER0	Z	W	IY1	P	ER0	Z	EH1	N	T	AH0	D	AA1	R	N	Y	UW1	B	UH1	K	T	AH0	DH	AH0	HH	AO1	T	IY0	AO1	D	IY0	AH0	N	S			162. As co-authors, we presented our new book to the haughty audience.
+	AE1	Z	AH0	P	R	IY0	K	AO1	SH	AH0	N		DH	IY0	AW1	T	L	AO2	Z		B	AO1	T		G	AH1	N	P	AW2	D	ER0	F	ER0	DH	EH1	R	S	T	R	AO1	NG	HH	OW2	L	D			163. As a precaution, the outlaws bought gunpowder for their stronghold.
+	HH	ER1		AA1	B	ER0	N	HH	EH1	R	R	IY0	M	AY1	N	D	IH0	D	HH	IH1	M	AH0	V	AO1	T	AH0	M	L	IY1	V	Z			164. Her auburn hair reminded him of autumn leaves.
+	DH	EY1	R	IH0	M	EY1	N	D	L	AY1	F	L	AO1	NG	F	R	EH1	N	D	Z	AH0	N	D	K	AH0	M	P	AE1	N	Y	AH0	N	Z			165. They remained lifelong friends and companions.
+	K	Y	UH2	R	IY0	AA1	S	AH0	T	IY0	AE1	N	D	M	IY2	D	IY0	AA1	K	R	AH0	T	IY0	S	EH1	L	D	AH0	M	K	OW1	IH0	G	Z	IH1	S	T			166. Curiosity and mediocrity seldom co-exist.
+	DH	IY0	IY1	Z	IY0	G	OW1	IH0	NG	Z	OW0	AA1	L	AH0	JH	AH0	S	T	R	IH0	L	AE1	K	S	T	TH	R	UW0	AW1	T	DH	AH0	V	OY1	IH0	JH			167. The easy going zoologist relaxed throughout the voyage.
+	B	AY0	AA1	L	AH0	JH	IH0	S	T	S	Y	UW1	Z	R	EY2	D	IY0	OW0	AE1	K	T	IH0	V		AY1	S	AH0	T	OW2	P	S	T	AH0	S	T	AH1	D	IY0		M	AY2	K	R	OW0	AO1	R	G	AH0	N	IH2	Z	AH0	M	Z			168. Biologists use radioactive isotopes to study microorganisms. 
+	IH0	M	P	L	OY1	IY0	spn		K	OW2	AH0	N	S	AY1	D	AH0	D	W	IH0	DH	DH	AH0	spn		R	IY2	AO0	R	G	AH0	N	AH0	Z	EY1	SH	AH0	N			169. Employee layoffs coincided with the company's reorganization.
+	HH	UW1	T	UH1	K	DH	AH0	K	AY1	AE0	K	D	AW1	N	DH	AH0	B	AY1	UW0			170. Who took the kayak down the bayou?
+	HH	AW1	W	UH1	D	Y	UW1	IH0	V	AE1	L	Y	UW0	EY2	T	DH	IH0	S	AE2	L	JH	AH0	B	R	EY1	IH0	K		IH0	K	S	P	R	EH1	SH	AH0	N			171. How would you evaluate this algebraic expression?
+	DH	AH0	M	AY1	AH0	N	spn	S	K	AA1	L	ER0	D	IH2	S	AH0	P	IH1	R	D		HH	W	AY1	L	S	ER1	V	EY2	IH0	NG	EY1	N	SH	AH0	N	T	R	UW1	IH0	N	Z			172. The Mayan neoclassic scholar disappeared while surveying ancient ruins.
+	DH	AH0	D	AY2	AH0	G	N	OW1	S	AH0	S		W	AH1	Z	D	IH0	S	K	ER1	AH0	JH	IH0	NG		HH	AW2	EH1	V	ER0	HH	IY1	W	AH1	Z	N	AA1	T		OW1	V	ER0	L	IY0	W	ER1	IY0	D			173. The diagnosis was discouraging; however, he was not overly worried.
+	DH	IY0	AO2	L	T	R	UW0	IH1	S	T	IH0	K	D	AW1	AH0	JH	ER0	HH	EH1	L	P	T	M	EH1	N	IY0	spn		V	EY1	G	R	AH0	N	T	S			174. The altruistic dowager helped many malnourished vagrants.
+	DH	AH0	T	R	AY0	AH1	M	F	AH0	N	T	W	AO1	R	IY0	ER0		IH0	G	Z	IH1	B	AH0	T	AH0	D	N	AY2	IY1	V	HH	EH1	R	OW0	IH2	Z	AH0	M			175. The triumphant warrior exhibited naive heroism.
+	HH	UW0	EH1	V	ER0	K	OW0	AA1	P	ER0	EY2	T	S	IH0	N	F	AY1	N	D	IH0	NG	N	AH0	N	Z	K	AE1	M	IY0	OW2	W	AH0	L	B	IY0	R	IH0	W	AO1	R	D	IH0	D			176. Whoever cooperates in finding Nan's cameo will be rewarded.
+	DH	AH0	HH	AO1	N	T	AH0	D	HH	AW1	S	W	AH1	Z	AH0	HH	IH1	T	D	Y	UW1	T	AH0	AW2	T	S	T	AE1	N	D	IH0	NG	AO2	D	IY0	OW0	V	IH1	ZH	UW0	AH0	L	IH0	F	EH1	K	S			177. The haunted house was a hit due to outstanding audiovisual effects.
+	S	AH0	V	IH1	R	M	AY0	OW1	P	IY0	AH0		K	AH0	N	T	R	IH1	B	Y	UW0	T	IH0	D	T	AH0	spn	IH2	N	F	IH0	R	IY0	AO1	R	IH0	T	IY0	K	AA1	M	P	L	EH0	K	S			178. Severe myopia contributed to Ron's inferiority complex.
+	B	AY1	IH0	NG	AH0	TH	ER1	OW0	B	R	EH1	D	HH	AO1	R	S	R	IY0	K	W	AY1	R	Z	IH2	N	T	UW0	IH1	SH	AH0	N	AE1	N	D	EH2	K	S	P	ER0	T	IY1	Z			179. Buying a thoroughbred horse requires intuition and expertise.
+	D	IH0	Z	K	R	IY1	OW0	L	K	UH1	K	IH0	NG	Y	UW1	Z	K	ER1	IY0			180. Does creole cooking use curry? 
+	SH	IY1	IH0	N	K	ER1	AH0	JH	D	HH	ER0	CH	IH1	L	D	R	AH0	N	T	AH0	M	EY1	K	DH	EH1	R	OW1	N	HH	AE2	L	AH0	W	IY1	N	K	AA1	S	T	UW0	M	Z			181. She encouraged her children to make their own Halloween costumes.
+	W	IY1	K	UH1	D	B	EH1	R	L	IY0	S	IY1	DH	AH0	F	Y	AO1	R	D	Z	TH	R	UW1	DH	AH0	S	N	OW1	F	L	ER1	IY0	Z			182. We could barely see the fjords through the snow flurries.
+	AO1	L	M	OW2	S	T	AO1	L	K	AA1	L	IH0	JH	IH0	Z		AA1	R	N	AW1	K	OW1	EH2	JH	AH0	K	EY1	SH	AH0	N	AH0	L			183. Almost all colleges are now co-educational.
+	R	IH1	CH		L	UH1	K	T	F	ER0	S	P	AA1	T	IH0	D	HH	AY0	IY1	N	AH0	Z	AE1	N	D	JH	AE1	G	W	AA2	R	Z	AO1	N	DH	AH0	S	AH0	F	AA1	R	IY0			184. Rich looked for spotted hyenas and jaguars on the safari.
+	TH	IH1	K		G	L	UW1		UW1	Z	D	AW1	T	AH0	V	DH	AH0	T	UW1	B			185. Thick glue oozed out of the tube.
+	DH	EY1	AO1	L	IH0	N	JH	OY1		AY1	S	K	R	IY1	M	S	AH1	N	D	EY2	Z			186. They all enjoy ice cream sundaes.
+	HH	W	AY1	EH1	L	S	W	UH1	D	D	AE1	N	IY0	AH0	L	AW1	AH1	DH	ER0	Z	T	AH0	G	OW1			187. Why else would Danny allow others to go?
+	DH	AH0	K	AE1	T	S	M	IY0	AW1	AO1	L	W	EY2	Z	HH	ER1	T	S	M	AY1	IY1	R	Z			188. The cat's meow always hurts my ears.
+	D	IH1	D	Y	UW1	B	AY1	EH1	N	IY0	K	AO1	R	D	ER0	OY2	OW1	V	ER0	AO2	L	Z			189. Did you buy any corduroy overalls?
+	W	UH1	D	AH0	T	AA1	M	B	OY2		AO1	F	T	AH0	N	P	L	EY1	AW1	T	D	AO1	R	Z			190. Would a tomboy often play outdoors?
+	DH	EY1	AO1	F	T	AH0	N	G	OW1	AW1	T	IH0	N	DH	IY0	IY1	V	N	IH0	NG			191. They often go out in the evening.
+	HH	UW1	AO1	TH	ER0	AY2	Z	D	DH	IY0	AH0	N	L	IH1	M	IH0	T	IH0	D	IH0	K	S	P	EH1	N	S	AH0	K	AW1	N	T			192. Who authorized the unlimited expense account?
+	D	IH0	S	T	R	OY1	EH1	V	R	IY0	F	AY1	L	R	IH0	L	EY1	T	IH0	D	T	AH0	M	AY1	AA1	D	AH0	T	S			193. Destroy every file related to my audits.
+	S	ER1	V	DH	AH0	spn		AE1	F	T	ER0	AY1	AE1	D	DH	IY0	OY1	L			194. Serve the coleslaw after I add the oil.
+	W	IH0	TH	D	R	AO1	AO1	L	F	OW1	N	IY0	AE2	K	Y	UW0	Z	EY1	SH	AH0	N	Z	AE1	T	W	AH1	N	S			195. Withdraw all phony accusations at once.
+	S	T	R	AO1	HH	AE1	T	S	AA1	R	AW1	T	AH0	V	F	AE1	SH	AH0	N	DH	IH0	S	Y	IH1	R			196. Straw hats are out of fashion this year.
+	W	AY1	B	AY1	OY1	L	W	EH1	N	Y	UW1	AO1	L	W	EY2	Z	Y	UW1	Z	M	AY1	N			197. Why buy oil when you always use mine?
+	DH	EY1	IH0	N	JH	OY1	IH1	T	W	EH1	N	AY1	AA0	D	IH1	SH	AH0	N			198. They enjoy it when I audition.
+	W	UH1	D	Y	UW1	AH0	L	AW1	AE1	K	S	AH0	V	V	AY1	AH0	L	AH0	N	S			199. Would you allow acts of violence?
+	HH	AW1	D	UW1		OY1	S	T	ER0	Z	M	EY1	K	P	ER1	L	Z			200. How do oysters make pearls?
+	D	R	AO1	IY1	CH	G	R	AE1	F		AA1	N	AH0	N	Y	UW1	AE1	K	S	AH0	S			201. Draw each graph on a new axis.
+	N	AO2	R	W	IY1	JH	AH0	N	S	W	EH1	T	ER0	Z	AA1	R	M	EY1	D	AH0	V	L	AE1	M	Z	W	UH1	L			202. Norwegian sweaters are made of lamb's wool.
+	Y	AH1	NG	CH	IH1	L	D	R	AH0	N	SH	UH1	D	AH0	V	OY1	D	IH0	K	S	P	OW1	ZH	ER0	T	AH0	K	AH0	N	T	EY1	JH	AH0	S	D	IH0	Z	IY1	Z	IH0	Z			203. Young children should avoid exposure to contagious diseases.
+	R	AE1	L	F	K	AH0	N	T	R	OW1	L	D	DH	AH0	S	T	AA1	P	W	AA2	CH	F	ER0	M	DH	AH0	B	L	IY1	CH	ER0	Z			204. Ralph controlled the stopwatch from the bleachers.
+	AH0	P	R	OW1	CH	Y	UH1	R	IH1	N	T	ER0	V	Y	UW2	W	IH0	TH	S	T	AE2	CH	UW0	EH1	S	K	K	AH0	M	P	OW1	ZH	ER0			205. Approach your interview with statuesque composure.
+	HH	AW1	M	AH1	CH	AH0	L	AW1	AH0	N	S	D	UW1	Y	UW1	G	EH1	T			206. How much allowance do you get?
+	DH	AH0	K	AO1	Z	W	EY2	EH1	N	D	IH0	D	AH0	B	R	AH1	P	T	L	IY0	AE1	T	DH	AH0	SH	AO1	R			207. The causeway ended abruptly at the shore.
+	IY1	V	IH0	N	AY1	AH0	K	EY1	ZH	AH0	N	L	IY0	G	EH1	T	DH	AH0	M	AH1	N	D	IY0	B	L	UW1	Z			208. Even I occasionally get the Monday blues!
+	M	IH1	L	AH0	T	EH2	R	IY0	P	ER2	S	AH0	N	EH1	L	AA1	R	IH0	K	S	P	EH1	K	T	IH0	D	T	UW1	OW0	B	EY1	G	AH1	V	ER0	M	AH0	N	T	AO1	R	D	ER0	Z			209. Military personnel are expected to obey government orders.
+	HH	W	IH1	N	P	IY1	L	IH0	NG	AH0	N	AO1	R	AH0	N	JH	IH1	T	IH0	Z	HH	AA1	R	D		N	AA1	T	T	AH0	S	P	R	EY1	JH	UW1	S			210. When peeling an orange, it is hard not to spray juice.
+	D	UW1	Y	UW1	HH	IY1	R	DH	AH0	S	L	EY1	B	EH1	L	Z	R	IH1	NG	IH0	NG			211. Do you hear the sleigh bells ringing?
+	R	AA1	B	S	AE1	T	B	AY1	DH	AH0	P	AA1	N	D	AH0	N	D	S	K	EH1	CH	T	DH	AH0	S	T	R	EY1	G	IY1	S			212. Rob sat by the pond and sketched the stray geese.
+	M	AY1	K	AH0	L	K	AH1	L	ER0	D		DH	AH0	B	EH1	D	R	UW2	M	W	AO1	L	W	IH0	TH	K	R	EY1	AA2	N	Z			213. Michael colored the bedroom wall with crayons.
+	JH	EH1	F	S	T	OY1	G	OW1	K	AA1	R	T	N	EH1	V	ER0	W	ER1	K	T			214. Jeff's toy go-cart never worked!
+	OW1	N	L	IY0	DH	AH0	B	EH1	S	T	P	L	EY1	ER0	Z	IH0	N	JH	OY1	P	AA2	P	Y	AH0	L	EH1	R	AH0	T	IY0			215. Only the best players enjoy popularity.
+	AY1	G	EY1	V	DH	AH0	M	S	EH1	V	R	AH0	L	CH	OY1	S	IH0	Z	AE1	N	D	L	EH1	T	DH	AH0	M	S	EH1	T	DH	AH0	P	R	AY0	AO1	R	AH0	T	IY0	Z			216. I gave them several choices and let them set the priorities.
+	DH	AH0	N	Y	UW1	Z		EY1	JH	AH0	N	S	IY0	HH	AY1	ER0	D	AH0	G	R	EY1	T	JH	ER1	N	AH0	L	IH0	S	T			217. The news agency hired a great journalist.
+	DH	AH0	M	AO1	R	N	IH0	NG	D	UW1	AA1	N	DH	AH0	S	P	AY1	D	ER0	W	EH1	B		G	L	IH1	S	AH0	N	D	IH0	N	DH	AH0	S	AH1	N			218. The morning dew on the spider web glistened in the sun.
+	DH	AH0	S	ER1	M	AH0	N		EH1	M	F	AH0	S	AY2	Z	D	DH	AH0	N	IY1	D	F	ER0		AH0	F	ER1	M	AH0	T	IH0	V	AE1	K	SH	AH0	N			219. The sermon emphasized the need for affirmative action.
+	DH	AH0	S	M	AO1	L	B	OY1	P	UH1	T	DH	AH0	W	ER1	M	AA1	N	DH	AH0	HH	UH1	K			220. The small boy put the worm on the hook.
+	HH	AW1	P	ER1	M	AH0	N	AH0	N	T	AA1	R	DH	EH1	R	R	EH1	K	ER0	D	Z			221. How permanent are their records?
+	T	R	AY1	T	UW1	R	IH0	K	AO1	L	DH	IY0	IH0	V	EH1	N	T	S	IH0	N	K	R	AA2	N	AH0	L	AA1	JH	IH0	K	AH0	L	AO1	R	D	ER0			222. Try to recall the events in chronological order.
+	N	AA1	N	P	R	AA1	F	AH0	T	AO2	R	G	AH0	N	AH0	Z	EY1	SH	AH0	N	Z	HH	AE1	V	F	R	IY1	K	W	AH0	N	T	spn			223. Non-profit organizations have frequent fundraisers.
+	DH	AH0	M	OW1	S	T	R	IY1	S	AH0	N	T	JH	IY2	AH0	L	AA1	JH	IH0	K	AH0	L	S	ER1	V	EY2	F	AW1	N	D	S	AY1	Z	M	IH0	K	AE0	K	T	IH1	V	IH0	T	IY0			224. The most recent geological survey found seismic activity.
+	K	AO1	R	IY0	AH0	T	AE1	K	T	DH	AH0	P	R	AA1	JH	EH0	K	T	W	IH0	TH		EH1	K	S	T	R	AH0	D	IH0	T	ER2	M	AH0	N	EY1	SH	AH0	N			225. Cory attacked the project with extra determination.
+	Y	UW1	AO1	L	W	EY2	Z	K	AH1	M	AH1	P	W	IH0	TH	P	AE2	TH	AH0	L	AA1	JH	IH0	K	AH0	L	IH0	G	Z	AE1	M	P	AH0	L	Z			226. You always come up with pathological examples.
+	P	UH1	T	DH	AH0	B	UH1	CH	ER0	B	L	AA1	K	T	EY1	B	AH0	L	IH0	N	DH	IY0	G	ER0	AA1	ZH			227. Put the butcher block table in the garage.
+	HH	AW1	G	UH1	D	IH0	Z	Y	UH1	R	EH1	N	D	ER0	AH0	N	S			228. How good is your endurance?
+	K	IY1	P	DH	AH0	TH	ER0	M	AA1	M	AH0	T	ER0		AH1	N	D	ER0	Y	UH1	R	T	AH1	NG			229. Keep the thermometer under your tongue!
+	S	T	EH1	F	K	UH1	D	B	EH1	R	L	IY0	HH	AE1	N	D	AH0	L	DH	AH0	S	AY2	K	AH0	L	AA1	JH	IH0	K	AH0	L	T	R	AO1	M	AH0			230. Steph could barely handle the psychological trauma.
+	IH1	T	S	HH	EH1	L	TH	IY0	ER0	T	AH0	K	UH1	K	W	IH0	TH	AW1	T	SH	UH1	G	ER0			231. It's healthier to cook without sugar.
+	DH	AH0	V	Y	UW1	P	OY2	N	T		OW1	V	ER0	L	UH2	K	T	DH	IY0	OW1	SH	AH0	N			232. The viewpoint overlooked the ocean.
+	AA1	R	Y	UW1	L	UH1	K	IH0	NG	F	ER0	IH0	M	P	L	OY1	M	AH0	N	T			233. Are you looking for employment?
+	AH0	L	AW1	L	IY1	W	EY2	HH	IY1	R			234. Allow leeway here.
+	AY1	AA0	N	ER0	M	AY1	M	AH1	M			235. I honour my mum.
+	HH	IH1	Z	F	EY1	L	Y	ER0	T	AH0		OW1	P	AH0	N	DH	AH0	S	T	AO1	R	B	AY1	EY1	T	K	AA1	S	T	HH	IH1	M	HH	IH1	Z	JH	AA1	B			236. His failure to open the store by eight cost him his job.
+	R	AE1	SH	AH0	N	AH0	L	AY2	Z	AO1	L	EH1	R	ER0	Z			237. Rationalize all errors.
+	HH	AY1	W	EY2	AH0	N	D	F	R	IY1	W	EY2	M	IY1	N	DH	AH0	S	EY1	M	TH	IH1	NG			238. Highway and freeway mean the same thing.
+	DH	AH0	P	EY1	P	ER0	B	OY1	B	AO1	T	T	UW1	AE1	P	AH0	L	Z	AE1	N	D	TH	R	IY1	AY1	S	IH0	Z			239. The paper boy bought two apples and three ices.
+	AY1	spn	AO1	L	AH0	K	AW1	N	T	S	IH0	N	M	AY1	EY1	JH	AH0	N	S	IY0			240. I itemize all accounts in my agency.
+	K	L	IH1	R	P	R	AH0	N	AH2	N	S	IY0	EY1	SH	AH0	N	IH0	Z	AH0	P	R	IY1	SH	IY0	EY2	T	IH0	D			241. Clear pronunciation is appreciated.
+	DH	AH0	K	ER1	IY0	ER0	W	AH1	Z	AH0	spn			242. The courier was a dwarf.
+	AH0	D	AA1	K	T	ER0	W	AH1	Z	IH0	N	DH	IY0	AE1	M	B	Y	AH0	L	AH0	N	S	W	IH0	TH	DH	AH0	P	EY1	SH	AH0	N	T			243. A doctor was in the ambulance with the patient.
+	P	Y	UH0	R	EY1	S	AH1	M	F	R	UW1	T		B	IH0	F	AO1	R	P	R	IY0	P	EH1	R	IH0	NG	DH	AH0	S	K	Y	UW1	ER0	Z			244. Puree some fruit before preparing the skewers.
+	IH0	T	S	N	AA1	T	IY1	Z	IY0	T	AH0	K	R	IY0	EY1	T	IH0	L	UW1	M	AH0	N	EY2	T	IH0	NG	IH0	G	Z	AE1	M	P	AH0	L	Z			245. It's not easy to create illuminating examples.
+	DH	AH0	HH	AO1	L	W	EY2	OW1	P	AH0	N	Z	IH0	N	T	UW1	AH0	HH	Y	UW1	JH		CH	EY1	M	B	ER0			246. The hallway opens into a huge chamber.
+	M	EY1	AY1	AO1	R	D	ER0	AH0	P	AA2	R	F	EY1	AE1	F	T	ER0	AY1	IY1	T	D	IH1	N	ER0			247. May I order a parfait after I eat dinner?
+	DH	EY1	AO1	L	AH0	G	R	IY1	DH	AH0	T	DH	IY0	EH1	S	EY2	IH0	Z	B	EH1	R	L	IY0	IH0	N	T	EH1	L	AH0	JH	AH0	B	AH0	L			248. They all agree that the essay is barely intelligible.
+	ER1	B	Z	B	ER1	TH	D	EY2	F	R	IY1	K	W	AH0	N	T	L	IY0	AH0	K	ER1	Z	AA1	N	TH	AE2	NG	K	S	G	IH1	V	IH0	NG			249. Herb's birthday frequently occurs on Thanksgiving.
+	D	AH1	Z	HH	IH1	N	D	UW2	AY2	D	IY0	AA1	L	AH0	JH	IY0	AA0	N	ER0	K	AW1	Z			250. Does Hindu ideology honour cows?
+	HH	AW1		EY1	N	SH	AH0	N	T	IH0	Z	DH	IH0	S	S	AH1	B	W	EY2	EH1	S	K	AH0	L	EY2	T	ER0			251. How ancient is this subway escalator?
+	DH	AH0	S	IH2	G	ER0	EH1	T	S	IH0	N	DH	AH0	K	L	EY1	AE1	SH	T	R	EY2		OW2	V	ER0	F	L	OW1	D	AA1	N	T	UW0	DH	AH0	OW1	K	T	EY1	B	AH0	L			252. The cigarettes in the clay ashtray overflowed onto the oak table.
+	R	IY1	D	IH0	NG	IH0	N	P	UW1	R	L	AY1	T		G	IH1	V	Z	Y	UW1	spn			253. Reading in poor light gives you eyestrain.
+	AY1	EY1	T		EH1	V	R	IY0	OY1	S	T	ER0		AA1	N	spn		P	L	EY1	T			254. I ate every oyster on Nora's plate.
+	DH	AH0	B	AA1	S	T	AH0	N	B	AE0	L	EY1	OW1	V	ER0	K	EY1	M	DH	EH1	R	F	AH1	N	D	IH0	NG	SH	AO1	R	T	AH0	JH			255. The Boston Ballet overcame their funding shortage.
+	W	IY1	AH0	P	L	AY1	AO1	D	IH0	T	AO2	R	IY0	M	OW0	D	EH1	L	IH0	NG	T	AH0	K	AH0	M	P	Y	UW1	T	ER0	S	P	IY1	CH	R	EH2	K	AH0	G	N	IH1	SH	AH0	N			256. We apply auditory modelling to computer speech recognition.
+	DH	AH0	G	AO1	R	JH	AH0	S	B	AH1	T	ER0	F	L	AY2	EY1	T	AH0	L	AA1	T	AH0	V	N	EH1	K	T	ER0			257. The gorgeous butterfly ate a lot of nectar.
+	B	AY1	IY1	T	IH0	NG	Y	OW1	G	ER0	T	Y	UW1	M	EY1	L	IH1	V	L	AO1	NG	G	ER0			258. By eating yogurt, you may live longer.
+	D	UW1	DH	EY1	AH0	L	AW1		EY1	TH	IY0	AH0	S	T	S	IH1	N	CH	ER1	CH			259. Do they allow atheists in church?
+	M	AY1	AY0	D	IY1	L	M	AO1	R	N	IH0	NG	B	IH0	G	IH1	N	Z	W	IH0	TH	HH	AA1	T	K	AO1	F	IY0			260. My ideal morning begins with hot coffee.
+	DH	IY0	AY0	R	EY1	T	AE1	K	T	ER0	S	T	AA1	M	P	T	AH0	W	EY1	IH2	D	IY0	AA1	T	IH0	K	L	IY0			261. The irate actor stomped away idiotically.
+	W	IY1	AA1	R		OW1	P	AH0	N		EH1	V	R	IY0	M	AH1	N	D	EY2	IY1	V	N	IH0	NG			262. We are open every Monday evening.
+	DH	IY0	EH1	S	EY2	AH2	N	D	IH0	N	AY1	AH0	B	L	IY0	R	IH0	F	L	EH1	K	S	AA1	R	V	Y	UW1	EY1	B	L	IY0			263. The essay undeniably reflects our view ably.
+	T	AO0	R	N	EY1	D	OW2	Z	AO1	F	T	AH0	N	D	IH0	S	T	R	OY1		EY1	V	IY0	EH2	R	IY0	Z			264. Tornados often destroy aviaries.
+	R	IH0	M	EH1	M	B	ER0	T	AH0	AH0	L	AW1	AY0	D	EH1	N	T	IH0	K	AH0	L	T	W	IH1	N	Z		T	AH0	EH1	N	T	ER0	F	R	IY1	L	IY0			265. Remember to allow identical twins to enter freely.
+	D	UW1	Y	UW1	HH	AE1	V	DH	IY0	Y	EH1	L	OW0	OY1	N	T	M	AH0	N	T	R	EH1	D	IY0			266. Do you have the yellow ointment ready?
+	K	AE1	N	DH	IY0	EY1	JH	AH0	N	S	IY0		OW1	V	ER0	TH	R	OW2		EY1	L	IY0	AH0	N	F	AO1	R	S	IH0	Z			267. Can the agency overthrow alien forces?
+	HH	AW1		OY1	L	IY0	D	UW1	Y	UW1	L	AY1	K	Y	UH1	R	S	AE1	L	AH0	D	D	R	EH1	S	IH0	NG			268. How oily do you like your salad dressing?
+	W	IY1	S	AO1		EY1	T		T	AY1	N	IY0	AY1	S	IH0	K	AH0	L	Z		B	IH0	L	OW1	AA1	R	R	UW1	F			269. We saw eight tiny icicles below our roof.
+	DH	AH0	S	AO1	IH0	Z	B	R	OW1	K	AH0	N		S	OW1	CH	AA1	P	DH	AH0	W	UH1	D	IH0	N	S	T	EH1	D			270. The saw is broken, so chop the wood instead.
+	W	IH0	TH	D	R	AO1		OW1	N	L	IY0	EH1	Z	M	AH1	CH	M	AH1	N	IY0	EH1	Z	Y	UW1	N	IY1	D			271. Withdraw only as much money as you need.
+	D	R	AO1	EH1	V	R	IY0	AW1	T	ER0	L	AY1	N	F	ER1	S	T		DH	EH1	N	F	IH1	L	IH0	N	DH	IY0	IH0	N	T	IH1	R	IY0	ER0			272. Draw every outer line first, then fill in the interior.
+	DH	AH0	JH	AO1		AA1	P	ER0	EY2	T	S	B	AY1	Y	UW1	Z	IH0	NG	AE0	N	T	AE2	G	AH0	N	IH1	S	T	IH0	K	M	AH1	S	AH0	L	Z			273. The jaw operates by using antagonistic muscles.
+	D	UW1	spn	F	AA1	R	M	ER0	Z	G	R	OW1	OW1	T	S			274. Do atypical farmers grow oats?
+	AA1	R	HH	AA1	L	AH0	D	EY2	EY1	P	R	AH0	N	Z	AH0	V	EY1	L	AH0	B	AH0	L	T	UW1	AH1	S			275. Are holiday aprons available to us?
+	B	IY0	K	EH1	R	F	AH0	L	N	AA1	T	T	AH0	P	L	AW1		OW1	V	ER0	DH	AH0	F	L	AW1	ER0	B	EH1	D	Z			276. Be careful not to plow over the flower beds.
+	AH0	L	AW1	IY1	CH	CH	AY1	L	D	T	AH0	HH	AE1	V	AH0	N		AY1	S	P	AA1	P			277. Allow each child to have an ice pop.
+	DH	IY0	AE1	NG	G	R	IY0	B	OY1	AE1	N	S	ER0	D		B	AH1	T	D	IH1	N	T	L	UH1	K	AH1	P			278. The angry boy answered but didn't look up.
+	K	L	IH1	F	W	AH1	Z	S	UW1	DH	D		B	AY1	DH	AH0	L	AH0	G	ZH	ER1	IY0	AH0	S	M	AH0	S	AA1	ZH			279. Cliff was soothed by the luxurious massage.
+	S	T	IY1	V	W	AO1	R	AH0	B	R	AY1	T	R	EH1	D	K	AE1	ZH	M	IH0	R	S	W	EH1	T	ER0			280. Steve wore a bright red cashmere sweater.
+	JH	AA1	N	Z	B	R	AH1	DH	ER0		R	IY0	P	EY1	N	T	AH0	D	DH	IY0	G	ER0	AA1	ZH		D	AO1	R			281. John's brother repainted the garage door.
+	DH	AH0	R	OW1	Z	K	AO0	R	S	AA1	ZH	S	M	EH1	L	D	S	W	IY1	T			282. The rose corsage smelled sweet.
+	T	AH0	F	ER1	DH	ER0	HH	IH1	Z	P	R	EH0	S	T	IY1	ZH		HH	IY1		AH0	K	EY1	ZH	AH0	N	L	IY0	R	IY1	D	Z	DH	AH0	W	AO1	L	S	T	R	IY1	T		JH	ER1	N	AH0	L			283. To further his prestige, he occasionally reads the Wall Street Journal.
+	spn	AH0	B	IH1	L	AH0	T	IY0	T	AH0	W	ER1	K	W	IH0	DH	AW1	T	S	UW2	P	ER0	V	IH1	ZH	AH0	N		IH0	Z	N	OW1	T	W	ER2	DH	IY0			284. Alice's ability to work without supervision is noteworthy.
+	DH	IY0	OW0	EY1	S	IH0	S	W	AH1	Z	AH0	M	ER0	AA1	ZH			285. The oasis was a mirage.
+	K	AO1	R	IY0	AH0	N	D	spn		P	L	EY1	D	T	AE1	G		W	IH0	TH	B	IY1	CH	B	AO1	L	Z	F	R	ER0		AW1	ER0	Z			286. Cory and Trish played tag with beach balls for hours.
+	DH	AH0	T	UW1	TH	F	EH1	R	IY0	F	ER0	G	AA1	T	T	AH0	K	AH1	M	W	EH1	N	R	AA1	JH	ER0	Z	T	UW1	TH	F	EH1	L	AW1	T			287. The tooth fairy forgot to come when Roger's tooth fell out.
+	P	L	AE1	N	D	P	EH1	R	AH0	N	T	HH	UH2	D	AO2	R	G	AH0	N	AH0	Z	EY1	SH	AH0	N	Z	P	R	AH0	M	OW1	T		B	ER1	TH	K	AH0	N	T	R	OW1	L			288. Planned parenthood organizations promote birth control.
+	JH	EH1	F	TH	AO1	T	Y	UW1	AA1	R	G	Y	UW0	D	IH0	N	F	EY1	V	ER0	AH0	V	AH0	S	EH1	N	T	R	AH0	F	Y	UW2	JH	P	ER1	CH	AH0	S			289. Jeff thought you argued in favour of a centrifuge purchase.
+	R	IH1	CH	P	ER1	CH	AH0	S	T	S	EH1	V	R	AH0	L	S	AY1	N	D	L	IH1	TH	AH0	G	R	AE2	F	S			290. Rich purchased several signed lithographs.
+	IH0	N	EH1	V	R	IY0	M	EY1	JH	ER0	K	L	OW1	V	ER0	L	IY2	F	T	R	AE1	F	IH0	K	S	AH1	M	T	AY2	M	Z	G	IH1	T	S	B	AE1	K	T	AH1	P			291. In every major cloverleaf, traffic sometimes gets backed up.
+	IH0	N	DH	AH0	L	AO1	NG	R	AH1	N		IH0	T	P	EY1	Z	T	AH0	B	AY1		K	W	AA1	L	AH0	T	IY0	K	L	OW1	DH	IH0	NG			292. In the long run, it pays to buy quality clothing.
+	B	R	AH1	SH	F	AY1	R	Z	AA1	R	K	AA1	M	AH0	N	IH0	N	DH	AH0	D	R	AY1	AH1	N	D	ER0	B	R	AH2	SH	AH0	V	N	AH0	V	AA1	D	AH0			293. Brush fires are common in the dry underbrush of Nevada.
+	W	EH1	DH	ER0	P	R	UW2	F		G	AH0	L	AA1	SH	IH0	Z		AA1	R	V	EH1	R	IY0	Y	UW1	S	F	AH0	L	IH0	N	S	IY0	AE1	T	AH0	L			294. Weatherproof galoshes are very useful in Seattle.
+	DH	IH0	S	B	R	OW0	SH	UH1	R	IH0	Z	P	ER0	T	IH1	K	Y	AH0	L	ER0	L	IY0	IH0	N	F	AO1	R	M	AH0	T	IH0	V	F	ER0	AH0	P	R	AH0	S	P	EH1	K	T	IH0	V		B	AY1	ER0			295. This brochure is particularly informative for a prospective buyer.
+	DH	IY0	AE1	V	AH0	L	AE2	N	CH	T	R	IH1	G	ER0	D		AH0	M	AY1	N	ER0		ER1	TH	K	W	EY2	K			296. The avalanche triggered a minor earthquake.
+	DH	IY1	Z	IH0	K	S	K	L	UW1	S	IH0	V	D	AA1	K	Y	AH0	M	AH0	N	T	S	M	AH1	S	T	B	IY0	L	AA1	K	T	AH1	P	AE1	T	AO1	L	T	AY1	M	Z			297. These exclusive documents must be locked up at all times.
+	P	L	IY1	Z	T	EY1	K	DH	IH0	S	D	ER1	T	IY0	T	EY1	B	AH0	L	K	L	AO1	TH	T	AH0	DH	AH0	K	L	IY1	N	ER0	Z	F	AO1	R	M	IY1			298. Please take this dirty table cloth to the cleaners for me.
+	SH	UH1	D	JH	ER0	AE1	F	S	B	IY0	K	EH1	P	T	IH0	N	S	M	AO1	L	Z	UW1	Z			299. Should giraffes be kept in small zoos?
+	IH1	F	K	EH1	R	AH0	L	K	AH1	M	Z	T	AH0	M	AA1	R	OW2	HH	AE1	V	HH	ER0	ER0	EY1	N	JH	F	ER0	AH0	M	IY1	T	IH0	NG	AE1	T	T	UW1			300. If Carol comes tomorrow, have her arrange for a meeting at two.
+	DH	AH0	T	UW1	AA1	R	T	IH0	S	T	S	IH0	K	S	CH	EY1	N	JH	D		AO1	T	AH0	G	R	AE2	F	S			301. The two artists exchanged autographs.
+	R	AA1	K	AH0	N	D	R	OW1	L	M	Y	UW1	Z	IH0	K	HH	AE1	Z	AH0	G	R	EY1	T	R	IH1	DH	AH0	M			302. Rock-and-roll music has a great rhythm.
+	AY1	D	IY1	R	AH1	DH	ER0	N	AA1	T		B	AY1	DH	IY1	Z	SH	UW1	Z	DH	AH0	N	B	IY0	OW1	V	ER0	CH	AA1	R	JH	D			303. I'd rather not buy these shoes than be overcharged.
+	SH	EY1	V	IH0	NG	K	R	IY1	M	IH0	Z	AH0	P	AA1	P	Y	AH0	L	ER0	AY1	T	AH0	M	AA1	N	HH	AE2	L	AH0	W	IY1	N			304. Shaving cream is a popular item on Halloween.
+	spn	CH	EY1	N	JH	SH	EY1	P	K	AA1	N	S	T	AH0	N	T	L	IY0			305. Amoebas change shape constantly.
+	W	IY1	L	AY1	K	B	L	UW1	CH	IY1	Z		B	AH1	T	V	IH1	K	T	ER0	L	AY1	K	S	B	R	IY1			306. We like blue cheese but Victor likes brie.
+	T	OW1	F	UW0	IH0	Z	M	EY1	D	F	ER0	M	P	R	AA1	S	EH0	S	T	spn			307. Tofu is made from processed soybeans.
+	DH	AH0	B	L	UW1	JH	EY2		F	L	UW1	OW1	V	ER0	DH	AH0	HH	AY1	B	IH1	L	D	IH0	NG			308. The bluejay flew over the high building.
+	CH	IY1	P	S	T	AA1	K	IH0	NG	Z	R	AH1	N	DH	AH0	F	ER1	S	T	T	AY1	M	DH	EH1	R	W	AO1	R	N			309. Cheap stockings run the first time they're worn.
+	K	AA1	T	IH0	JH	CH	IY1	Z	W	IH0	TH	CH	AY1	V	Z		IH0	Z	D	IH0	L	IH1	SH	AH0	S			310. Cottage cheese with chives is delicious.
+	AH0	CH	OW1	Z	AH0	N	F	Y	UW1	W	AH0	L	B	IH0	K	AH1	M	JH	EH1	N	ER0	AH0	L	Z			311. A chosen few will become Generals.
+	DH	AH0	M	IY1	T	IH0	NG	IH0	Z	N	AW1	AH0	JH	ER1	N	D			312. The meeting is now adjourned.
+	SH	IH1	P	B	IH2	L	D	IH0	NG		IH0	Z	AH0	M	OW1	S	F	AE1	S	AH0	N	EY2	T	IH0	NG	P	R	AA1	S	EH2	S			313. Shipbuilding is a most fascinating process.
+	DH	AH0	P	R	UW1	F	DH	AH0	T	Y	UW1	ER0	S	IY1	K	IH0	NG	IH0	Z	N	AA1	T	AH0	V	EY1	L	AH0	B	AH0	L	IH0	N	B	UH1	K	S			314. The proof that you are seeking is not available in books.
+	DH	AH0	HH	UH1	D	AH0	V	DH	AH0	JH	IY1	P	W	AH1	Z	S	T	IY1	M	IH0	NG	IH0	N	DH	AH0	HH	AA1	T	S	AH1	N			315. The hood of the jeep was steaming in the hot sun.
+	M	AY1	D	IH0	Z	AY1	ER0	Z	AA1	R	S	IH1	M	P	AH0	L		G	IH1	V	M	IY1	W	AH1	N	IH0	N	F	AO1	R	M	AH0	T	IH0	V	P	EH1	R	AH0	G	R	AE2	F		AA1	N	DH	AH0	S	AH1	B	JH	IH0	K	T			316. My desires are simple: give me one informative paragraph on the subject.
+	DH	OW1	Z	AE1	N	S	ER0	Z	W	AH0	L	B	IY0	S	T	R	EY1	T	F	AO1	R	W	ER0	D		IH0	F	Y	UW1	TH	IH1	NG	K	DH	AH0	M	TH	R	UW1	K	EH1	R	F	AH0	L	IY0	F	ER1	S	T			317. Those answers will be straightforward if you think them through carefully first.
+	D	R	AA1	P	F	AY1	V	F	AO1	R	M	Z	IH0	N	DH	AH0	B	AA1	K	S	B	IH0	F	AO1	R	Y	UW1	G	OW1	AW1	T			318. Drop five forms in the box before you go out.
+	IH0	F	P	IY1	P	AH0	L	W	ER0	M	AO1	R	JH	EH1	N	ER0	AH0	S	DH	EH1	R	W	UH1	D	B	IY0	N	OW1	N	IY1	D	F	ER0	W	EH1	L	F	EH2	R			319. If people were more generous, there would be no need for welfare.
+	B	AA1	B	F	AW1	N	D	M	AO1	R	K	L	AE1	M	Z	AE1	T	DH	IY0	OW1	SH	AH0	N	Z		EH1	JH			320. Bob found more clams at the ocean's edge.
+	DH	AE1	T	D	AO1	G		CH	EY1	S	IH0	Z	K	AE1	T	S	M	ER1	S	AH0	L	AH0	S	L	IY0			321. That dog chases cats mercilessly.
+	DH	AH0	K	R	AE1	N	B	EH2	R	IY0	B	AO1	G	G	IH1	T	S	V	EH1	R	IY0	P	R	IH1	T	IY0	IH0	N	AO1	T	AH0	M			322. The cranberry bog gets very pretty in Autumn.
+	P	L	IY1	Z	D	IH1	G		M	AY1	P	AH0	T	EY1	T	OW0	Z	AH1	P	B	IH0	F	AO1	R	DH	AH0	F	R	AO1	S	T			323. Please dig my potatoes up before the frost.
+	AH0	B	IH1	G		G	OW1	T		AY1	D	L	IY0	AE1	M	B	AH0	L	D	TH	R	UW1	DH	AH0	F	AA1	R	M	Y	AA2	R	D			324. A big goat idly ambled through the farmyard.
+	DH	AH0	N	IH1	R	AH0	S	T	S	IH1	N	AH0	G	AO2	G	M	EY1	N	AA1	T	B	IY0	W	IH0	DH	IH1	N	W	AO1	K	IH0	NG	D	IH1	S	T	AH0	N	S			325. The nearest synagogue may not be within walking distance.
+	DH	AH0	G	R	AW1	N	D	HH	AA2	G	K	L	IH1	R	L	IY0	S	AO1	HH	IH0	Z	SH	AE1	D	OW2	B	AH1	T	S	T	EY1	D	AW1	T		OW1	N	L	IY0	AH0	M	OW1	M	AH0	N	T			326. The groundhog clearly saw his shadow, but stayed out only a moment.
+	AH0	L	EH1	DH	ER0	HH	AE1	N	D	B	AE2	G		W	UH1	D	B	IY0	AH0	S	UW1	T	AH0	B	AH0	L	G	IH1	F	T			327. A leather handbag would be a suitable gift.
+	DH	AH0	F	AO1	G	P	R	IH0	V	EH1	N	T	IH0	D	DH	EH1	M	F	ER0	M	ER0	AY1	V	IH0	NG	AA1	N	T	AY1	M			328. The fog prevented them from arriving on time.
+	DH	AH0	L	OW1	K	AH0	L	D	R	AH1	G	S	T	AO2	R	W	AH1	Z	CH	AA1	R	JH	D	W	IH0	TH	IH0	L	IY1	G	AH0	L	IY0	D	IH0	S	P	EH1	N	S	IH0	NG	spn			329. The local drugstore was charged with illegally dispensing tranquilizers.
+	DH	AH0	F	UH1	L	M	UW1	N	SH	OW1	N	B	R	AY1	T	L	IY0	DH	AE1	T	N	AY1	T			330. The full moon shone brightly that night.
+	S	T	IY1	V	K	AH0	L	EH1	K	T	S		R	EH1	R		AH0	N	D	N	AA1	V	AH0	L	K	OY1	N	Z			331. Steve collects rare and novel coins.
+	AE1	L	R	IH0	S	IY1	V	D	AH0	JH	OY1	N	T	AH0	P	OY1	N	T	M	AH0	N	T	IH0	N	DH	AH0	B	AY0	AA1	L	AH0	JH	IY0	AE1	N	D	DH	IY0	EH1	N	JH	AH0	N	IH1	R	IH0	NG	D	IH0	P	AA1	R	T	M	AH0	N	T	S			332. Al received a joint appointment in the biology and the engineering departments.
+	G	R	EH1	G	ER0	IY0	AH0	N	D	T	AA1	M	CH	OW1	Z	T	AH0	W	AA1	CH	K	AA0	R	T	UW1	N	Z	IH0	N	DH	IY0	AE2	F	T	ER0	N	UW1	N			333. Gregory and Tom chose to watch cartoons in the afternoon.
+	CH	IH1	P	P	OW0	S	P	OW1	N	D	AE1	L	AH0	M	OW2	N	IY0	P	EY1	M	AH0	N	T	S	AH0	N	T	IH1	L	DH	AH0	L	EY1	T	AH0	S	T	P	AA1	S	AH0	B	AH0	L	D	EY1	T			334. Chip postponed alimony payments until the latest possible date.
+	K	AW1	N	T	DH	AH0	N	AH1	M	B	ER0	AH0	V	T	IY1	S	P	UW2	N	Z	AH0	V	spn	DH	AH0	T	Y	UW1	AE1	D			335. Count the number of teaspoons of soysauce that you add.
+	DH	AH0	B	IH1	G	D	AO1	G	L	AH1	V	D	T	AH0	CH	UW1		AA1	N	DH	IY0	OW1	L	D	R	AE1	G		D	AA1	L			336. The big dog loved to chew on the old rag doll.
+	T	AA1	D		P	L	EY1	S	T	T	AA1	P	P	R	AY0	AO1	R	AH0	T	IY0	AO1	N	G	EH1	T	IH0	NG	HH	IH1	Z		B	AY1	K	F	IH1	K	S	T			337. Todd placed top priority on getting his bike fixed.
+	AH0	N	AE1	D	AH0	L	T	M	EY1	L	B	AH0	B	UW1	N	Z		T	IY1	TH		AA1	R	N	AA1	T	S	UW1	T	AH0	B	AH0	L	F	R	ER0		IY1	T	IH0	NG	SH	EH1	L	F	IH2	SH			338. An adult male baboon's teeth are not suitable for eating shellfish.
+	AO1	F	T	AH0	N	Y	UW1	L	G	EH1	T	B	AE1	K	M	AO1	R	DH	AH0	N	Y	UW1	P	UH1	T	IH1	N			339. Often you'll get back more than you put in.
+	G	AH1	S	S	AO1	P	AY1	N	T	R	IY1	Z	AH0	N	D	R	EH1	D	W	UH2	D	Z	AA1	N	HH	IH0	Z	W	AO1	K	TH	R	UW1	S	IH0	K	W	OY1	AH0	N	AE1	SH	N	AH0	L	F	AO1	R	AH0	S	T			340. Gus saw pine trees and redwoods on his walk through Sequoia National Forest.
+	R	AA1	B	M	EY1	D	HH	AH0	NG	G	EH1	R	IY0	AH0	N	G	UW1	L	AA2	SH	F	ER0	D	IH1	N	ER0	AE1	N	D	G	UW1	S	B	EH2	R	IY0	P	AY1	F	ER0	D	IH0	Z	ER1	T			341. Rob made Hungarian goulash for dinner and gooseberry pie for desert.
+	B	AA1	B		B	AE1	N	D	AH0	JH	D	B	OW1	TH	W	UW1	N	D	Z	W	IH0	DH	DH	AH0	S	K	IH1	L	AH0	V	AH0	D	AA1	K	T	ER0			342. Bob bandaged both wounds with the skill of a doctor.
+	DH	AH0	D	AA1	R	K	M	ER1	K	IY0	L	AH0	G	UW1	N	W	AW1	N	D	ER0	AW1	N	D	F	ER0	M	AY1	L	Z			343. The dark, murky lagoon wound around for miles.
+	D	IH1	D	SH	AO1	N	K	AE1	CH	DH	AE1	T	B	IH1	G	G	UW1	S	W	IH0	DH	AW1	T	HH	EH1	L	P			344. Did Shawn catch that big goose without help?
+	D	AH1	K	S	HH	AE1	V	W	EH1	B	D	F	IY1	T		AH0	N	D	K	AH1	L	ER0	F	AH0	L	F	EH1	DH	ER0	Z			345. Ducks have webbed feet and colorful feathers.
+	DH	AH0	HH	AY1	S	IH0	K	Y	UH1	R	AH0	T	IY0	P	R	IH1	Z	AH0	N	W	AH1	Z	S	ER0	AW1	N	D	IH0	D	B	AY1	B	AA1	R	B	D	W	AY1	ER0			346. The high security prison was surrounded by barbed wire.
+	T	EY1	K	CH	AA1	R	JH		AH0	V	CH	UW1	Z	IH0	NG	HH	ER0	B	R	AY1	D	Z	M	EY1	D	Z	G	AW1	N	Z			347. Take charge of choosing her bride's maids' gowns.
+	DH	AH0	F	R	AY1	T	AH0	N	D	CH	AY1	L	D	W	AH0	Z	JH	EH1	N	T	L	IY0	S	AH0	B	D	UW1	D		B	AY1	HH	IH1	Z	B	IH1	G	B	R	AH1	DH	ER0			348. The frightened child was gently subdued by his big brother.
+	AY1	N	OW1	AY1	D	IH1	N	T	M	IY1	T	HH	ER1		ER1	L	IY0	IH0	N	AH1	F			349. I know I didn't meet her early enough.
+	spn	S	AO1		AW1	ER0	Z	AH0	N	D		AW1	ER0	Z	AH0	V	M	UW1	V	IY0	Z	DH	IH0	S	S	AE1	T	IH2	D	EY2			350. Trish saw hours and hours of movies this Saturday.
+	DH	AH0	B	EH2	R	AH0	K	UW1	D	AH0	R	IY0	K	OY1	L	D	F	ER0	M	DH	AH0	S	ER1	P	AH0	N	T	S		P	OY1	Z	AH0	N	AH0	S	F	AE1	NG	Z			351. The barracuda recoiled from the serpent's poisonous fangs.
+	DH	AH0	P	EY1	SH	AH0	N	T		AH0	N	D	DH	AH0	S	ER1	JH	AH0	N	ER0	B	OW1	TH	R	IH0	K	UW1	P	ER0	EY2	T	IH0	NG	F	ER0	M	DH	AH0	L	EH1	NG	TH	IY0	AA2	P	ER0	EY1	SH	AH0	N			352. The patient and the surgeon are both recuperating from the lengthy operation.
+	IH1	L	HH	AE1	V	AH0	S	K	UW1	P	AH0	V	DH	AE1	T	IH0	G	Z	AA1	T	IH0	K	P	ER1	P	AH0	L	AE1	N	D	T	ER1	K	W	OY0	Z	SH	ER1	B	AH0	T			353. I'll have a scoop of that exotic purple and turquoise sherbet.
+	DH	AH0	spn	K	UH1	D	AH0	N	T	spn	HH	ER1	F	IY1	L	IH0	NG	Z		AH0	B	AW1	T	DH	IY0	IH0	M	ER1	JH	AH0	N	S	IY0	K	AH0	N	D	IH1	SH	AH0	N	Z			354. The preschooler couldn't verbalize her feelings about the emergency conditions.
+	M	EH1	N	IY0	W	EH1	L	TH	IY0	spn	S	P	L	ER1	JH	D	AH0	N	D	B	AO1	T	B	OW1	TH	AH0	Y	AA1	T		AE1	N	D	AH0	S	K	UW1	N	ER0			355. Many wealthy tycoons splurged and bought both a yacht and a schooner.
+	DH	AH0	N	Y	UW1	S	AH0	B	ER1	B	AH0	N	AY2	T	S	W	ER1	K	T	HH	AA1	R	D	AA1	N	R	IY0	F	ER1	B	IH0	SH	IH0	NG	DH	EH1	R	OW1	L	D	ER0	HH	OW1	M			356. The new suburbanites worked hard on refurbishing their older home.
+	AH0	K	AO1	R	D	IH0	NG	T	AH0	M	AY1	IH0	N	T	ER2	P	R	IH0	T	EY1	SH	AH0	N	AH0	V	DH	AH0	P	R	AA1	B	L	AH0	M		T	UW1	L	AY1	N	Z	M	AH1	S	T	B	IY0	P	ER2	P	AH0	N	D	IH1	K	Y	AH0	L	ER0			357. According to my interpretation of the problem, two lines must be perpendicular.
+	AH0	K	AA2	N	AH0	S	ER1		W	IH1	L	IH0	N	JH	OY1	DH	IH0	S	SH	EH1	L	F	IH2	SH		D	IH1	SH			358. A connoisseur will enjoy this shellfish dish.
+	AH0	L	OY1	ER0	W	AH1	Z	AH0	P	OY1	N	T	IH0	D	T	AH0		EH1	K	S	AH0	K	Y	UW2	T	HH	ER0	W	IH1	L			359. A lawyer was appointed to execute her will.
+	D	AA1	L	F	AH0	N	Z	AA1	R	IH0	N	T	EH1	L	AH0	JH	AH0	N	T	M	ER0	IY1	N	M	AE1	M	AH0	L	Z			360. Dolphins are intelligent marine mammals.
+	D	AY0	AE1	N	M	EY1	S	P	L	ER1	JH	AH0	N	D	B	AY1	AH0	T	ER1	K	W	OY0	Z	N	EH1	K	L	AH0	S			361. Diane may splurge and buy a turquoise necklace.
+	DH	AH0	M	OY1	S	CH	ER0	IH0	N	M	AY1	AY1	Z	IH0	Z	F	R	AH1	M	spn		N	AA1	T	F	ER0	M	T	IH1	R	Z			362. The moisture in my eyes is from eyedrops, not from tears.
+	JH	AO1	R	JH	S	EH1	L	D	AH0	M	W	AA1	CH	IH0	Z	D	EY1	T	AY2	M	M	UW1	V	IY0	Z			363. George seldom watches daytime movies.
+	DH	AH0	S	IH1	S	T	AH0	M	M	EY1	B	R	EY1	K	D	AW1	N	S	UW1	N	S	OW1	S	EY1	V	Y	AO1	R	F	AY1	L	Z	F	R	IY1	K	W	AH0	N	T	L	IY0			364. The system may break down soon, so save your files frequently.
+	AY1	AH0	S	UW1	M	M	OY1	S	CH	ER0	W	AH0	L	D	AE1	M	IH0	JH	DH	IH0	S	SH	IH1	P	S	HH	AH1	L			365. I assume moisture will damage this ship's hull.
+	DH	AH0	S	P	IY1	CH	S	IH0	M	P	OW1	Z	IY0	AH0	M	M	AY1	T	B	IH0	G	IH1	N	AA1	N	M	AH1	N	D	EY2			366. The speech symposium might begin on Monday.
+	DH	IY0	AH0	N	OY1	IH0	NG	R	AE0	K	UW1	N	Z	S	L	IH1	P	T	IH0	N	T	AH0	spn		G	AA1	R	D	AH0	N	EH1	V	R	IY0	N	AY1	T			367. The annoying raccoons slipped into Phil's garden every night.
+	DH	AH0	K	AW1	W	AA1	N	D	ER0	D	F	ER0	M	DH	AH0	F	AA1	R	M	L	AE2	N	D	AH0	N	D	B	IH0	K	EY1	M	L	AO1	S	T			368. The cow wandered from the farmland and became lost.
+	IY1	CH		AH0	N	T	AY1	M	L	IY0	IH1	N	K	AH2	M	L	AO1	S	K	OW2	AH0	N	S	AY1	D	AH0	D	W	IH0	DH	DH	AH0	B	R	EY1	K	D	AW2	N	AH1	V	AH0	HH	IY1	T	IH0	NG	S	IH1	S	T	AH0	M	P	AA1	R	T			369. Each untimely income loss coincided with the breakdown of a heating system part.
+	DH	AH0	G	AH1	N	M	AH0	N	K	EH1	P	T	HH	IH0	Z	V	IH1	K	T	IH0	M	K	AO1	R	N	ER0	D	AE1	T	spn	F	ER0	TH	R	IY1	AW1	ER0	Z			370. The gunman kept his victim cornered at gunpoint for three hours.
+	W	IH1	L	Y	UW1	P	L	IY1	Z	K	AH0	N	F	ER1	M	G	AH1	V	ER0	M	AH0	N	T	P	AA1	L	AH0	S	IY0	R	IH0	G	AA1	R	D	IH0	NG	W	EY1	S	T	R	IH0	M	UW1	V	AH0	L			371. Will you please confirm government policy regarding waste removal?
+	DH	AH0	S	ER1	P	L	AH0	S	SH	UW1	Z	W	ER0	S	OW1	L	D	AE1	T	AH0	D	IH0	S	K	AW1	N	T	P	R	AY1	S			372. The surplus shoes were sold at a discount price.
+	L	AO1	R	IH0	S	K	AA0	S	T	UW1	M	N	IY1	D	IH0	D	B	L	AE1	K	G	L	AH1	V	Z	T	AH0	B	IY0	K	AH0	M	P	L	IY1	T	L	IY0	EH1	L	AH0	G	AH0	N	T			373. Lori's costume needed black gloves to be completely elegant.
+	B	AA1	B		P	EY1	P	ER0	D	OW1	V	ER0	DH	AH0	L	IH1	V	IH0	NG	R	UW1	M	M	Y	UH1	R	AH0	L	Z			374. Bob papered over the living room murals.
+	DH	AE1	T	N	OY1	Z	P	R	AA1	B	L	AH0	M	G	R	OW1	Z	M	AO1	R	AH0	N	OY1	IH0	NG	IY1	CH	D	EY1			375. That noise problem grows more annoying each day.
+	R	AY1	T	N	AW1		M	EY1	N	AA1	T	B	IY0	DH	AH0	B	EH1	S	T	T	AY1	M	F	ER0	B	IH1	Z	N	AH0	S	M	ER1	JH	ER0	Z			376. Right now may not be the best time for business mergers.
+	DH	AE1	T	D	AY1	AH0	G	R	AE2	M	M	EY1	K	S	S	EH1	N	S		OW1	N	L	IY0	AE1	F	T	ER0	M	AH1	CH	S	T	AH1	D	IY0			377. That diagram makes sense only after much study.
+	spn	IH0	Z	Y	EH1	T	AH0	N	AH1	DH	ER0	IH0	K	S	AY1	T	IH0	NG	M	UW1	V	IY0	B	AY1	S	T	IY1	V	AH0	N	S	P	IY1	L	B	ER0	G			378. Gremlins is yet another exciting movie by Steven Spielberg.
+	AH0	B	AO1	R	IH0	NG	N	AA1	V	AH0	L	IH0	Z	AH0	S	UH0	P	ER1	B	S	L	IY1	P	IH0	NG	P	IH1	L			379. A boring novel is a superb sleeping pill.
+	JH	AA1	N	K	L	IY1	N	Z	SH	EH1	L	F	IH2	SH	F	ER0	AH0	L	IH1	V	IH0	NG			380. John cleans shellfish for a living.
+	G	R	OW1	IH0	NG	W	EH1	L	K	EH1	P	T	G	AA1	R	D	AH0	N	Z	IH1	Z	V	EH1	R	IY0	T	AY1	M	K	AH0	N	S	UW1	M	IH0	NG			381. Growing well-kept gardens is very time consuming.
+	W	IH1	M	AH0	N	M	EY1	N	EH1	V	ER0	B	IH0	K	AH1	M	K	AH0	M	P	L	IY1	T	L	IY0	IY1	K	W	AH0	L	T	AH0	M	EH1	N			382. Women may never become completely equal to men.
+	SH	IY1	AO1	L	W	EY2	Z	JH	OW1	K	S	AH0	B	AW1	T	T	UW1	M	AH1	CH	G	AA1	R	L	IH0	K	IH0	N	HH	IH1	Z	F	UW1	D			383. She always jokes about too much garlic in his food.
+	AY1	JH	AH1	S	T	S	AO1	JH	IH1	M	N	IH1	R	DH	AH0	N	Y	UW1		AA2	R	K	IY0	AH0	L	AA1	JH	IH0	K	AH0	L	M	Y	UW0	Z	IY1	AH0	M			384. I just saw Jim near the new archeological museum.
+	P	AE1	M	G	IH1	V	Z	D	R	AY1	V	IH0	NG	L	EH1	S	AH0	N	Z	AO1	N	TH	ER1	Z	D	EY0	Z			385. Pam gives driving lessons on Thursdays.
+	HH	W	AY1	CH	AA1	R	JH	M	AH1	N	IY0	F	ER0	S	AH1	CH	G	AA1	R	B	IH0	JH			386. Why charge money for such garbage?
+	W	IY1	W	EH1	L	K	AH0	M	M	EH1	N	IY0	N	Y	UW1	S	T	UW1	D	AH0	N	T	S		IY1	CH	Y	IH1	R			387. We welcome many new students each year.
+	JH	AO1	R	JH	IH1	Z		P	EH1	R	AH0	N	OY2	D		AH0	B	AW1	T	AH0	F	Y	UW1	CH	ER0	G	AE1	S	SH	AO1	R	T	IH0	JH			388. George is paranoid about a future gas shortage.
+	DH	AH0	K	AA1	R	P	AH0	T	K	L	IY1	N	ER0	Z	SH	AE0	M	P	UW1	D	AA1	R	AO2	R	IY0	EH1	N	T	AH0	L	R	AH1	G			389. The carpet cleaners shampooed our oriental rug.
+	P	L	IY1	Z	SH	AO1	R	T	AH0	N	DH	IH0	S	S	K	ER1	T		F	ER0	JH	OY1	S			390. Please shorten this skirt for Joyce.
+	HH	IH1	Z	SH	OW1	L	D	ER0	F	EH1	L	T	EH1	Z	IH0	F	IH0	T	W	ER0	B	R	OW1	K	AH0	N			391. His shoulder felt as if it were broken.
+	HH	W	IH1	CH	CH	ER1	CH		D	UW1	DH	AH0	S	M	IH1	TH	S		W	ER1	SH	IH0	P		IH1	N			392. Which church do the Smiths worship in?
+	DH	AH0	JH	AY1	AH0	N	T	R	EH1	D	W	UH2	D	Z	SH	IH1	M	ER0	D	IH0	N	DH	AH0	G	L	IH1	S	N	IH0	NG	S	AH1	N			393. The giant redwoods shimmered in the glistening sun.
+	IH0	Z	SH	IY1	G	OW1	IH0	NG	W	IH1	TH	Y	UW1			394. Is she going with you?
+	HH	ER0	R	AY1	T	HH	AE1	N	D		EY1	K	S	W	EH0	N	EH1	V	ER0	DH	AH0	B	AE2	R	AH0	M	EH1	T	R	IH0	K		P	R	EH1	SH	ER0	CH	EY1	N	JH	IH0	Z			395. Her right hand aches whenever the barometric pressure changes.
+	DH	EY1	OW1	N	AH0	B	IH1	G	HH	AW1	S	IH0	N	DH	AH0	R	IH0	M	OW1	T	K	AH1	N	T	R	IY0	S	AY2	D			396. They own a big house in the remote countryside.
+	HH	IY1	P	IH1	K	T	AH1	P	N	AY1	N	P	EH1	R	Z	AH0	V	S	AA1	K	S	F	AO1	R	IY1	CH	B	R	AH1	DH	ER0			397. He picked up nine pairs of socks for each brother.
+	DH	EY1	AO1	L	L	AY1	K	L	AO1	NG	HH	AA1	T		SH	AW1	ER0	Z			398. They all like long hot showers.
+	AH0	Y	AH1	NG	M	AW1	S	S	K	AE1	M	P	ER0	D	AH0	K	R	AO1	S	DH	AH0	F	IY1	L	D	AE1	N	D	D	IH2	S	AH0	P	IH1	R	D			399. A young mouse scampered across the field and disappeared.
+	SH	IY1	Y	UW1	Z	IH0	Z	B	OW1	TH	N	EY1	M	Z	IH2	N	T	ER0	CH	EY1	N	JH	AH0	B	L	IY0			400. She uses both names interchangeably.
+	K	AE1	L	S	IY0	AH0	M	M	EY1	K	S	B	OW1	N	Z	AH0	N	D	T	IY1	TH		S	T	R	AO1	NG			401. Calcium makes bones and teeth strong.
+	AY1	T	UH1	K	HH	ER0	W	ER1	D	F	ER0	IH0	T			402. I took her word for it.
+	DH	AH0	F	IH1	SH	B	IH0	G	AE1	N	T	AH0	L	IY1	P	F	R	AE1	N	T	AH0	K	AH0	L	IY0		AA1	N	DH	AH0	S	ER1	F	AH0	S	AH0	V	DH	AH0	S	M	AO1	L	L	EY1	K			403. The fish began to leap frantically on the surface of the small lake.
+	T	IH1	M	T	EY1	K	S	SH	IY1	L	AH0	T	AH0	S	IY1	M	UW1	V	IY0	Z	T	W	AY1	S	AH0	W	IY1	K			404. Tim takes Sheila to see movies twice a week.
+	CH	IH1	L	D	R	AH0	N	K	AH0	N	K	AH0	N	S	UW1	M	M	EH1	N	IY0	F	R	UW1	T	R	OW1	L	AH1	P	S	IH0	N	W	AH1	N	S	IH1	T	IH0	NG			405. Children can consume many fruit roll-ups in one sitting.
+	DH	EY1	AH0	S	UW1	M	N	OW1	B	ER1	G	L	ER0	W	AH0	L	EH1	V	ER0	EH1	N	T	ER0	HH	IY1	R			406. They assume no burglar will ever enter here.
+	JH	IH0	S	T	D	R	AA1	P		N	OW1	T	IH0	S	IH0	Z	IH1	N	EH1	N	IY0	S	AH0	G	JH	EH1	S	CH	AH0	N	B	AA1	K	S			407. Just drop notices in any suggestion box.
+	DH	AH0	T	AE1	K	S	IY0	K	AE2	B	B	R	OW1	K	D	AW1	N	AE1	N	D	K	AO1	Z	D	AH0	T	R	AE1	F	IH0	K	JH	AE1	M			408. The taxicab broke down and caused a traffic jam.
+	W	EH1	L	S	ER1	V	R	UW1	B	AA2	R	B		P	AY1	AE1	F	T	ER0	R	EY1	CH	IH0	L	Z		T	AO1	K			409. We'll serve rhubarb pie after Rachel's talk.
+	HH	ER0	W	AO1	R	D	R	OW2	B	K	AH0	N	S	IH1	S	T	S	AH0	V	OW1	N	L	IY0	S	K	ER1	T	S	AH0	N	D	B	L	AW1	S	IH0	Z			410. Her wardrobe consists of only skirts and blouses.
+	B	AA1	R	B	B	ER1	N	D	P	EY1	P	ER0	AE1	N	D	L	IY1	V	Z	IH0	N	AH0	B	IH1	G		B	AA1	N	F	AY2	ER0			411. Barb burned paper and leaves in a big bonfire.
+	AH0	V	K	AO1	R	S	Y	UW1	K	AH0	N	HH	AE1	V	AH0	N	AH1	DH	ER0	spn	S	AE1	M	W	IH0	CH			412. Of course you can have another tunafish sandwich.
+	DH	EH1	R	W	AH1	Z	AH0	JH	AY0	G	AE1	N	T	IH0	K	W	AA1	S	P	N	EH1	K	S	T	AH0		ER1	V	IH0	NG	Z	B	IH1	G	T	AA1	P	HH	AE1	T			413. There was a gigantic wasp next to Irving's big top hat.
+	L	AE1	F	D	AE1	N	S	AH0	N	D	S	IH1	NG	IH1	F	F	AO1	R	CH	AH0	N	S	M	AY1	L	Z	AH0	P	AA1	N	Y	UW1			414. Laugh, dance, and sing if fortune smiles upon you.
+	AY1	D	IY1	R	AY1	D	DH	AH0	S	AH1	B	W	EY2	B	AH1	T	AY1	HH	AE1	V	AH0	N	T	IH0	N	AH1	F	CH	EY1	N	JH			415. I'd ride the subway, but I haven't enough change.
+	IY1	T	IH0	NG	S	P	IH1	N	AH0	CH	N	AY1	T	L	IY0	IH0	N	K	R	IY1	S	IH0	Z	S	T	R	EH1	NG	K	TH	M	ER0	AE1	K	Y	AH0	L	AH0	S	L	IY0			416. Eating spinach nightly increases strength miraculously.
+	P	IY1	P	AH0	L	D	R	IH1	NG	K	M	AH1	CH	W	AO1	T	ER0	W	IH0	TH	HH	AO1	R	S	R	AE2	D	IH0	SH	R	EH1	L	IH0	SH			417. People drink much water with horseradish relish.
+	B	AH1	T	ER0	S	K	AA2	CH	F	AH1	JH		G	OW1	Z	W	EH1	L	W	IH0	TH	V	AH0	N	IH1	L	AH0	AY1	S	K	R	IY1	M			418. Butterscotch fudge goes well with vanilla ice cream.
+	G	W	EH1	N	G	R	OW1	Z	G	R	IY1	N	B	IY1	N	Z	IH0	N	HH	ER0	V	EH1	JH	T	AH0	B	AH0	L	G	AA1	R	D	AH0	N			419. Gwen grows green beans in her vegetable garden.	
+	D	AE1	F	N	IY0	Z	S	W	IY1	D	IH0	SH	N	IY1	D	AH0	L	P	OY2	N	T	S	K	AA1	R	F	M	AE1	CH	T	HH	ER0	S	K	ER1	T			420. Daphne's Swedish needlepoint scarf matched her skirt.
+	AY1	R	IH0	SH	Y	AH1	NG	S	T	ER0	Z		IY1	T	F	R	EH1	SH	K	IH1	P	ER0	Z	F	ER0	B	R	EH1	K	F	AH0	S	T			421. Irish youngsters eat fresh kippers for breakfast.
+	M	UW1	V	DH	AH0	G	AA1	R	B	IH0	JH	N	IH1	R	ER0	T	AH0	DH	IY0	L	AA1	R	JH	W	IH1	N	D	OW0			422. Move the garbage nearer to the large window.
+	AH0	HH	Y	UW1	JH	P	AW1	ER0		spn	R	EH1	R	L	IY0	AH0	K	ER1	Z			423. A huge power outage rarely occurs.
+	V	AE1	L	IY0	L	AA1	JH	Y	IH1	R	L	IY0	S	EH1	L	AH0	B	R	EY2	T	S	DH	AH0	F	ER1	S	T	K	AE1	F		B	AO1	R	N			424. Valley lodge yearly celebrates the first calf born.
+	AY1	R	IH0	S	TH	IH1	NG	K	S		DH	IH0	S	Z	UW1		HH	AE1	Z	IH0	L	EH1	V	AH0	N	S	P	AE1	N	IH0	SH	Z	IY1	B	R	AH0	Z			425. Iris thinks this zoo has eleven Spanish zebras.
+	DH	AH0	F	UH1	T	B	AO2	L	T	IY1	M	K	OW1	CH	HH	AE1	Z	AH0	W	AA1	CH	EH1	Z	TH	IH1	N	EH1	Z	AH0	D	AY1	M			426. The football team coach has a watch as thin as a dime.
+	S	IY1	M	S	T	R	AH0	S	AH0	Z	AH0	T	AE1	CH	Z	IH1	P	S	W	IH0	DH	AH0	TH	IH1	M	B	AH0	L		N	IY1	D	AH0	L		AH0	N	D	TH	R	EH1	D			427. Seamstresses attach zips with a thimble, needle, and thread.
+	DH	OW1	Z	HH	UW1	T	IY1	CH	V	AE1	L	Y	UW0	Z	F	ER1	S	T	AH0	B	AA1	L	IH0	SH	CH	IY1	T	IH0	NG			428. Those who teach values first abolish cheating.
+	W	AH1	N	S	Y	UW1	F	IH1	N	IH0	SH	G	R	IY1	S	IH0	NG	Y	AO1	R	CH	EY1	N	B	IY0	SH	UH1	R	T	AH0	W	AA1	SH	TH	ER1	OW0	L	IY0			429. Once you finish greasing your chain, be sure to wash thoroughly.
+	S	M	AE1	SH	spn		AE1	N	D	DH	EH1	R	K	AE1	SH	V	AE1	L	Y	UW0		W	AH0	L	D	IH0	M	IH1	N	IH0	SH		T	AH0	N	AH1	TH	IH0	NG			430. Smash lightbulbs and their cash value will diminish to nothing.
+	T	AA1	P		Z	IH1	N	IY0	AH0	Z	R	EH1	R	L	IY0	HH	AE1	V	K	R	UH1	K	AH0	D	S	T	EH1	M	Z			431. Top zinnias rarely have crooked stems.
+	M	UW1	V	IY0	Z	N	EH1	V	ER0	HH	AE1	V	IH0	N	AH1	F	V	IH1	L	AH0	N	Z			432. Movies never have enough villains.
+	AH0	M	AO1	TH	Z	IH1	G	Z	AE1	G	D	AH0	L	AO1	NG	DH	AH0	P	AE1	TH	TH	R	UW1	AA1	T	OW0	Z	G	AA1	R	D	AH0	N			433. A moth zig-zagged along the path through Otto's garden.
+	EH1	V	R	IY0	K	AE1	B	N	IY1	D	Z	R	IY0	P	EY1	N	T	IH0	NG	AO1	F	T	AH0	N			434. Every cab needs repainting often.
+	AH0	K	R	AE1	B		CH	AE1	L	AH0	N	JH	D	M	IY1		B	AH1	T	AH0	K	W	IH1	K		S	T	AE1	B	V	AE1	NG	K	W	IH0	SH	T	HH	IH1	M			435. A crab challenged me, but a quick stab vanquished him.
+	AH0	T	UW1	TH	P	EY2	S	T	T	UW1	B	SH	UH1	D	B	IY0	S	K	W	IY1	Z	D	F	ER0	M	DH	AH0	B	AA1	T	AH0	M			436. A toothpaste tube should be squeezed from the bottom.
+	DH	OW1	Z	HH	UW1	ER0	N	AA1	T	P	Y	UH1	R	IH0	S	T	S	Y	UW1	S	K	AE1	N	D	V	EH1	JH	T	AH0	B	AH0	L	Z	W	EH1	N	M	EY1	K	IH0	NG	S	T	UW1			437. Those who are not purists use canned vegetables when making stew.
+	DH	AH0	F	IH1	TH	JH	AA1	R	K	AH0	N	T	EY1	N	Z	B	IH1	G		JH	UW1	S	IY0	P	IY1	CH	IH0	Z			438. The fifth jar contains big, juicy peaches.
+	K	AO1	F	IY0	IH0	Z	G	R	OW1	N	AA1	N	S	T	IY1	P		JH	AH1	NG	G	AH0	L	L	AY1	K	S	L	OW1	P	S	IH0	N	T	EH1	M	P	R	AH0	T	Z	OW1	N	Z			439. Coffee is grown on steep, jungle-like slopes in temperate zones.
+	DH	IY0	OW2	V	ER0	W	EY1	T	CH	AA1	R	M	ER0	K	UH1	D	S	L	IH1	P	P	OY1	Z	AH0	N	IH0	N	T	AH0	spn		T	IY1			440. The overweight charmer could slip poison into anyone's tea.
+	IY1	CH	S	T	AE1	G	SH	UH1	R	L	IY0	F	AY1	N	D	Z	AH0	B	IH1	G	F	AO1	N			441. Each stag surely finds a big fawn.
+	DH	AH0	R	IH1	CH		SH	UH1	D	IH0	N	V	EH1	S	T	IH0	N	B	L	AE1	K	spn		IH0	N	S	T	EH1	D	AH0	V	S	T	AY1	L	IH0	SH	SH	UW1	Z			442. The rich should invest in black zircons instead of stylish shoes.
+	P	L	IY1	Z	S	IH1	NG	JH	AH1	S	T	DH	AH0	K	L	AH1	B		TH	IY1	M			443. Please sing just the club theme.
+	DH	EY1	Y	UW1	Z	D	AE1	N	AH0	G	R	EH1	S	IH0	V	P	AH0	L	IY1	S	M	AH0	N	T	AH0	F	L	AE1	G	TH	AO1	T	L	AH0	S	M	OW1	T	ER0	AH0	S	T	S			444. They used an aggressive policeman to flag thoughtless motorists.
+	SH	EH1	L	SH	AA1	K	K	AO1	Z	D	B	AY1	SH	R	AE1	P	N	AH0	L		IH0	Z	S	AH1	M	T	AY2	M	Z	K	Y	UH1	R	D	TH	R	UW1	G	R	UW1	P	TH	EH1	R	AH0	P	IY0			445. Shell shock caused by shrapnel is sometimes cured through group therapy.
+	DH	AH0	T	S	T	IH1	NG	IH0	NG	V	EY1	P	AO1	R	W	AH1	Z	K	AO1	Z	D	B	AY1	K	L	AO1	R	AY0	D	V	EY0	P	ER0	AH0	Z	EY1	SH	AH0	N			446. That stinging vapour was caused by chloride vaporization.
+	DH	IY0	AE1	D	V	ER0	T	AY2	Z	IH0	NG	V	ER1	S	AH0	V	P	L	IH1	M	AH0	TH	V	ER0	AY1	AH0	T	IY0	S	T	AO1	R	N	EH1	V	ER0	CH	EY1	N	JH	IH0	Z			447. The advertising verse of Plymouth Variety Store never changes.
+	D	AA1	N	T	L	UH1	K	F	ER0	CH	IY1	P	V	AE1	L	Y	AH0	B	AH0	L	Z	IH0	N	AH0	B	AE1	NG	K	V	AO1	L	T			448. Don't look for cheap valuables in a bank vault.
+	S	AH0	B	ER1	B	AH0	N	HH	AW1	S	W	AY2	V	Z		AO1	F	AH0	N	S	AH1	F	ER0		F	ER0	M	DH	AH0	G	AE1	B	HH	AE1	B	AH0	T			449. Suburban housewives often suffer from the gab habit.
+	AH0	L	OW1	N	S	T	AA1	R	SH	OW1	N	IH0	N	DH	IY0	ER1	L	IY0	IY1	V	N	IH0	NG	S	K	AY1			450. A lone star shone in the early evening sky.
+	DH	AH0	T	AA1	D	L	ER0	F	AW1	N	D	AH0	K	L	AE1	M	SH	EH2	L	N	IH1	R	DH	AH0	K	AE1	M	P	S	AY1	T			451. The toddler found a clamshell near the camp site.
+	W	AH1	T	IH0	Z	DH	IH0	S	L	AA1	R	JH	TH	IH1	NG	B	AY1	DH	IY0	AY1	ER0	N	IH0	NG	B	AO1	R	D			452. What is this large thing by the ironing board?
+	T	AA1	M	AH0	S	TH	IH1	NG	K	S		AH0	L	AA1	R	JH	ER0	K	L	AE1	M	P	S	AA1	L	V	Z	DH	AH0	P	R	AA1	B	L	AH0	M			453. Thomas thinks a larger clamp solves the problem.
+	F	ER1	S	T		AE1	D	M	IH1	L	K	T	AH0	DH	AH0	SH	R	EH1	D	IH0	D	CH	IY1	Z			454. First add milk to the shredded cheese.
+	S	F	EH1	R	IH0	K	AH0	L	G	IH1	F	S	ER0	D	IH1	F	AH0	K	AH0	L	T	T	AH0	R	AE1	P			455. Spherical gifts are difficult to wrap.
+	R	AE1	L	F	P	R	IY0	P	EH1	R	D	R	EH1	D	S	N	AE1	P	ER0	W	IH0	TH	F	R	EH1	SH	L	EH1	M	AH0	N	S	AO1	S		F	ER0	D	IH1	N	ER0			456. Ralph prepared red snapper with fresh lemon sauce for dinner.
+	R	OY1	IH0	G	N	AO1	R	D		DH	AH0	S	P	Y	UH1	R	IY0	AH0	S	D	EY1	T	AH0	P	OY1	N	T	S	IH1	N	D	R	AO1	IH0	NG	DH	AH0	G	R	AE1	F			457. Roy ignored the spurious data points in drawing the graph.
+	DH	AH0	TH	IH1	K		EH1	L	M	F	AO1	R	AH0	S	T	W	AH1	Z	N	IH1	R	L	IY0	OW2	V	ER0	W	EH1	L	M	D	B	AY1	D	AH1	CH		EH1	L	M	D	IH0	Z	IY1	Z			458. The thick elm forest was nearly overwhelmed by Dutch Elm Disease.
+	IH0	N	D	IH0	V	EH1	L	AH0	P	IH0	NG	F	IH1	L	M	M	EH1	N	IY0	T	AA1	K	S	IH0	K	K	EH1	M	IH0	K	AH0	L	Z	AA1	R	Y	UW1	Z	D			459. In developing film, many toxic chemicals are used.
+	W	IH1	CH	TH	IY1	AH0	T	ER0	SH	OW1	Z	M	AH1	DH	ER0	G	UW1	S			460. Which theatre shows "Mother Goose"?
