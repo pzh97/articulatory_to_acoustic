@@ -57,7 +57,7 @@ item []:
         intervals [4]:
             xmin = 1.12 
             xmax = 1.22 
-            text = "ej" 
+            text = "e" 
         intervals [5]:
             xmin = 1.22 
             xmax = 1.27 
@@ -73,7 +73,7 @@ item []:
         intervals [8]:
             xmin = 1.4 
             xmax = 1.54 
-            text = "ej" 
+            text = "e" 
         intervals [9]:
             xmin = 1.54 
             xmax = 1.61 
@@ -81,7 +81,7 @@ item []:
         intervals [10]:
             xmin = 1.61 
             xmax = 1.69 
-            text = "kʰ" 
+            text = "k" 
         intervals [11]:
             xmin = 1.69 
             xmax = 1.74 
@@ -109,7 +109,7 @@ item []:
         intervals [17]:
             xmin = 2.04 
             xmax = 2.14 
-            text = "ʎ" 
+            text = "l" 
         intervals [18]:
             xmin = 2.14 
             xmax = 3.2181 
