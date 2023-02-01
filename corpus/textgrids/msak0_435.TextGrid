@@ -77,7 +77,7 @@ item []:
         intervals [3]:
             xmin = 0.52 
             xmax = 0.67 
-            text = "c" 
+            text = "k" 
         intervals [4]:
             xmin = 0.67 
             xmax = 0.72 
@@ -121,11 +121,11 @@ item []:
         intervals [14]:
             xmin = 1.38 
             xmax = 1.43 
-            text = "mʲ" 
+            text = "m" 
         intervals [15]:
             xmin = 1.43 
             xmax = 1.61 
-            text = "iː" 
+            text = "i" 
         intervals [16]:
             xmin = 1.61 
             xmax = 1.68 
@@ -141,7 +141,7 @@ item []:
         intervals [19]:
             xmin = 1.77 
             xmax = 1.8 
-            text = "ʔ" 
+            text = "t" 
         intervals [20]:
             xmin = 1.8 
             xmax = 1.85 
@@ -149,7 +149,7 @@ item []:
         intervals [21]:
             xmin = 1.85 
             xmax = 1.97 
-            text = "c" 
+            text = "k" 
         intervals [22]:
             xmin = 1.97 
             xmax = 2 
@@ -157,7 +157,7 @@ item []:
         intervals [23]:
             xmin = 2 
             xmax = 2.05 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [24]:
             xmin = 2.05 
             xmax = 2.13 
@@ -189,11 +189,11 @@ item []:
         intervals [31]:
             xmin = 2.63 
             xmax = 2.69 
-            text = "ɲ" 
+            text = "n" 
         intervals [32]:
             xmin = 2.69 
             xmax = 2.77 
-            text = "c" 
+            text = "k" 
         intervals [33]:
             xmin = 2.77 
             xmax = 2.8 
@@ -201,7 +201,7 @@ item []:
         intervals [34]:
             xmin = 2.8 
             xmax = 2.84 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [35]:
             xmin = 2.84 
             xmax = 2.93 
@@ -213,11 +213,11 @@ item []:
         intervals [37]:
             xmin = 2.97 
             xmax = 3.01 
-            text = "ç" 
+            text = "h" 
         intervals [38]:
             xmin = 3.01 
             xmax = 3.06 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [39]:
             xmin = 3.06 
             xmax = 4.4681875 

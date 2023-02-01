@@ -89,7 +89,7 @@ item []:
         intervals [5]:
             xmin = 1.13 
             xmax = 1.16 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [6]:
             xmin = 1.16 
             xmax = 1.23 
@@ -125,7 +125,7 @@ item []:
         intervals [14]:
             xmin = 1.69 
             xmax = 1.79 
-            text = "cʰ" 
+            text = "k" 
         intervals [15]:
             xmin = 1.79 
             xmax = 1.82 
@@ -137,11 +137,11 @@ item []:
         intervals [17]:
             xmin = 1.85 
             xmax = 1.88 
-            text = "bʲ" 
+            text = "b" 
         intervals [18]:
             xmin = 1.88 
             xmax = 1.93 
-            text = "iː" 
+            text = "i" 
         intervals [19]:
             xmin = 1.93 
             xmax = 2.03 
@@ -165,7 +165,7 @@ item []:
         intervals [24]:
             xmin = 2.2 
             xmax = 2.24 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [25]:
             xmin = 2.24 
             xmax = 2.32 
@@ -173,11 +173,11 @@ item []:
         intervals [26]:
             xmin = 2.32 
             xmax = 2.38 
-            text = "ɫ̩" 
+            text = "l" 
         intervals [27]:
             xmin = 2.38 
             xmax = 2.42 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [28]:
             xmin = 2.42 
             xmax = 2.53 
@@ -189,7 +189,7 @@ item []:
         intervals [30]:
             xmin = 2.56 
             xmax = 2.6 
-            text = "ʉ" 
+            text = "u" 
         intervals [31]:
             xmin = 2.6 
             xmax = 2.64 
@@ -221,7 +221,7 @@ item []:
         intervals [38]:
             xmin = 2.91 
             xmax = 3.02 
-            text = "ej" 
+            text = "e" 
         intervals [39]:
             xmin = 3.02 
             xmax = 3.08 
@@ -237,7 +237,7 @@ item []:
         intervals [42]:
             xmin = 3.18 
             xmax = 3.24 
-            text = "ɲ" 
+            text = "n" 
         intervals [43]:
             xmin = 3.24 
             xmax = 3.9694 

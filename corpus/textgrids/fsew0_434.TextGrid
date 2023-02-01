@@ -73,7 +73,7 @@ item []:
         intervals [7]:
             xmin = 0.66 
             xmax = 0.81 
-            text = "cʰ" 
+            text = "k" 
         intervals [8]:
             xmin = 0.81 
             xmax = 0.93 
@@ -85,11 +85,11 @@ item []:
         intervals [10]:
             xmin = 0.98 
             xmax = 1.08 
-            text = "ɲ" 
+            text = "n" 
         intervals [11]:
             xmin = 1.08 
             xmax = 1.22 
-            text = "iː" 
+            text = "i" 
         intervals [12]:
             xmin = 1.22 
             xmax = 1.27 

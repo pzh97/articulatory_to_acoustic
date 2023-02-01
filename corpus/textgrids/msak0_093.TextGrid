@@ -61,7 +61,7 @@ item []:
         intervals [2]:
             xmin = 0.52 
             xmax = 0.62 
-            text = "kʰ" 
+            text = "k" 
         intervals [3]:
             xmin = 0.62 
             xmax = 0.65 
@@ -85,15 +85,15 @@ item []:
         intervals [8]:
             xmin = 0.97 
             xmax = 1 
-            text = "ɒː" 
+            text = "ɒ" 
         intervals [9]:
             xmin = 1 
             xmax = 1.1 
-            text = "ɫ" 
+            text = "l" 
         intervals [10]:
             xmin = 1.1 
             xmax = 1.24 
-            text = "kʰ" 
+            text = "k" 
         intervals [11]:
             xmin = 1.24 
             xmax = 1.34 

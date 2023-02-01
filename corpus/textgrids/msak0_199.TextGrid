@@ -73,7 +73,7 @@ item []:
         intervals [6]:
             xmin = 1.11 
             xmax = 1.22 
-            text = "ʉ" 
+            text = "u" 
         intervals [7]:
             xmin = 1.22 
             xmax = 1.27 
