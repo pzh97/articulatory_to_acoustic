@@ -1,0 +1,1 @@
+Draw every outer line first then fill in the interior
