@@ -97,7 +97,7 @@ item []:
         intervals [11]:
             xmin = 1.72 
             xmax = 1.76 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [12]:
             xmin = 1.76 
             xmax = 1.84 
@@ -113,7 +113,7 @@ item []:
         intervals [15]:
             xmin = 1.96 
             xmax = 2.01 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [16]:
             xmin = 2.01 
             xmax = 2.06 
@@ -129,15 +129,15 @@ item []:
         intervals [19]:
             xmin = 2.15 
             xmax = 2.22 
-            text = "ɟ" 
+            text = "ɡ" 
         intervals [20]:
             xmin = 2.22 
             xmax = 2.26 
-            text = "ʎ" 
+            text = "l" 
         intervals [21]:
             xmin = 2.26 
             xmax = 2.31 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [22]:
             xmin = 2.31 
             xmax = 2.43 
@@ -145,11 +145,11 @@ item []:
         intervals [23]:
             xmin = 2.43 
             xmax = 2.48 
-            text = "ɲ" 
+            text = "n" 
         intervals [24]:
             xmin = 2.48 
             xmax = 2.51 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [25]:
             xmin = 2.51 
             xmax = 2.61 

@@ -89,7 +89,7 @@ item []:
         intervals [6]:
             xmin = 0.83 
             xmax = 0.98 
-            text = "ɒː" 
+            text = "ɒ" 
         intervals [7]:
             xmin = 0.98 
             xmax = 1.04 
@@ -101,7 +101,7 @@ item []:
         intervals [9]:
             xmin = 1.11 
             xmax = 1.2 
-            text = "ʉ" 
+            text = "u" 
         intervals [10]:
             xmin = 1.2 
             xmax = 1.33 
@@ -113,11 +113,11 @@ item []:
         intervals [12]:
             xmin = 1.38 
             xmax = 1.5 
-            text = "ɟ" 
+            text = "ɡ" 
         intervals [13]:
             xmin = 1.5 
             xmax = 1.61 
-            text = "ʉ" 
+            text = "u" 
         intervals [14]:
             xmin = 1.61 
             xmax = 1.66 
@@ -125,7 +125,7 @@ item []:
         intervals [15]:
             xmin = 1.66 
             xmax = 1.69 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [16]:
             xmin = 1.69 
             xmax = 1.79 
@@ -137,7 +137,7 @@ item []:
         intervals [18]:
             xmin = 1.86 
             xmax = 2 
-            text = "ej" 
+            text = "e" 
         intervals [19]:
             xmin = 2 
             xmax = 2.07 
@@ -181,15 +181,15 @@ item []:
         intervals [29]:
             xmin = 2.58 
             xmax = 2.61 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [30]:
             xmin = 2.61 
             xmax = 2.71 
-            text = "fʲ" 
+            text = "f" 
         intervals [31]:
             xmin = 2.71 
             xmax = 2.88 
-            text = "ʉː" 
+            text = "u" 
         intervals [32]:
             xmin = 2.88 
             xmax = 3.02 
@@ -197,11 +197,11 @@ item []:
         intervals [33]:
             xmin = 3.02 
             xmax = 3.09 
-            text = "pʰ" 
+            text = "p" 
         intervals [34]:
             xmin = 3.09 
             xmax = 3.23 
-            text = "ɝ" 
+            text = "ɚ" 
         intervals [35]:
             xmin = 3.23 
             xmax = 3.35 

@@ -49,11 +49,11 @@ item []:
         intervals [3]:
             xmin = 1.32 
             xmax = 1.41 
-            text = "ɒː" 
+            text = "ɒ" 
         intervals [4]:
             xmin = 1.41 
             xmax = 1.56 
-            text = "ɫ" 
+            text = "l" 
         intervals [5]:
             xmin = 1.56 
             xmax = 1.71 

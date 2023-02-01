@@ -73,7 +73,7 @@ item []:
         intervals [4]:
             xmin = 0.39 
             xmax = 0.48 
-            text = "kʰ" 
+            text = "k" 
         intervals [5]:
             xmin = 0.48 
             xmax = 0.59 
@@ -85,11 +85,11 @@ item []:
         intervals [7]:
             xmin = 0.64 
             xmax = 0.76 
-            text = "tʰ" 
+            text = "t" 
         intervals [8]:
             xmin = 0.76 
             xmax = 0.93 
-            text = "ʉː" 
+            text = "u" 
         intervals [9]:
             xmin = 0.93 
             xmax = 1.04 
@@ -97,11 +97,11 @@ item []:
         intervals [10]:
             xmin = 1.04 
             xmax = 1.14 
-            text = "fʲ" 
+            text = "f" 
         intervals [11]:
             xmin = 1.14 
             xmax = 1.24 
-            text = "iː" 
+            text = "i" 
         intervals [12]:
             xmin = 1.24 
             xmax = 1.41 
@@ -133,7 +133,7 @@ item []:
         intervals [19]:
             xmin = 1.98 
             xmax = 2.06 
-            text = "c" 
+            text = "k" 
         intervals [20]:
             xmin = 2.06 
             xmax = 2.12 
@@ -149,7 +149,7 @@ item []:
         intervals [23]:
             xmin = 2.37 
             xmax = 2.41 
-            text = "ʔ" 
+            text = "t" 
         intervals [24]:
             xmin = 2.41 
             xmax = 2.44 
@@ -165,7 +165,7 @@ item []:
         intervals [27]:
             xmin = 2.52 
             xmax = 2.62 
-            text = "tʰ" 
+            text = "t" 
         intervals [28]:
             xmin = 2.62 
             xmax = 2.71 
@@ -177,15 +177,15 @@ item []:
         intervals [30]:
             xmin = 2.79 
             xmax = 2.86 
-            text = "pʰ" 
+            text = "p" 
         intervals [31]:
             xmin = 2.86 
             xmax = 2.95 
-            text = "ow" 
+            text = "o" 
         intervals [32]:
             xmin = 2.95 
             xmax = 3.07 
-            text = "ɫ" 
+            text = "l" 
         intervals [33]:
             xmin = 3.07 
             xmax = 3.7184375 
