@@ -81,7 +81,7 @@ item []:
         intervals [3]:
             xmin = 0.71 
             xmax = 0.75 
-            text = "ʎ" 
+            text = "l" 
         intervals [4]:
             xmin = 0.75 
             xmax = 0.83 
@@ -93,11 +93,11 @@ item []:
         intervals [6]:
             xmin = 0.92 
             xmax = 1 
-            text = "tʰ" 
+            text = "t" 
         intervals [7]:
             xmin = 1 
             xmax = 1.11 
-            text = "ej" 
+            text = "e" 
         intervals [8]:
             xmin = 1.11 
             xmax = 1.14 
@@ -121,11 +121,11 @@ item []:
         intervals [13]:
             xmin = 1.39 
             xmax = 1.47 
-            text = "ɜː" 
+            text = "ɜ" 
         intervals [14]:
             xmin = 1.47 
             xmax = 1.57 
-            text = "tʲ" 
+            text = "t" 
         intervals [15]:
             xmin = 1.57 
             xmax = 1.61 
@@ -133,11 +133,11 @@ item []:
         intervals [16]:
             xmin = 1.61 
             xmax = 1.72 
-            text = "tʰ" 
+            text = "t" 
         intervals [17]:
             xmin = 1.72 
             xmax = 1.83 
-            text = "ej" 
+            text = "e" 
         intervals [18]:
             xmin = 1.83 
             xmax = 1.9 
@@ -145,7 +145,7 @@ item []:
         intervals [19]:
             xmin = 1.9 
             xmax = 1.93 
-            text = "ɫ̩" 
+            text = "l" 
         intervals [20]:
             xmin = 1.93 
             xmax = 2.04 
@@ -181,15 +181,15 @@ item []:
         intervals [28]:
             xmin = 2.4 
             xmax = 2.52 
-            text = "c" 
+            text = "k" 
         intervals [29]:
             xmin = 2.52 
             xmax = 2.56 
-            text = "ʎ" 
+            text = "l" 
         intervals [30]:
             xmin = 2.56 
             xmax = 2.62 
-            text = "iː" 
+            text = "i" 
         intervals [31]:
             xmin = 2.62 
             xmax = 2.69 
@@ -209,11 +209,11 @@ item []:
         intervals [35]:
             xmin = 2.89 
             xmax = 2.97 
-            text = "ɒː" 
+            text = "ɒ" 
         intervals [36]:
             xmin = 2.97 
             xmax = 3.05 
-            text = "mʲ" 
+            text = "m" 
         intervals [37]:
             xmin = 3.05 
             xmax = 4.2193 

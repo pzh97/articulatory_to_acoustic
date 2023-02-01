@@ -101,11 +101,11 @@ item []:
         intervals [13]:
             xmin = 1.26 
             xmax = 1.36 
-            text = "mʲ" 
+            text = "m" 
         intervals [14]:
             xmin = 1.36 
             xmax = 1.44 
-            text = "iː" 
+            text = "i" 
         intervals [15]:
             xmin = 1.44 
             xmax = 1.53 
@@ -113,7 +113,7 @@ item []:
         intervals [16]:
             xmin = 1.53 
             xmax = 1.61 
-            text = "tʰ" 
+            text = "t" 
         intervals [17]:
             xmin = 1.61 
             xmax = 1.66 

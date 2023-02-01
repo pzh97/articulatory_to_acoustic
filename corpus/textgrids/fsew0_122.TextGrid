@@ -73,7 +73,7 @@ item []:
         intervals [4]:
             xmin = 0.42 
             xmax = 0.5 
-            text = "kʰ" 
+            text = "k" 
         intervals [5]:
             xmin = 0.5 
             xmax = 0.64 
@@ -85,11 +85,11 @@ item []:
         intervals [7]:
             xmin = 0.67 
             xmax = 0.78 
-            text = "əw" 
+            text = "u" 
         intervals [8]:
             xmin = 0.78 
             xmax = 0.91 
-            text = "tʲ" 
+            text = "t" 
         intervals [9]:
             xmin = 0.91 
             xmax = 1.07 
@@ -109,7 +109,7 @@ item []:
         intervals [13]:
             xmin = 1.42 
             xmax = 1.51 
-            text = "cʰ" 
+            text = "k" 
         intervals [14]:
             xmin = 1.51 
             xmax = 1.69 
@@ -137,7 +137,7 @@ item []:
         intervals [20]:
             xmin = 2.12 
             xmax = 2.27 
-            text = "iː" 
+            text = "i" 
         intervals [21]:
             xmin = 2.27 
             xmax = 2.35 
@@ -149,7 +149,7 @@ item []:
         intervals [23]:
             xmin = 2.51 
             xmax = 2.62 
-            text = "ɑː" 
+            text = "ɑ" 
         intervals [24]:
             xmin = 2.62 
             xmax = 2.73 
@@ -161,7 +161,7 @@ item []:
         intervals [26]:
             xmin = 2.85 
             xmax = 2.9 
-            text = "ɫ" 
+            text = "l" 
         intervals [27]:
             xmin = 2.9 
             xmax = 2.95 
@@ -173,11 +173,11 @@ item []:
         intervals [29]:
             xmin = 3.05 
             xmax = 3.1 
-            text = "ɲ" 
+            text = "n" 
         intervals [30]:
             xmin = 3.1 
             xmax = 3.13 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [31]:
             xmin = 3.13 
             xmax = 3.22 
@@ -185,7 +185,7 @@ item []:
         intervals [32]:
             xmin = 3.22 
             xmax = 3.35 
-            text = "ɫ̩" 
+            text = "l" 
         intervals [33]:
             xmin = 3.35 
             xmax = 3.58 

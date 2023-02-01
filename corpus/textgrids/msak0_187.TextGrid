@@ -77,7 +77,7 @@ item []:
         intervals [5]:
             xmin = 1.01 
             xmax = 1.07 
-            text = "ɫ" 
+            text = "l" 
         intervals [6]:
             xmin = 1.07 
             xmax = 1.19 
@@ -105,7 +105,7 @@ item []:
         intervals [12]:
             xmin = 1.45 
             xmax = 1.5 
-            text = "ɲ" 
+            text = "n" 
         intervals [13]:
             xmin = 1.5 
             xmax = 1.6 
@@ -153,7 +153,7 @@ item []:
         intervals [24]:
             xmin = 2.28 
             xmax = 2.53 
-            text = "ow" 
+            text = "o" 
         intervals [25]:
             xmin = 2.53 
             xmax = 3.468125 

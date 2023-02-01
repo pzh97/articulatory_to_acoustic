@@ -25,10 +25,11 @@ for t in script:
         phone.append(l)
 phone_set = set(phone)
 phone_list = list(phone_set)
-ipa = 'a aj aw aː b bʲ c cʰ d dʒ dʲ e ej f fʲ h i iː j k kʰ l m mʲ m̩ n n̩ o ow p pʰ pʲ s t tʃ tʰ tʲ u uː v vʲ w z æ ç ð ŋ ɐ ɑ ɑː ɒ ɒː ɔ ɔj ə əw ɚ ɛ ɛː ɜ ɜː ɝ ɟ ɡ ɪ ɫ ɫ̩ ɱ ɲ ɹ ɾ ʃ ʉ ʉː ʊ ʎ ʒ ʔ θ d̪ t̪'
-IPA_list = list(ipa.split(" "))
+#ipa = 'a aj aw aː b bʲ c cʰ d dʒ dʲ e ej f fʲ h i iː j k kʰ l m mʲ m̩ n n̩ o ow p pʰ pʲ s t tʃ tʰ tʲ u uː v vʲ w z æ ç ð ŋ ɐ ɑ ɑː ɒ ɒː ɔ ɔj ə əw ɚ ɛ ɛː ɜ ɜː ɝ ɟ ɡ ɪ ɫ ɫ̩ ɱ ɲ ɹ ɾ ʃ ʉ ʉː ʊ ʎ ʒ ʔ θ d̪ t̪'
+#IPA_list = list(ipa.split(" "))
 #print(list(phone_set - set(IPA_list)))
-#print(len(phone_list)) 81
+print(len(phone_list))
+print(phone_list)
 
 for i in range(len(phone_set)):
     phone_value[phone_list[i]] = i
@@ -58,6 +59,14 @@ def data_reader(filename, ema, segmentation, laryngograph):
             length_header +=1
         
     data_bytes = file_read[length_header:]
+    #data_header = file_read[:(length_header+1)]
+    #print(data_header)
+    """
+    b'EST_File Track\nDataType binary\nNumFrames 1548\nByteOrder 01\nNumChannels 20\nEqualSpace 1\nBreaksPresent true\nCommentChar ;\n\nChannel_0 ui_x\nChannel_1 li_x\nChannel_2 ul_x\nChannel_3 ll_x\nChannel_4 tt_x\nChannel_5 ui_y\nChannel_6 li_y\nChannel_7 ul_y\nChannel_8 ll_y\nChannel_9 tt_y\nChannel_10 tb_x\nChannel_11 td_x\nChannel_12 v_x \nChannel_13 ****\nChannel_14 bn_x\nChannel_15 tb_y\nChannel_16 td_y\nChannel_17 v_y \nChannel_18 ****\nChannel_19 bn_y\nEST_Header_End\n
+    sensor_we_need = ["li", "ul", "ll", "tt", "tb", "td", "v"]
+    sensor_need_idx = [3, 4, 5, 6, 12, 13, 14]
+    """
+ 
     nb_bytes = len(data_bytes)
     nb_v = int(nb_bytes/4)
 

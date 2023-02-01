@@ -73,7 +73,7 @@ item []:
         intervals [6]:
             xmin = 1.04 
             xmax = 1.13 
-            text = "tʰ" 
+            text = "t" 
         intervals [7]:
             xmin = 1.13 
             xmax = 1.19 
@@ -117,7 +117,7 @@ item []:
         intervals [17]:
             xmin = 1.82 
             xmax = 1.92 
-            text = "ej" 
+            text = "e" 
         intervals [18]:
             xmin = 1.92 
             xmax = 2.02 

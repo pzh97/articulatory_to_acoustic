@@ -101,7 +101,7 @@ item []:
         intervals [8]:
             xmin = 1.9 
             xmax = 2.01 
-            text = "ɝ" 
+            text = "ɚ" 
         intervals [9]:
             xmin = 2.01 
             xmax = 2.06 
@@ -129,23 +129,23 @@ item []:
         intervals [15]:
             xmin = 2.36 
             xmax = 2.41 
-            text = "ɝ" 
+            text = "ɚ" 
         intervals [16]:
             xmin = 2.41 
             xmax = 2.52 
-            text = "fʲ" 
+            text = "f" 
         intervals [17]:
             xmin = 2.52 
             xmax = 2.62 
-            text = "iː" 
+            text = "i" 
         intervals [18]:
             xmin = 2.62 
             xmax = 2.65 
-            text = "ʎ" 
+            text = "l" 
         intervals [19]:
             xmin = 2.65 
             xmax = 2.71 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [20]:
             xmin = 2.71 
             xmax = 2.81 
@@ -165,7 +165,7 @@ item []:
         intervals [24]:
             xmin = 3.07 
             xmax = 3.1 
-            text = "ʔ" 
+            text = "t" 
         intervals [25]:
             xmin = 3.1 
             xmax = 3.18 
@@ -177,7 +177,7 @@ item []:
         intervals [27]:
             xmin = 3.23 
             xmax = 3.27 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [28]:
             xmin = 3.27 
             xmax = 3.36 
@@ -185,7 +185,7 @@ item []:
         intervals [29]:
             xmin = 3.36 
             xmax = 3.46 
-            text = "ɝ" 
+            text = "ɚ" 
         intervals [30]:
             xmin = 3.46 
             xmax = 3.56 
@@ -209,7 +209,7 @@ item []:
         intervals [35]:
             xmin = 3.74 
             xmax = 3.84 
-            text = "kʰ" 
+            text = "k" 
         intervals [36]:
             xmin = 3.84 
             xmax = 3.88 
@@ -225,7 +225,7 @@ item []:
         intervals [39]:
             xmin = 3.98 
             xmax = 4.03 
-            text = "ɪ" 
+            text = "ɹ" 
         intervals [40]:
             xmin = 4.03 
             xmax = 4.12 
