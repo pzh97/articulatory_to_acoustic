@@ -35,14 +35,13 @@ if __name__ == '__main__':
     #(1654242, 23)
     #print(p.shape)
     #(1654242, 1)
-    #print(str(time.time() - tic) + ' s')
     #68.12165307998657 s
     m = np.c_[a, p]
     #m.shape=(1654242, 24)including labels
     indices = np.random.permutation(m.shape[0])
     train_size = int(0.8*(m.shape[0]))
     training_idx, test_idx = indices[:train_size], indices[train_size:]
-    training, test = m[training_idx, :], m[test_idx, :]
+    training, testing = m[training_idx, :], m[test_idx, :]
     #print(training.shape)=(1323393, 24)
     #print(test.shape)=(330849, 24)
     idx_in_columns = [3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 22]
@@ -51,7 +50,7 @@ if __name__ == '__main__':
     #labels_training = labels_training[:, np.newaxis]
     #print(labels_training.shape)=(1323393, 1)
     train_mean = np.mean(train, axis=0)
-    train_std = np.mean(train, axis=0)
+    train_std = np.std(train, axis=0)
     train_zscore = (train-train_mean)/train_std
     #print(time.time()-tic)
     traindata = Data(train_zscore, labels_training)
@@ -74,3 +73,27 @@ if __name__ == '__main__':
         print(f'[{epoch + 1}, {i + 1:5d}] loss: {running_loss / 2000:.5f}')
     PATH = './model.pth'
     torch.save(network.state_dict(), PATH)
+
+    test = testing[:, idx_in_columns]
+    labels_testing = testing[:, (testing.shape[1]-1)]
+    test_mean = np.mean(test, axis=0)
+    test_std = np.std(test, axis=0)
+    test_zscore = (test-test_mean)/test_std
+    testdata = Data(test_zscore, labels_testing)
+    testloader = DataLoader(testdata, batch_size=batch_size, shuffle=True, num_workers=2)
+
+    network = Network()
+    network.load_state_dict(torch.load('./model.pth'))
+
+    dataiter = iter(testloader)
+    inputs, labels = next(dataiter)
+    correct, total = 0, 0
+    with torch.no_grad():
+        for data in testloader:
+            inputs, labels = data
+            outputs = network(inputs)
+            __, predicted = torch.max(outputs.data, 1)
+            total += labels.size(0)
+            correct += (predicted == labels).sum().item()
+    print(f'Accuracy of the network on the {len(testdata)} testdata: {100 * correct // total}%')
+     #print(str(time.time() - tic) + ' s')
