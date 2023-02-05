@@ -61,7 +61,7 @@ item []:
         intervals [3]:
             xmin = 0.37 
             xmax = 0.42 
-            text = "EH1" 
+            text = "EH" 
         intervals [4]:
             xmin = 0.42 
             xmax = 0.53 
@@ -77,7 +77,7 @@ item []:
         intervals [7]:
             xmin = 0.62 
             xmax = 0.68 
-            text = "AH0" 
+            text = "AH" 
         intervals [8]:
             xmin = 0.68 
             xmax = 0.77 
@@ -93,7 +93,7 @@ item []:
         intervals [11]:
             xmin = 0.9 
             xmax = 0.97 
-            text = "IH1" 
+            text = "IH" 
         intervals [12]:
             xmin = 0.97 
             xmax = 1.05 
@@ -105,7 +105,7 @@ item []:
         intervals [14]:
             xmin = 1.13 
             xmax = 1.24 
-            text = "IH1" 
+            text = "IH" 
         intervals [15]:
             xmin = 1.24 
             xmax = 1.27 
@@ -117,11 +117,11 @@ item []:
         intervals [17]:
             xmin = 1.32 
             xmax = 1.43 
-            text = "IY0" 
+            text = "IY" 
         intervals [18]:
             xmin = 1.43 
             xmax = 1.59 
-            text = "AY1" 
+            text = "AY" 
         intervals [19]:
             xmin = 1.59 
             xmax = 1.74 
@@ -129,11 +129,11 @@ item []:
         intervals [20]:
             xmin = 1.74 
             xmax = 1.85 
-            text = "IY0" 
+            text = "IY" 
         intervals [21]:
             xmin = 1.85 
             xmax = 1.95 
-            text = "AE0" 
+            text = "AE" 
         intervals [22]:
             xmin = 1.95 
             xmax = 2.02 
@@ -145,7 +145,7 @@ item []:
         intervals [24]:
             xmin = 2.13 
             xmax = 2.24 
-            text = "AA1" 
+            text = "AA" 
         intervals [25]:
             xmin = 2.24 
             xmax = 2.28 
@@ -161,7 +161,7 @@ item []:
         intervals [28]:
             xmin = 2.42 
             xmax = 2.53 
-            text = "IH0" 
+            text = "IH" 
         intervals [29]:
             xmin = 2.53 
             xmax = 2.75 

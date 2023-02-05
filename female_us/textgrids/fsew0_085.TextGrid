@@ -61,7 +61,7 @@ item []:
         intervals [3]:
             xmin = 0.46 
             xmax = 0.5 
-            text = "IH0" 
+            text = "IH" 
         intervals [4]:
             xmin = 0.5 
             xmax = 0.58 
@@ -69,7 +69,7 @@ item []:
         intervals [5]:
             xmin = 0.58 
             xmax = 0.65 
-            text = "EH1" 
+            text = "EH" 
         intervals [6]:
             xmin = 0.65 
             xmax = 0.76 
@@ -81,7 +81,7 @@ item []:
         intervals [8]:
             xmin = 0.87 
             xmax = 0.93 
-            text = "IH0" 
+            text = "IH" 
         intervals [9]:
             xmin = 0.93 
             xmax = 1 
@@ -93,7 +93,7 @@ item []:
         intervals [11]:
             xmin = 1.08 
             xmax = 1.17 
-            text = "EH1" 
+            text = "EH" 
         intervals [12]:
             xmin = 1.17 
             xmax = 1.26 
@@ -101,7 +101,7 @@ item []:
         intervals [13]:
             xmin = 1.26 
             xmax = 1.35 
-            text = "ER0" 
+            text = "ER" 
         intervals [14]:
             xmin = 1.35 
             xmax = 1.44 
@@ -109,7 +109,7 @@ item []:
         intervals [15]:
             xmin = 1.44 
             xmax = 1.53 
-            text = "IH0" 
+            text = "IH" 
         intervals [16]:
             xmin = 1.53 
             xmax = 1.62 
@@ -125,7 +125,7 @@ item []:
         intervals [19]:
             xmin = 1.81 
             xmax = 1.85 
-            text = "UW1" 
+            text = "UW" 
         intervals [20]:
             xmin = 1.85 
             xmax = 1.89 
@@ -133,7 +133,7 @@ item []:
         intervals [21]:
             xmin = 1.89 
             xmax = 1.97 
-            text = "IH0" 
+            text = "IH" 
         intervals [22]:
             xmin = 1.97 
             xmax = 2.06 
@@ -145,7 +145,7 @@ item []:
         intervals [24]:
             xmin = 2.1 
             xmax = 2.33 
-            text = "AA1" 
+            text = "AA" 
         intervals [25]:
             xmin = 2.33 
             xmax = 2.36 

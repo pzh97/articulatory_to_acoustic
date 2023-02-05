@@ -61,7 +61,7 @@ item []:
         intervals [3]:
             xmin = 0.64 
             xmax = 0.72 
-            text = "EH1" 
+            text = "EH" 
         intervals [4]:
             xmin = 0.72 
             xmax = 0.79 
@@ -73,7 +73,7 @@ item []:
         intervals [6]:
             xmin = 0.82 
             xmax = 0.85 
-            text = "IH0" 
+            text = "IH" 
         intervals [7]:
             xmin = 0.85 
             xmax = 0.95 
@@ -81,7 +81,7 @@ item []:
         intervals [8]:
             xmin = 0.95 
             xmax = 0.97 
-            text = "AH0" 
+            text = "AH" 
         intervals [9]:
             xmin = 0.97 
             xmax = 1.07 
@@ -93,7 +93,7 @@ item []:
         intervals [11]:
             xmin = 1.1 
             xmax = 1.24 
-            text = "AY1" 
+            text = "AY" 
         intervals [12]:
             xmin = 1.24 
             xmax = 1.36 
@@ -101,7 +101,7 @@ item []:
         intervals [13]:
             xmin = 1.36 
             xmax = 1.45 
-            text = "ER0" 
+            text = "ER" 
         intervals [14]:
             xmin = 1.45 
             xmax = 1.55 
@@ -113,7 +113,7 @@ item []:
         intervals [16]:
             xmin = 1.62 
             xmax = 1.66 
-            text = "AH0" 
+            text = "AH" 
         intervals [17]:
             xmin = 1.66 
             xmax = 1.7 
@@ -121,7 +121,7 @@ item []:
         intervals [18]:
             xmin = 1.7 
             xmax = 1.74 
-            text = "AH0" 
+            text = "AH" 
         intervals [19]:
             xmin = 1.74 
             xmax = 1.83 
@@ -133,7 +133,7 @@ item []:
         intervals [21]:
             xmin = 1.87 
             xmax = 1.97 
-            text = "IY1" 
+            text = "IY" 
         intervals [22]:
             xmin = 1.97 
             xmax = 2.04 
@@ -141,11 +141,11 @@ item []:
         intervals [23]:
             xmin = 2.04 
             xmax = 2.14 
-            text = "IY0" 
+            text = "IY" 
         intervals [24]:
             xmin = 2.14 
             xmax = 2.29 
-            text = "EY2" 
+            text = "EY" 
         intervals [25]:
             xmin = 2.29 
             xmax = 2.4 
@@ -153,7 +153,7 @@ item []:
         intervals [26]:
             xmin = 2.4 
             xmax = 2.43 
-            text = "IH0" 
+            text = "IH" 
         intervals [27]:
             xmin = 2.43 
             xmax = 2.5 
@@ -165,7 +165,7 @@ item []:
         intervals [29]:
             xmin = 2.56 
             xmax = 2.65 
-            text = "IH2" 
+            text = "IH" 
         intervals [30]:
             xmin = 2.65 
             xmax = 2.72 
@@ -177,11 +177,11 @@ item []:
         intervals [32]:
             xmin = 2.78 
             xmax = 2.83 
-            text = "IY0" 
+            text = "IY" 
         intervals [33]:
             xmin = 2.83 
             xmax = 2.91 
-            text = "AA1" 
+            text = "AA" 
         intervals [34]:
             xmin = 2.91 
             xmax = 2.99 
@@ -193,7 +193,7 @@ item []:
         intervals [36]:
             xmin = 3.02 
             xmax = 3.06 
-            text = "AH0" 
+            text = "AH" 
         intervals [37]:
             xmin = 3.06 
             xmax = 3.18 
@@ -201,7 +201,7 @@ item []:
         intervals [38]:
             xmin = 3.18 
             xmax = 3.3 
-            text = "IY0" 
+            text = "IY" 
         intervals [39]:
             xmin = 3.3 
             xmax = 3.56 

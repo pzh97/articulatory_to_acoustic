@@ -69,7 +69,7 @@ item []:
         intervals [2]:
             xmin = 0.35 
             xmax = 0.46 
-            text = "AY1" 
+            text = "AY" 
         intervals [3]:
             xmin = 0.46 
             xmax = 0.58 
@@ -77,11 +77,11 @@ item []:
         intervals [4]:
             xmin = 0.58 
             xmax = 0.72 
-            text = "OW1" 
+            text = "OW" 
         intervals [5]:
             xmin = 0.72 
             xmax = 0.81 
-            text = "AY1" 
+            text = "AY" 
         intervals [6]:
             xmin = 0.81 
             xmax = 0.87 
@@ -89,7 +89,7 @@ item []:
         intervals [7]:
             xmin = 0.87 
             xmax = 0.9 
-            text = "IH1" 
+            text = "IH" 
         intervals [8]:
             xmin = 0.9 
             xmax = 0.93 
@@ -105,7 +105,7 @@ item []:
         intervals [11]:
             xmin = 1.15 
             xmax = 1.24 
-            text = "IY1" 
+            text = "IY" 
         intervals [12]:
             xmin = 1.24 
             xmax = 1.38 
@@ -117,7 +117,7 @@ item []:
         intervals [14]:
             xmin = 1.39 
             xmax = 1.49 
-            text = "ER1" 
+            text = "ER" 
         intervals [15]:
             xmin = 1.49 
             xmax = 1.52 
@@ -125,7 +125,7 @@ item []:
         intervals [16]:
             xmin = 1.52 
             xmax = 1.67 
-            text = "ER1" 
+            text = "ER" 
         intervals [17]:
             xmin = 1.67 
             xmax = 1.72 
@@ -133,11 +133,11 @@ item []:
         intervals [18]:
             xmin = 1.72 
             xmax = 1.78 
-            text = "IY0" 
+            text = "IY" 
         intervals [19]:
             xmin = 1.78 
             xmax = 1.83 
-            text = "IH0" 
+            text = "IH" 
         intervals [20]:
             xmin = 1.83 
             xmax = 1.88 
@@ -145,7 +145,7 @@ item []:
         intervals [21]:
             xmin = 1.88 
             xmax = 1.97 
-            text = "AH1" 
+            text = "AH" 
         intervals [22]:
             xmin = 1.97 
             xmax = 2.19 
