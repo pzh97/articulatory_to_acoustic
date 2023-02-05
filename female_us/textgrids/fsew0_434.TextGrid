@@ -53,7 +53,7 @@ item []:
         intervals [2]:
             xmin = 0.38 
             xmax = 0.48 
-            text = "EH1" 
+            text = "EH" 
         intervals [3]:
             xmin = 0.48 
             xmax = 0.56 
@@ -65,7 +65,7 @@ item []:
         intervals [5]:
             xmin = 0.6 
             xmax = 0.66 
-            text = "IY0" 
+            text = "IY" 
         intervals [6]:
             xmin = 0.66 
             xmax = 0.81 
@@ -73,7 +73,7 @@ item []:
         intervals [7]:
             xmin = 0.81 
             xmax = 0.93 
-            text = "AE1" 
+            text = "AE" 
         intervals [8]:
             xmin = 0.93 
             xmax = 0.98 
@@ -85,7 +85,7 @@ item []:
         intervals [10]:
             xmin = 1.08 
             xmax = 1.24 
-            text = "IY1" 
+            text = "IY" 
         intervals [11]:
             xmin = 1.24 
             xmax = 1.28 
@@ -101,7 +101,7 @@ item []:
         intervals [14]:
             xmin = 1.43 
             xmax = 1.54 
-            text = "IY0" 
+            text = "IY" 
         intervals [15]:
             xmin = 1.54 
             xmax = 1.66 
@@ -109,7 +109,7 @@ item []:
         intervals [16]:
             xmin = 1.66 
             xmax = 1.77 
-            text = "EY1" 
+            text = "EY" 
         intervals [17]:
             xmin = 1.77 
             xmax = 1.84 
@@ -121,7 +121,7 @@ item []:
         intervals [19]:
             xmin = 1.92 
             xmax = 1.97 
-            text = "IH0" 
+            text = "IH" 
         intervals [20]:
             xmin = 1.97 
             xmax = 2.04 
@@ -129,7 +129,7 @@ item []:
         intervals [21]:
             xmin = 2.04 
             xmax = 2.17 
-            text = "AO1" 
+            text = "AO" 
         intervals [22]:
             xmin = 2.17 
             xmax = 2.3 
@@ -141,7 +141,7 @@ item []:
         intervals [24]:
             xmin = 2.35 
             xmax = 2.43 
-            text = "AH0" 
+            text = "AH" 
         intervals [25]:
             xmin = 2.43 
             xmax = 2.55 
