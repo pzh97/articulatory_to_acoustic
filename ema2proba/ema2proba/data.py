@@ -13,11 +13,9 @@ from sklearn.neighbors import NearestNeighbors
 from tqdm import tqdm
 
 
-def add_delta_features(X, delta, y, verbosity=0):
+def add_delta_features(X, delta, y):
     nb_smpl, nb_feat = X.shape
-    new_x = X*1
-    if verbosity > 0:
-        print("Adding delta features", flush=True)
+    new_x = X*1    
     for n in tqdm(range(1, delta+1), desc="Delta features"):
         xm1 = np.vstack((np.zeros((n, nb_feat)), new_x[:-n, :]))
         xp1 = np.vstack((new_x[n:, :], np.zeros((n, nb_feat))))
@@ -27,6 +25,17 @@ def add_delta_features(X, delta, y, verbosity=0):
 def class_balance(labels):
     classes = np.unique(labels)
     return {c: labels.count(c) for c in classes}
+
+def data_noise_augmentation(nb_aug, X_train, y_train, sigma_noise):
+    
+    for n in tqdm(range(nb_aug), desc="Data augmentation"):
+        nb_sampl, nb_feat_input = X_train.shape
+        Xaugment = np.hstack((X_train[:,:-1]*(1 + sigma_noise * np.random.randn(nb_sampl, 
+                                                                        nb_feat_input-1)),
+                              X_train[:, -1].reshape(-1, 1)))
+        X_train = np.vstack((X_train, Xaugment))
+        y_train = np.vstack((y_train.reshape(-1, 1), y_train.reshape(-1, 1))).reshape(-1)
+    return X_train, y_train
 
 def data_reader(ema_file, segmentation_file, egg_file, data_dir, parameters):
 

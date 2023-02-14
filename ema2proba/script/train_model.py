@@ -213,6 +213,8 @@ nb_cl = [np.count_nonzero(y == c) for c in cl]
 num_class = len(cl)
 
 if delta > 0:
+    if verbosity > 0:
+        print("Adding delta features", flush=True)
     X, y = ema2proba.add_delta_features(X, delta, y)
 
 print("Normalization...", flush=True)
@@ -225,15 +227,12 @@ X_train, X_test, y_train, y_test = ema2proba.split_data(X, y,
 nb_aug = data_augmentation
 nb_sampl, nb_feat_input = X_train.shape
 if nb_aug > 0:
-    print("Performing data augmentation on training dataset...", flush=True)
-    for n in tqdm(range(nb_aug), desc="Data augmentation"):
-        nb_sampl, nb_feat_input = X_train.shape
-        Xaugment = np.hstack((X_train[:,:-1]*(1 + sigma_noise * np.random.randn(nb_sampl, 
-                                                                        nb_feat_input-1)),
-                              X_train[:, -1].reshape(-1, 1)))
-        X_train = np.vstack((X_train, Xaugment))
-        y_train = np.vstack((y_train.reshape(-1, 1), y_train.reshape(-1, 1))).reshape(-1)
-
+    if verbosity > 0:
+        print("Performing data augmentation on training dataset...", flush=True)
+    X_train, y_train = ema2proba.data_noise_augmentation(nb_aug, 
+                                                         X_train, y_train, 
+                                                         sigma_noise)
+    
 if prop_valid > 0:
     print("Splitting test and validation datasets...", flush=True)
     X_test, X_valid, y_test, y_valid = ema2proba.split_data(X_test, y_test, 
