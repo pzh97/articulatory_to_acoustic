@@ -13,6 +13,17 @@ from sklearn.neighbors import NearestNeighbors
 from tqdm import tqdm
 
 
+def add_delta_features(X, delta, y, verbosity=0):
+    nb_smpl, nb_feat = X.shape
+    new_x = X*1
+    if verbosity > 0:
+        print("Adding delta features", flush=True)
+    for n in tqdm(range(1, delta+1), desc="Delta features"):
+        xm1 = np.vstack((np.zeros((n, nb_feat)), new_x[:-n, :]))
+        xp1 = np.vstack((new_x[n:, :], np.zeros((n, nb_feat))))
+        X = np.hstack((X, xm1, xp1))
+    return X[delta:-delta, :], y[delta:-delta]
+
 def class_balance(labels):
     classes = np.unique(labels)
     return {c: labels.count(c) for c in classes}
@@ -47,7 +58,35 @@ def extract_phones(data_dir):
             phone.append(l)
     phone_set = set(phone)
     phone_list = list(phone_set)
-    return {phone_list[i]: i for i in range(len(phone_set)) }
+    return {phone_list[i]: i for i in range(len(phone_set))}
+
+def merge_phoneme(phoneme_merging, phonemes, labels, verbosity=1):
+    keep = [p.split("-")[0] for p in phoneme_merging]
+    merge = [p.split("-")[1] for p in phoneme_merging]
+    if verbosity > 0:
+        print("Merging phonemes...", flush=True)
+    new_phonemes = [p for p in phonemes]
+    
+    for u, v in zip(keep, merge):
+        if verbosity > 0:
+            print("Mergin " + v + " with " + u + " (keep " + u + ")", 
+                  flush=True)
+        if v in phonemes and u in phonemes:
+            idx_v = phonemes.index(v)
+            idx_u = phonemes.index(u)
+            labels[labels==idx_v] = idx_u
+            new_phonemes.remove(v)
+        elif verbosity > 0:
+            print("One of the phone to merge does not exist => skipping merging", 
+                  flush=True)
+    new_labels = np.array([l for l in labels])
+    for n, p in enumerate(new_phonemes):
+        idx_old = phonemes.index(p)
+        idx = np.argwhere(labels==idx_old)[:, 0].astype(int)
+        new_labels[idx] = n
+    labels = new_labels
+    phonemes = new_phonemes
+    return labels, phonemes
 
 def sample_oversampling(data_mtx, num_class, classes, n_neighbors=5):
     idx = [x for x in range(len(classes)) if classes[x]==num_class]

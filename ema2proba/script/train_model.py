@@ -19,11 +19,11 @@ start = time.time()
 
 parser = argparse.ArgumentParser(description=""""Training articulatory 
                                  to probability model""")
-# parser.add_argument("data_file", metavar="data_file", type=str,
-#                     help="""Path to file containing data (or file containing
-#                     containing a list of data files)""")
-# parser.add_argument("output_file", metavar="output_file", type=str, 
-#                     help="File where to save the model")
+parser.add_argument("data_file", metavar="data_file", type=str,
+                    help="""Path to file containing data (or file containing
+                    containing a list of data files)""")
+parser.add_argument("output_file", metavar="output_file", type=str, 
+                    help="File where to save the model")
 parser.add_argument("-us", "--undersampling", dest="undersampling",
                     metavar="undersampling", type=int,
                     help="""Theshold above which a class will be undersampled 
@@ -71,7 +71,7 @@ parser.add_argument('-model', '--model', dest='model', type=str,
                     default="MLP")
 parser.add_argument('-v', '--verbosity', dest='verbosity', type=int, 
                     metavar='verbosity',
-                    help='verbosity level (default=0)', default=0)
+                    help='verbosity level (default=1)', default=1)
 parser.add_argument('-p', '--test', dest='proportional_test',
                     type=float, metavar='percentage',
                     help='percentage of data for test (default=5%)', 
@@ -99,11 +99,17 @@ parser.add_argument('-al', '--alpha', dest='alpha', type=float,
                     metavar='alpha',
                     help="""L2 regularization term for MLP (default=0)""", 
                     default=0)
+parser.add_argument('-vm', '--voicing_merged', dest='voicing_merging', 
+                    type=int, metavar='voicing_merging',
+                    help="""Decision to keep voicing (default=0, keep voicing)""", 
+                    default=0)
+parser.add_argument('-n', '--normalization', dest='normalization', 
+                    type=str, metavar='normalization',
+                    help="""Style of normalization (default=zscore)""", 
+                    default="zscore")
 
-# data_file = parser.parse_args().data_file
-# output_file = parser.parse_args().output_file
-data_file = "data.h5"
-output_file = "output.h5"
+data_file = parser.parse_args().data_file
+output_file = parser.parse_args().output_file
 undersampling = parser.parse_args().undersampling
 oversampling = parser.parse_args().oversampling
 phoneme_merging = parser.parse_args().phoneme_merging
@@ -121,53 +127,62 @@ data_augmentation = parser.parse_args().data_augmentation
 sigma_noise = parser.parse_args().sigma
 alpha = parser.parse_args().alpha
 loss_function = parser.parse_args().loss_function
+voicing_merging = parser.parse_args().voicing_merging
+normalization = parser.parse_args().normalization
 
-print("Start script")
-print("Input parameters:")
-print("Data contained in file:", data_file)
-if phoneme_merging is not None:
-    print("Merging phonemes:", phoneme_merging)
-else:
-    print("No phoneme to merge")
-if phoneme_delete is not None:
-    print("Phoneme(s) to delete:", phoneme_delete)
-else:
-    print("No phoneme to delete")
-if undersampling > 0:
-    print("Undersampling threshold:", undersampling)
-else:
-    print("No undersampling")
-if oversampling == 1:
-    print("Classes will be oversampled")
-else:
-    print("No oversampling")
-print("Model architecture:", model_architecture)
-print("Number of hidden layers:", len(hdl))
-print("Sizes of hidden layers:", hdl)
-print("Activation function:", activation_function)
-if model_architecture.lower() == "mlp":
-    print("L2 regularization term:", alpha)
-else:
-    print("Loss function:", loss_function)
-print("Number of epochs:", num_epochs)
-print("Batch size:", batch_size)
-print("Number of epochs:", num_epochs)
-if delta > 0:
-    print("Number of delta:", delta)
-else:
-    print("No delta")
-if data_augmentation > 0:
-    print("Number of augmented data set (Gaussian noise):", data_augmentation)
-    print("Added noise standard deviation:", sigma_noise)
-else:
-    print("No data augmentation")
-print("Proportion of test data: " + str(prop_test) + "%")
-if prop_valid > 0:
-    print("Proportion of validation data: " + str(prop_valid) + "%")
-else:
-    print("No validation data set")
-
-print("Results will be stored in:", output_file)
+if verbosity > 0:
+    print("Start script", flush=True)
+    print("Input parameters:", flush=True)
+    print("Data contained in file:", data_file, flush=True)
+    if phoneme_merging is not None:
+        print("Merging phonemes:", phoneme_merging, flush=True)
+    else:
+        print("No phoneme to merge", flush=True)
+    if phoneme_delete is not None:
+        print("Phoneme(s) to delete:", phoneme_delete, flush=True)
+    else:
+        print("No phoneme to delete", flush=True)
+    if undersampling > 0:
+        print("Undersampling threshold:", undersampling, flush=True)
+    else:
+        print("No undersampling", flush=True)
+    if oversampling == 1:
+        print("Classes will be oversampled", flush=True)
+    else:
+        print("No oversampling", flush=True)
+    print("Standardization:", normalization, flush=True)
+    print("Model architecture:", model_architecture, flush=True)
+    print("Number of hidden layers:", len(hdl), flush=True)
+    print("Sizes of hidden layers:", hdl, flush=True)
+    print("Activation function:", activation_function, flush=True)
+    if model_architecture.lower() == "mlp":
+        print("L2 regularization term:", alpha, flush=True)
+    else:
+        print("Loss function:", loss_function, flush=True)
+    print("Number of epochs:", num_epochs, flush=True)
+    print("Batch size:", batch_size, flush=True)
+    print("Number of epochs:", num_epochs, flush=True)
+    if delta > 0:
+        print("Number of delta:", delta, flush=True)
+    else:
+        print("No delta")
+    if data_augmentation > 0:
+        print("Number of augmented data set (Gaussian noise):",
+              data_augmentation, flush=True)
+        print("Added noise standard deviation:", sigma_noise, flush=True)
+    else:
+        print("No data augmentation")
+    print("Proportion of test data: " + str(prop_test) + "%", flush=True)
+    if prop_valid > 0:
+        print("Proportion of validation data: " + str(prop_valid) + "%", flush=True)
+    else:
+        print("No validation data set")
+    if voicing_merging > 0:
+        print("Voiced/unvoiced phonemes are merged. Voicing feature is removed", flush=True)
+    else:
+        print("No Voiced/unvoiced merging", flush=True)
+    
+    print("Results will be stored in:", output_file, flush=True)
 
 if not path.isfile(data_file):
     raise ValueError("Data file " + data_file + " does not exist!")
@@ -178,22 +193,13 @@ else:
         phonemes = [(p[0]).decode("ascii") for p in hf["phonemes"][()]]
     
 if phoneme_merging is not None:
-    keep = [p.split("-")[0] for p in phoneme_merging]
-    merge = [p.split("-")[1] for p in phoneme_merging]
-    new_phonemes = [p for p in phonemes]
-
-    for u, v in zip(keep, merge):
-        idx_v = phonemes.index(v)
-        idx_u = phonemes.index(u)
-        labels[labels==idx_v] = idx_u
-        new_phonemes.remove(v)
-    new_labels = np.array([l for l in labels])
-    for n, p in enumerate(new_phonemes):
-        idx_old = phonemes.index(p)
-        idx = np.argwhere(labels==idx_old)[:, 0].astype(int)
-        new_labels[idx] = n
-    labels = new_labels
-    phonemes = new_phonemes
+    labels, phonemes = ema2proba.merge_phoneme(phoneme_merging, phonemes, 
+                                               labels, verbosity=verbosity)
+if voicing_merging:
+    print("Voicing merging...")
+    phoneme_merging = "P-B T-D K-G SH-ZH S-Z TH-DH F-V".split(" ")
+    labels, phonemes = ema2proba.merge_phoneme(phoneme_merging, phonemes, 
+                                               labels, verbosity=verbosity)
     features = features[:, :-1]
     
 X, y = (features, labels.reshape(-1))     
@@ -206,18 +212,12 @@ cl = np.unique(y)
 nb_cl = [np.count_nonzero(y == c) for c in cl]
 num_class = len(cl)
 
-nb_smpl, nb_feat = X.shape
-new_x = X*1
 if delta > 0:
-    for n in tqdm(range(1, delta+1), desc="Delta features"):
-        xm1 = np.vstack((np.zeros((n, nb_feat)), new_x[:-n, :]))
-        xp1 = np.vstack((new_x[n:, :], np.zeros((n, nb_feat))))
-        X = np.hstack((X, xm1, xp1))
-    X = X[delta:-delta, :]
-    y = y[delta:-delta]
-  
- 
-X, scaler = ema2proba.normalization(X)
+    X, y = ema2proba.add_delta_features(X, delta, y)
+
+print("Normalization...", flush=True)
+X, scaler = ema2proba.normalization(X, norm=normalization)
+print("Splitting train and test datasets...", flush=True)
 X_train, X_test, y_train, y_test = ema2proba.split_data(X, y, 
                                               test_size=(prop_test+prop_valid)/100, 
                                               random_state=42)
@@ -225,6 +225,7 @@ X_train, X_test, y_train, y_test = ema2proba.split_data(X, y,
 nb_aug = data_augmentation
 nb_sampl, nb_feat_input = X_train.shape
 if nb_aug > 0:
+    print("Performing data augmentation on training dataset...", flush=True)
     for n in tqdm(range(nb_aug), desc="Data augmentation"):
         nb_sampl, nb_feat_input = X_train.shape
         Xaugment = np.hstack((X_train[:,:-1]*(1 + sigma_noise * np.random.randn(nb_sampl, 
@@ -234,6 +235,7 @@ if nb_aug > 0:
         y_train = np.vstack((y_train.reshape(-1, 1), y_train.reshape(-1, 1))).reshape(-1)
 
 if prop_valid > 0:
+    print("Splitting test and validation datasets...", flush=True)
     X_test, X_valid, y_test, y_valid = ema2proba.split_data(X_test, y_test, 
                                                   test_size=prop_valid/(prop_test+prop_valid), 
                                                   random_state=42)
@@ -245,8 +247,8 @@ if model_architecture.lower() == "mlp":
     clf = ema2proba.create_mlp(hidden_layer=hdl, alpha=alpha, verbose=1,
                    activation=activation_function, batch_size=batch_size,
                    num_epochs=num_epochs)
-else:
     
+else:    
     nb_feat_output = num_class
     nb_epochs = num_epochs
     loss_function = loss_function
@@ -256,18 +258,19 @@ else:
                                   activation_function=activation_function,
                                   loss_function=loss_function)
 
-print("Number of training samples: ", len(y_train))
-print("Number of testing samples: ", len(y_test))
-print("Total number of samples: ", len(y_train) + len(y_test))
-print("Number of samples per phoneme:")
+print("Model architecture initialized", flush=True)
+print("Number of training samples: ", len(y_train), flush=True)
+print("Number of testing samples: ", len(y_test), flush=True)
+print("Total number of samples: ", len(y_train) + len(y_test), flush=True)
+print("Number of samples per phoneme:", flush=True)
 for n, c in enumerate(phonemes):
     print("Phone " + c + ": " + "training=" +
            str(y_train.tolist().count(n)) + ", test=" + 
-           str(y_test.tolist().count(n)))
-print("Number of hidden layer(s): ", len(hdl))
-print("Size of hidden layer(s): ", hdl)
-print("Activation function: ", activation_function)
-print("L2 regularization term: " + "%.2g" %alpha)
+           str(y_test.tolist().count(n)), flush=True)
+print("Number of hidden layer(s): ", len(hdl), flush=True)
+print("Size of hidden layer(s): ", hdl, flush=True)
+print("Activation function: ", activation_function, flush=True)
+print("L2 regularization term: " + "%.2g" %alpha, flush=True)
 
 # clf.fit(X_train, y_train)
 # score = clf.score(X_test, y_test)
@@ -277,5 +280,11 @@ else:
     score = ema2proba.train_encoder(clf, X_train, y_train, X_test, y_test, 
                                     nb_epochs=nb_epochs,
                                     X_valid=X_valid, y_valid=y_valid)[1]
+print("Training complete", flush=True)
 print("Score of classifier:", score)
+
+import pickle
+pickle.dump([clf, scaler, phonemes, score], open(output_file, 'wb'))
+
+
 
