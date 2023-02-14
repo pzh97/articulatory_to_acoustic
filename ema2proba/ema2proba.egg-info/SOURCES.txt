@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+ema2proba/__init__.py
+ema2proba/data.py
+ema2proba/main.py
+ema2proba/model.py
+ema2proba/transcription.py
+ema2proba.egg-info/PKG-INFO
+ema2proba.egg-info/SOURCES.txt
+ema2proba.egg-info/dependency_links.txt
+ema2proba.egg-info/not-zip-safe
+ema2proba.egg-info/requires.txt
+ema2proba.egg-info/top_level.txt
