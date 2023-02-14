@@ -243,7 +243,8 @@ else:
     y_valid = None
     
 if model_architecture.lower() == "mlp":
-    clf = ema2proba.create_mlp(hidden_layer=hdl, alpha=alpha, verbose=1,
+    clf = ema2proba.create_mlp(hidden_layer=hdl, alpha=alpha, 
+                               verbose=verbosity,
                    activation=activation_function, batch_size=batch_size,
                    num_epochs=num_epochs)
     
@@ -278,7 +279,8 @@ if model_architecture.lower() == "mlp":
 else:
     score = ema2proba.train_encoder(clf, X_train, y_train, X_test, y_test, 
                                     nb_epochs=nb_epochs,
-                                    X_valid=X_valid, y_valid=y_valid)[1]
+                                    X_valid=X_valid, y_valid=y_valid,
+                                    verbosity=verbosity)[1]
 print("Training complete", flush=True)
 print("Score of classifier:", score)
 
