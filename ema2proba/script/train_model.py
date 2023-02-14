@@ -130,6 +130,9 @@ loss_function = parser.parse_args().loss_function
 voicing_merging = parser.parse_args().voicing_merging
 normalization = parser.parse_args().normalization
 
+if model_architecture.lower() == 'mlp':
+    prop_valid = 0
+
 if verbosity > 0:
     print("Start script", flush=True)
     print("Input parameters:", flush=True)
@@ -206,6 +209,11 @@ if voicing_merging:
     
 X, y = (features, labels.reshape(-1))     
 
+if delta > 0:
+    if verbosity > 0:
+        print("Adding delta features", flush=True)
+    X, y = ema2proba.add_delta_features(X, delta, y)
+
 if undersampling > 0:
     print("Performing undersampling...")
     X, y = ema2proba.undersampling(X, y, threshold=undersampling)
@@ -213,11 +221,6 @@ if undersampling > 0:
 cl = np.unique(y)
 nb_cl = [np.count_nonzero(y == c) for c in cl]
 num_class = len(cl)
-
-if delta > 0:
-    if verbosity > 0:
-        print("Adding delta features", flush=True)
-    X, y = ema2proba.add_delta_features(X, delta, y)
 
 print("Normalization...", flush=True)
 X, scaler = ema2proba.normalization(X, norm=normalization)
