@@ -26,15 +26,22 @@ def class_balance(labels):
     classes = np.unique(labels)
     return {c: labels.count(c) for c in classes}
 
-def data_noise_augmentation(nb_aug, X_train, y_train, sigma_noise):
-    
+def data_noise_augmentation(nb_aug, X_train, y_train, sigma_noise, 
+                            isVoicing=True):
+    copy_x = X_train * 1  
+    copy_y = y_train * 1
     for n in tqdm(range(nb_aug), desc="Data augmentation"):
         nb_sampl, nb_feat_input = X_train.shape
-        Xaugment = np.hstack((X_train[:,:-1]*(1 + sigma_noise * np.random.randn(nb_sampl, 
-                                                                        nb_feat_input-1)),
-                              X_train[:, -1].reshape(-1, 1)))
+        if isVoicing:
+            Xaugment = np.hstack((copy_x[:,:-1]*(1 + sigma_noise * np.random.randn(nb_sampl, 
+                                                                            nb_feat_input-1)),
+                                  copy_x[:, -1].reshape(-1, 1)))
+        else:
+            Xaugment = copy_x*(1 + sigma_noise * np.random.randn(nb_sampl, 
+                                                                 nb_feat_input))
+            
         X_train = np.vstack((X_train, Xaugment))
-        y_train = np.vstack((y_train.reshape(-1, 1), y_train.reshape(-1, 1))).reshape(-1)
+        y_train = np.vstack((y_train.reshape(-1, 1), copy_y.reshape(-1, 1))).reshape(-1)
     return X_train, y_train
 
 def data_reader(ema_file, segmentation_file, egg_file, data_dir, parameters):

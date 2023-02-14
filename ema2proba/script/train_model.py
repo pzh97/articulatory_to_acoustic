@@ -195,12 +195,14 @@ else:
 if phoneme_merging is not None:
     labels, phonemes = ema2proba.merge_phoneme(phoneme_merging, phonemes, 
                                                labels, verbosity=verbosity)
+isVoicing = True
 if voicing_merging:
     print("Voicing merging...")
     phoneme_merging = "P-B T-D K-G SH-ZH S-Z TH-DH F-V".split(" ")
     labels, phonemes = ema2proba.merge_phoneme(phoneme_merging, phonemes, 
                                                labels, verbosity=verbosity)
     features = features[:, :-1]
+    isVoicing = False
     
 X, y = (features, labels.reshape(-1))     
 
@@ -231,7 +233,8 @@ if nb_aug > 0:
         print("Performing data augmentation on training dataset...", flush=True)
     X_train, y_train = ema2proba.data_noise_augmentation(nb_aug, 
                                                          X_train, y_train, 
-                                                         sigma_noise)
+                                                         sigma_noise, 
+                                                         isVoicing=isVoicing)
     
 if prop_valid > 0:
     print("Splitting test and validation datasets...", flush=True)
