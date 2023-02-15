@@ -1,9 +1,0 @@
-**/maedeep.egg-info/
-**/.pytest_cache
-**/maedeep/__pycache__
-**/maedeep/dnn/__pycache__
-**/maedeep/parametric/__pycache__
-**/maedeep/linear/__pycache__
-**/tests/__pycache__
-**/dist
-
