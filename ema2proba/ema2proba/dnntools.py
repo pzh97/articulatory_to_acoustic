@@ -11,6 +11,7 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import ConfusionMatrixDisplay
 import keras
 from keras import layers, models, regularizers
+import numpy as np
 
 def normalization(X, norm="zscore"):
     if norm == 'zscore':    
@@ -23,7 +24,8 @@ def create_mlp(hidden_layer=(100,), alpha=0.1, verbose=1, activation='relu',
                solver='adam', batch_size=32, num_epochs=200):
     return MLPClassifier(hidden_layer_sizes=hidden_layer, alpha=alpha, verbose=verbose, 
                         activation=activation, solver=solver,
-                        batch_size=batch_size, max_iter=num_epochs)
+                        batch_size=batch_size, max_iter=num_epochs,
+                        early_stopping=True)
     
 def split_data(X, y, test_size=0.1, random_state=42):
     return train_test_split(X, y, test_size=test_size,
@@ -31,6 +33,12 @@ def split_data(X, y, test_size=0.1, random_state=42):
 
 def train_mlp(clf, X_train, y_train, X_test, y_test):
     clf.fit(X_train, y_train)
+    if clf.n_iter_ == clf.max_iter:
+        clf.warm_start = True
+        while np.mod(clf.n_iter_,clf.max_iter) == 0:            
+            clf.fit(X_train, y_train)
+            print("Number of iterations:", clf.n_iter_)
+            print("Max iteration:", clf.max_iter)
     return clf.score(X_test, y_test)
 
 def train_encoder(clf, X_train, y_train, X_test, y_test, nb_epochs=10,

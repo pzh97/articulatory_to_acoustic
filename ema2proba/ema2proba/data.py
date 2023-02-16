@@ -83,12 +83,12 @@ def data_noise_augmentation(nb_aug, X_train, y_train, sigma_noise,
     for n in tqdm(range(nb_aug), desc="Data augmentation"):
         nb_sampl, nb_feat_input = X_train.shape
         if isVoicing:
-            Xaugment = np.hstack((copy_x[:,:-1]*(1 + sigma_noise * np.random.randn(nb_sampl, 
+            Xaugment = np.hstack((copy_x[:,:-1] + sigma_noise * np.random.randn(nb_sampl, 
                                                                             nb_feat_input-1)),
-                                  copy_x[:, -1].reshape(-1, 1)))
+                                  copy_x[:, -1].reshape(-1, 1))
         else:
-            Xaugment = copy_x*(1 + sigma_noise * np.random.randn(nb_sampl, 
-                                                                 nb_feat_input))
+            Xaugment = copy_x + sigma_noise * np.random.randn(nb_sampl, 
+                                                                 nb_feat_input)
             
         X_train = np.vstack((X_train, Xaugment))
         y_train = np.vstack((y_train.reshape(-1, 1), copy_y.reshape(-1, 1))).reshape(-1)
