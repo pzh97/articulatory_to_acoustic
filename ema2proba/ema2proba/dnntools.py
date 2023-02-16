@@ -13,7 +13,6 @@ import keras
 from keras import layers, models, regularizers
 
 def normalization(X, norm="zscore"):
-    norm = "max"
     if norm == 'zscore':    
         scaler = StandardScaler()
     elif norm == 'max':
