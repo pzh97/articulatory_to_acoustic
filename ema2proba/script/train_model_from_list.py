@@ -173,7 +173,8 @@ if verbosity > 0:
     if data_augmentation > 0:
         print("Number of augmented data set (Gaussian noise):",
               data_augmentation, flush=True)
-        print("Added noise standard deviation:", sigma_noise, flush=True)
+        print("Standard deviation of the additive Gaussian noise:", 
+              sigma_noise, flush=True)
     else:
         print("No data augmentation")
     print("Proportion of test data: " + str(prop_test) + "%", flush=True)

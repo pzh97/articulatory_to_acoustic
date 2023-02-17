@@ -84,8 +84,8 @@ def data_noise_augmentation(nb_aug, X_train, y_train, sigma_noise,
         nb_sampl, nb_feat_input = X_train.shape
         if isVoicing:
             Xaugment = np.hstack((copy_x[:,:-1] + sigma_noise * np.random.randn(nb_sampl, 
-                                                                            nb_feat_input-1)),
-                                  copy_x[:, -1].reshape(-1, 1))
+                                                                            nb_feat_input-1),
+                                  copy_x[:, -1].reshape(-1, 1)))
         else:
             Xaugment = copy_x + sigma_noise * np.random.randn(nb_sampl, 
                                                                  nb_feat_input)
@@ -215,7 +215,7 @@ def merge_phoneme(phoneme_merging, phonemes, labels, verbosity=1):
     
     for u, v in zip(keep, merge):
         if verbosity > 0:
-            print("Mergin " + v + " with " + u + " (keep " + u + ")", 
+            print("Merging " + v + " with " + u + " (keep " + u + ")", 
                   flush=True)
         if v in phonemes and u in phonemes:
             idx_v = phonemes.index(v)
@@ -242,7 +242,7 @@ def merge_phoneme_strings(phoneme_merging, labels, verbosity=1):
     
     for u, v in zip(keep, merge):
         if verbosity > 0:
-            print("Mergin " + v + " with " + u + " (keep " + u + ")", 
+            print("Merging " + v + " with " + u + " (keep " + u + ")", 
                   flush=True)
         labels = [replace_phone(l, v, u) for l in labels]
         
