@@ -27,7 +27,7 @@ def prepare_file_list(speaker_dir, speaker_id=None):
     
     if speaker_id is None:
         speaker_id = get_random_string()
-        
+    
     list_files = listdir(speaker_dir)
     list_files.sort()
     
