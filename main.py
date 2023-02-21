@@ -1,44 +1,75 @@
 from data import *
 import os
-import time
 import torch
 import torch.nn.functional as F
 from torch.autograd import Variable
 from model import *
 
 if __name__ == '__main__':
-    tic = time.time()
     path = './fsew0_v1.1'
     ema_files = []
-    lar_files = []
+    transcriptions = []
+    phone = []
+    phone_value = {}
+    phone = []
+    time_vec = []
+    matrix = []
+    time_point = []
+    phone_labels = []
+    count_list = []
     for data_file in sorted(os.listdir(path)):
         if data_file.endswith('.ema'):
             ema_files.append(data_file)
-        if data_file.endswith('.lar'):
-            lar_files.append(data_file)
-    transcription= []
-    for grid in sorted(os.listdir('./female_us/textgrids')):
-        if grid.endswith('.TextGrid'):
-            transcription.append(grid)
-    zipped = zip(ema_files, transcription, lar_files)
-    zipped_list = list(zipped)
-    articulatory_data = []
+    for label_file in sorted(os.listdir(path)):
+        if label_file.endswith('.lab'):
+            transcriptions.append(label_file)
+    for ema in ema_files:
+        time_vector, mtx = ema_reader('.', ema)
+        time_vec.append(time_vector) #reference time
+        matrix.append(mtx)
+
+    matrix = np.vstack(matrix)#ema matrix built
+    for transcription in transcriptions:
+        time_max = [] #phone time points
+        labels = []
+        count = 0
+        t, l, count = get_phones_time('./fsew0_v1.1/'+ transcription, time_max, labels)
+        phone.extend(l)
+        time_point.append(t) #time points of phones in each file
+        phone_labels.append(l) #labels for each file
+        count_list.append(count) #count of labels for each file
+    phone = set(phone)
+    phone_list = list(phone)
+    for i in range(len(phone)):
+        phone_value[phone_list[i]] = i
+
+    zipped_list = zip(time_vec, time_point, count_list, phone_labels)
     phonetic_data = []
-    for f, s, l in zipped_list:
-        articulatory, phonetic, time_vec = data_reader('.', f, s, l)
-        articulatory_data.append(articulatory)
-        phonetic_data.append(phonetic)
-    a = np.vstack(articulatory_data)
-    p = np.vstack(phonetic_data)
-    #female_speaker=(834215, 23)
-    m = np.c_[a, p]
+    for tv, tp, c, ls in zipped_list:
+        time_p =  (np.array(tp)).astype(float)
+        output_labels =  build_labels(tv, time_p, phone_value, c, ls)
+        phonetic_data.append(output_labels)
+    phonetic_data = np.vstack(phonetic_data)
+    m = np.c_[matrix, phonetic_data]
+    np.save('data.npy', m)
+"""
+    #column 22nd is the voicing information
+    idx_no_voicing = [3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19]
+    temp = m[:, idx_no_voicing]
+    idx = (argrelextrema(temp, np.less, axis=0)[0]).flatten().tolist() + (argrelextrema(temp, np.greater, axis=0)[0]).flatten().tolist()
+    idx = np.unique(idx)
+    #keep 834190 rows
+    print(len(idx))
+    m = m[idx, :]
     indices = np.random.permutation(m.shape[0])
     train_size = int(0.8*(m.shape[0]))
     training_idx, test_idx = indices[:train_size], indices[train_size:]
     training, testing = m[training_idx, :], m[test_idx, :]
     idx_in_columns = [3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 17, 18, 19, 22]
     train = training[:, idx_in_columns]
+    print(train.shape)
     labels_training = training[:, (training.shape[1]-1)]
+    #print(labels_training)
     train_mean = np.mean(train, axis=0)
     train_std = np.std(train, axis=0)
     train_zscore = (train-train_mean)/train_std
@@ -48,7 +79,7 @@ if __name__ == '__main__':
     network = Network()
     criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.SGD(network.parameters(), lr=0.1)
-    epochs = 2
+    epochs = 10
     for epoch in range(epochs):
         running_loss = 0.0
         for i, data in enumerate(trainloader, 0):
@@ -84,13 +115,4 @@ if __name__ == '__main__':
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
     print(f'Accuracy of the network on the {len(testdata)} testdata: {100 * correct // total}%')
-    print(str(time.time() - tic) + ' s')
     """
-    dataiter = iter(testloader)
-    inputs, labels = next(dataiter)
-    outputs = network(inputs)
-    prob = F.softmax(outputs, dim=1)
-    top_p, top_class = prob.topk(1, dim=1)
-   """
-   
-    
