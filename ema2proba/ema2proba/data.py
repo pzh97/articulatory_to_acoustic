@@ -253,6 +253,15 @@ def read_segmentation_file(seg_file):
     start, end, phone = [[l.split(" ")[n] for l in lines] for n in range(3)]
     return np.array([start, end]).astype(float).T, phone
 
+def remove_phoneme(X, y, phonemes_to_remove, verbosity=1):
+    for p in phonemes_to_remove:
+        if verbosity > 0:
+            print("Removing", p, flush=True)
+        idx = [i for i in tqdm(range(len(y)), desc="removing " + p) if y[i] == p]
+        X = np.delete(X, idx, axis=0)
+        y = np.delete(y, idx).tolist()
+    return X, y
+
 def replace_phone(label, old, new):
     if label == old:
         label = new
@@ -367,6 +376,26 @@ def signal2sound(y, sr):
     sound = parselmouth.Sound(y)
     sound.sampling_frequency = sr
     return sound
+
+def undersampling_phoneme(X, y, phoneme_undersampling, verbosity=1):
+    for p in phoneme_undersampling.keys():
+        
+        nb_smpl = y.count(p)
+        if nb_smpl > phoneme_undersampling[p]:
+            nb_to_remove = nb_smpl - phoneme_undersampling[p]
+            if verbosity > 0:
+                print("Undersampling", p, flush=True)
+                print("Number of samples to remove", nb_to_remove, flush=True)
+                print("Number of original samples", nb_smpl, flush=True)
+                print("Number of predicted samples", phoneme_undersampling[p], flush=True)
+            idx = [i for i in range(len(y)) if y[i] == p]
+            np.random.shuffle(idx)
+            idx_to_remove = idx[:nb_to_remove]
+            X = np.delete(X, idx_to_remove, axis=0)
+            y = np.delete(y, idx_to_remove).tolist()
+            if verbosity > 0:
+                print("Number of remaining samples", y.count(p), flush=True)
+    return X, y
 
 def undersampling(X, y, threshold=None):
     classes = np.unique(y)
