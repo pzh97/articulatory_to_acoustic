@@ -6,14 +6,10 @@ Created on Wed Feb 15 14:36:34 2023
 """
 
 import ema2proba as ema
-from os import path, listdir, environ
+from os import path
 
-from importlib.resources import files
 
-def get_repo_path():
-    return files("ema2proba").parent.parent
-
-data_dir = get_repo_path()
+data_dir = ema.get_repo_path()
 corpus_dir = path.join(data_dir, "ema2proba", "corpus")
 
 lines = []
