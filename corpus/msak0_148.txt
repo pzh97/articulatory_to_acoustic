@@ -1,1 +1,0 @@
-Cyclical programs will never compile

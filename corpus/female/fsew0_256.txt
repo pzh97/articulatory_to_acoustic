@@ -1,1 +1,0 @@
-We apply auditory modelling to computer speech recognition
